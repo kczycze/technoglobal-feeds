@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T18:13:52.986820+00:00",
+ "generated": "2026-11-16T18:14:51.834145+00:00",
  "max_age_h": 30,
  "status": {
   "energetyka/news": 100,
@@ -7,14 +7,14 @@
   "transport/news": 100,
   "kosmos/news": 100,
   "ai-it/news": 100,
-  "budownictwo/news": 100,
+  "budownictwo/news": 19,
   "militaria/news": 100,
-  "nauka/news": 100,
+  "nauka/news": 45,
   "*/komunikat": 100,
   "*/pl": 66,
   "kosmos/instytucja:nasa": 10
  },
- "count": 900,
+ "count": 778,
  "items": [
   {
    "cat": "transport",
@@ -23,14 +23,6 @@
    "source": "100 Mile Free Press",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWlqVzFQQ2RueU9mU2NaN2syTW00Vl9QMEpvWkw2YzVFYkE3YTV1WkttS0FORnZLWjF4MVVISjVIdE8zcTNiMlloQWloV0xkMkd1cXR1b25XWmw3N2RhcVdpSGVVNmtRYkRMQUFMY0t6NUk2S3Vfem1MVVp1cG52eHFmZTVrNmQyV3NNaHZSOWtVT2M1ZXJkMVpmV29TV3g2?oc=5",
    "published": "2026-11-16T18:12:04+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Atlanta City Council to weigh proposals for fixing Moores Mill Road bridge, initiating safety study for city's other bridges",
-   "source": "11Alive.com",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1N0TWdDUEY4SUQ3amtsSXgzdnFZVWpOOG1KbV9xb0tUSGJHc3dWQll0V0NaUDdZc3JaYnR5TVdJTFY2MXZzT3FNUW9waGw2a0lTNnpkV1pBQzZrc1daQXNkNjUyaUdpT1d5OHZxckprTjRHZlQ4Vkc0Tk1RWnJSSndKWlVNX09ZQmtKRHJlUndMM3RoV0JyQzBPZjZQN2k5eVQxVHpacXNVTkFSNk16R3dxakZ2VkJETkxRSzJQeEpkLS0wb0xERW16eXFFSDRaMmV1MDJOcnRxS0Z5Tnc2Y0w4N1FtZEU?oc=5",
-   "published": "2026-11-16T18:10:00+00:00"
   },
   {
    "cat": "nauka",
@@ -97,11 +89,19 @@
    "published": "2026-11-16T18:03:36+00:00"
   },
   {
-   "cat": "nauka",
+   "cat": "kosmos",
    "kind": "news",
-   "title": "CVS Health GLP-1 study finds medical savings fail to offset drug costs",
-   "source": "Beinsure",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcF9lUU5acTNoSDd4Zmt6RE9xN2E3U3VtTWxBcTZUM1VIZ2VSeXRJMUFXaW05ekYtQkF5d1BZcUNXdXR3UHJyaDNRMEZ5MG95V1c4Q0pJaTM2dUl2Wm5tWWxBRnNlRlZHamRxWXZvMUpRRGF4LTVVTE5jSWNwdVhFNVBud0JMNjdXNEJTWEFNLWo4ZVhCdmVFX0xKNEstdw?oc=5",
+   "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "source": "Daily Camera",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJLVNGdjZGekNhUnQyZHZLa0lwVTJIbjUtektycEptQnZuM2VkNnRqXzNWcHJSQi1DZUhPV21OQ1hPYWJFOWlJQVVyOUFLcndWUS1MUDNjVVFkaXhYeFg5eHNvVzNvbkt6MFFzMVF6MjNnaDJvbWt5UlpR?oc=5",
+   "published": "2026-11-16T18:02:47+00:00"
+  },
+  {
+   "cat": "transport",
+   "kind": "news",
+   "title": "D.A. Bragg Announces Sentencing Of Steven Sylvester For Upper East Side Subway Shooting",
+   "source": "Manhattan District Attorney's Office",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFA4eThLaHc4VGtUcGN1OU1wclF4SUdUZnd6dDJaNnpzQmpNclNvXzlMb2x6cG5VRHpya01jMUp6UlQtdEluUC0zUTBNd1g2VzZ0aDEySU1JYnFPcHRxMXB2ek5samRzYUpLNjJPSUtBNWZKa0xEX1Bzb0JPUkZSOFhLbENVQ3NudVhSWXN2RFB4QlNGVTFhWVowLThPLW5mMTQ0UFV1cDJvRFdqTVp2Rg?oc=5",
    "published": "2026-11-16T18:01:40+00:00"
   },
   {
@@ -145,12 +145,12 @@
    "published": "2026-11-16T17:59:49+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "transport",
    "kind": "news",
-   "title": "Concert Photos: Alter Bridge Kept it Classic in Agora Set",
-   "source": "Cleveland Scene",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzNhMDByblJ5UHB0VXFkQVV5N1pyQlBySEdXY0swY0NYYW5xTlZ6bmdzX0pMdEQtT3pGT1NuQnNtMll4cU1iQlV5OXhMVmhaX0ZjbzZOdEtRa205WjZmRXh4UGVnZl8zcWdWY1Raa3d1TnU1cHJSLU03eGZOQUl0cUwyOUU3SFltYmRuZUlQcm1wQmExQVpYUndncHJEenNmRWFF?oc=5",
-   "published": "2026-11-16T17:59:38+00:00"
+   "title": "Yes, you can spread ashes from a cruise ship. Here's how",
+   "source": "Central Oregon Daily",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQajFVbUNBeGpOclVQQWRQeUtENlczWS1xN1VZcnRlUWlGeXhWMVFMLU9fZlBRNV82TmluUE5walB6ZTZQRXI5aEhPc0Z5TUkyclNSSkNXUHdwSW13U1NIeEluZTM4dm82X3ZmUHJhLXRMX0Vwc2s2Slc0LWU1ZDNYV1FwWmdVN3QyOFlkbll1bDFONUxEa0ZnU0VSQ0RSLTZhbWgxSVBZNWgtVkdRYmJUVnl6THhtODFpTDJVRThwZ2VWaEhzSzg0SGhoX1YzelUwcGU3R3JreV9yeEVDMDdLVXVJWjA?oc=5",
+   "published": "2026-11-16T17:59:31+00:00"
   },
   {
    "cat": "transport",
@@ -171,10 +171,26 @@
   {
    "cat": "ai-it",
    "kind": "news",
+   "title": "Data center policy a ‘ubiquitous’ and ‘pressing’ issue for state lawmakers",
+   "source": "The N'West Iowa REVIEW",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYTkySXhtcUw2ZTFxQ3Z4bkNQTzFzMFZqWmROYjhKdHB6QVR0T0o2Q0twbjBIdU1QbE5sUVkxUmxzZWJrTXlsc2VrWjlId096V1hKSTBBTHY1ZGdnYXJzYWdBYlBpTGxHT1pQTFFNV25JOWt6YUdfZWpfVmlfd1MtcWVmaDRXNUlPS1RWX3IxUGlvS3FSMGd5SVhyWmpRWndJQ2F6dUhlT1gxVGNJOUxCaEtaWXZSM1c0MGxXNFhWZnhMYzRFeVQ0d1VMZzFDaWNzTTQzYWZOOUwwZmlnZUQ4?oc=5",
+   "published": "2026-11-16T17:59:00+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "news",
    "title": "Semiconductor Sell-Off Slams TSMC Stock: What Investors Should Know",
    "source": "Benzinga",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcko4NUJiUEt6Z2E0MXZQOVAzQmUtU0U4SlNEdlF3bTF4VW5EWGMtcVh0QUk2eGNuSThxcFVYQjhocGtici0zdDVGUG5WdHR1M3pzM3laNUNZY2lwZktGUE43Z2FpM3BXSWczVlo5T2dDOEJhOVV3d0ZjcTJnekZ5REw3QTR2OHh5ME9HLVREV2dzanF1c3JWbU9XNTRGemhrRHYzZFdNc0JEbTdJZVB0RkVZZWw5QUxMMFpkdEtHeU9UM1VoMVE?oc=5",
    "published": "2026-11-16T17:58:42+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "RRD’s New Material Innovations for Sustainability",
+   "source": "Ink World Magazine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1k2bGpNMXJNbDFhRDFOVlhfVWpFUFc4SGFaYjk0N3h6WUwzWlBXbmtlRUVwM28tRzJuYzVGSXZzOGVIMzZ3cUVjTm92M2ZmcVFUdGYtZDRvd1p5ZWVmb0drcGJKUXljbkg3NHllc0Ffa1NDdmVTNU5Ndkgtd2dUYUhYdzVRWklCZHZ0Wnc3RTdsUXF6UnNFeXJXUFU?oc=5",
+   "published": "2026-11-16T17:58:07+00:00"
   },
   {
    "cat": "transport",
@@ -201,28 +217,12 @@
    "published": "2026-11-16T17:56:45+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Marblehead Connection Bridge To Close For Repairs This Week",
-   "source": "Patch",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUZLM0hnM3oyR25sYlNSbkF5QndUbFJ1ak42QTdVRE5jbTRTUlpMQk0yZ0lrcl9ORktIeHRBdlNwTkZnY1ljMG4zUkR1RXFqWW8zdlA1Q1hmU25BR1RqeUJjRUg1NnBaMHdpNmoyWGNwYUM0dVJkWThROFNwR2J4Z2tJSWpTME5ueGZ5Ri03dU0zaUs10gG2AUFVX3lxTFBOUk56UG4zRGJkZHptZ1hmV3EzVEMzXzJHTF9sQmJ4TjM2ZG9tcS1aYVV1bXphUzFvek5vd241UUJtZ0hjTUtXUU80cDdOMEUtNUlsazV0RU1pMkFpZmVVbXI1enppbUxXMkJPZzJZNl91ZGRVRV81TFVoQUUyb0tpVWMxb0g1VFpkcDBuQ2ZlWmR6TWI2MkpWWEtZVDNDRFB2b29LS09YQXBIbUxIQ2YzZ2k2b3h3?oc=5",
-   "published": "2026-11-16T17:56:13+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "New York picks 10 finalists for upstate new nuclear project -- ANS / Nuclear Newswire",
    "source": "American Nuclear Society",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEM3REM2Rk9QMDQ2UWxBUFFnck1Vd3pEUXJJdXEwemRhbkhKb0tUYzAtSkcyVm11ZzJzZkFvQ1ZXLXN2MUxEcERCcDVlVjNzRXU2b1AxS0ZtZ3lJTTczVnZSMkZ1d2EwbkxZMGh6TEZuMmU0MHQySTF0MnF4YWdOZTl6RVMycmF6bDdfd1V4WFFtaFBzdHRXSkV4NnlsalllWnBsRVhtX0RUbmdaVXc?oc=5",
    "published": "2026-11-16T17:56:02+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Smart Speaker Apps Tie the Most Personal Data to You, Study Finds",
-   "source": "All About Cookies",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iUVYtWVRrbE0xMXZRNjhwUFlQbUNwZy0zanFCY0VQd3RCTHR2bkdCNmJyeEtJdXc4TnktNzJzM0pOUGo1b1k3RENNQ1g5c1czLWpxM1dlUWt4ekF1eHdlZ3NJazBOVDZxaFBF?oc=5",
-   "published": "2026-11-16T17:56:00+00:00"
   },
   {
    "cat": "*",
@@ -257,14 +257,6 @@
    "published": "2026-11-16T17:54:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Key Bridge case: Shipowners’ lawyers could be witnesses, DOJ says",
-   "source": "Maryland Daily Record",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUo4T24yeWo3NWtocFl5RnVXTGszNDNKWUpoaWFJVWZ5eGVGbmNFUnltU3JwRmRkeWQwTFIxcU9LZEp3QmdyVDhfVkFWTmtqMERSVXNGOFU0ZnFiMHJFc3FYRGhaQXNOaldnT1VNRWowOVFnYkROcDVvUEI3RUpUTlpRLTBuNm9FSnc?oc=5",
-   "published": "2026-11-16T17:53:53+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Metra's popular holiday train tickets go on sale today",
@@ -289,12 +281,12 @@
    "published": "2026-11-16T17:52:40+00:00"
   },
   {
-   "cat": "transport",
+   "cat": "militaria",
    "kind": "news",
-   "title": "D.A. Bragg Announces Sentencing Of Steven Sylvester For Upper East Side Subway Shooting",
-   "source": "Manhattan District Attorney's Office",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFA4eThLaHc4VGtUcGN1OU1wclF4SUdUZnd6dDJaNnpzQmpNclNvXzlMb2x6cG5VRHpya01jMUp6UlQtdEluUC0zUTBNd1g2VzZ0aDEySU1JYnFPcHRxMXB2ek5samRzYUpLNjJPSUtBNWZKa0xEX1Bzb0JPUkZSOFhLbENVQ3NudVhSWXN2RFB4QlNGVTFhWVowLThPLW5mMTQ0UFV1cDJvRFdqTVp2Rg?oc=5",
-   "published": "2026-11-16T17:51:49+00:00"
+   "title": "Ukraine installs over 2,200 km of anti-drone protection on frontline roads",
+   "source": "Defensehere",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWcyTXpidm0yelVmMlg1ODJaSEs5cGZiSGpmbm83TlpEZDBjbkF4X2ptZmZuYURNMV9FMWRoYks2eHpZQkR2MkpYcVNnUHZqTHR4Z0VaaVFtUlRiRFcxbXhDMGhGSVJzWnRaby0ycGdUQzc3WkhBSFUtM0h3aU4yMUFMMUtqeVNXM1VQR1RQSS1RbGNCNFJFLTBVTQ?oc=5",
+   "published": "2026-11-16T17:50:05+00:00"
   },
   {
    "cat": "przemysl",
@@ -359,14 +351,6 @@
    "source": "New York Post",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmZNYVlMUWVxMDNxN3Q0VnhPSk1yMUo5R0E0eFlyTUxrX20xLWktYnRiSVRwVjZybUJHU3NNQnJzX0JpTDFpMjhSbnBCeHlINkh3TExyLTNVOWNiaFBpazJZTldfWm9Xdkxra1pwR0lwc1FJRnU5NGFub0RKaUVaMkdER2x4akFoVUdtMGptVmlneUxYaEZJZ3UzNWpjekpyLVM5MFVYbXVBalkyR2hBd0RZUGRfZHdvajNXSm45WHhpMzczTlE?oc=5",
    "published": "2026-11-16T17:47:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "‘Our prayers have finally been answered.’ New Portal North Bridge fully opens to train traffic",
-   "source": "News12 | New Jersey",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3pNdkNsTTJGckVkTUdteFQtSHF4S3hwYk1rc1NnbVF4b3Bpenc2b1FyX1hDdWdpRVZCMzV5YzJNM1E1MGloc010ZExQOUwzYUE4c2Y4TXhFUTN4UzctUS1VWGptaXhJbnN4N0lGaEhiNDB2d2p2TDktZG5WOWVhdmhhYmhQbW1MWXU5Sl9rUkZELWFaYWhMM1JDZ21hbE1wM0JEaGRxWFFWQVE0c0lZdXBXMVk1ZDdITElWQg?oc=5",
-   "published": "2026-11-16T17:46:52+00:00"
   },
   {
    "cat": "energetyka",
@@ -473,28 +457,12 @@
    "published": "2026-11-16T17:40:20+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Jefferson Street Bridge reopens",
-   "source": "Ottumwa Courier",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjloMDNkSXpJOVRBVmJ6Mjg1cHV3UlI2UjUwdThmWktrYVdnSVZDVC1wQlc2dG5wOFlscHl3SHN5QXJBeVpwWmhIbnRUbWJ6WThZdEVWbjJNVDZ0b0NyemRyTGdDYWJCSmpxWnFRdS1RWnN5R0FGZGx4d21mRk9CSlNMck5PWlFwOVR0a2s3d3d2WXNZcGJRc1luR00yNHp6S3RTdk9XOVNXQkRHc3ZsbEFXNXpZcGc0cUtoTEwxOVdORlRVQk9Wag?oc=5",
-   "published": "2026-11-16T17:40:00+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "SpaceX Starship makes historic landing at Texas launch pad after 22 hours in orbit",
    "source": "41NBC News",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0hqaWlnVFpEaTFxeFB6QTNMeG5CN1FCdUFRTVRwU1dLajAtdzlLS2thUHY5YWlDcXp4Q3UybVJoTEhDcVNoSkFxQ0EwU3dqb0xXUzMtbjMxZUdoaC1kU3gybjNWTkRSaFBXQVNNSFhtazBaWF9JYWNfSHZXR0JfN2hvcXI?oc=5",
    "published": "2026-11-16T17:39:46+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Obsidian Mission Critical Launches to Bridge Service Gap for Liquid Cooled Data Centers",
-   "source": "markets.businessinsider.com",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXRKSW00VnluSkRCRmlTREFrd014ODl6MnNUc3MtMGV3MGpxeG5Cd0lOYzdra3h4SVZYeUxrZ3FMTTNZdEIwd3cweGpCTjlRdXF4b2VBX3dSUTJNTy1VZVh5YVpCdjdEeVdTb0FiZTVRa2V5RG1hMmFlZmZ0cklpeEhaQTNaNDVnck1heWVtZTlDYXdtM3VQYWFDTWJCSGYxUE5MWTV2eGx4aW9wXzlpaG9aTmRGMmI2VWd3dUZSeUo0T2dXVl95NzFsdm92ZFdNeXV4LVpReEFuRTRnX3o0?oc=5",
-   "published": "2026-11-16T17:39:27+00:00"
   },
   {
    "cat": "kosmos",
@@ -511,22 +479,6 @@
    "source": "3D Printing Industry",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWpJNzJpWG9xUGNabXp1cjNaNTZreHA0TDQxVWdnRDNFVmpCTmNVYVFNc2ZvTTR4TjYwNzJ3Yng2azFMd0FtWXlKajRSMk5yak1laDYzbS0zSnFvbkZoVk00VkxJYTc0dzNTSXY3STlwdzVScEp3dTBpY3ZycFNnR2doRWdPNTRINVR4SkNadVRBU2lXZDRhYThZNUY0aFZMTWVib1hZSWo4M2FfUmp0aldIWm96eHJiblg3ajBZOXRJNUl0M3dPY0VaRW5ySXUyU0lackhRWGxzQk5wRXIzN21QalIzWVctRDZxTERRM3ktTW9pT2c3dHRXcw?oc=5",
    "published": "2026-11-16T17:39:10+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "US Hyperscale Data Centres Emit As Much Carbon As Denmark Annually, Study Finds",
-   "source": "The 420.in",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTRzMXl1c1JjdkJpanBlSjAzMnZsWEEwV2FwY0ZESWctcF9HU0VZbkVTMV9aMXk2WHVlcTk2S1k1dHVaYUpSNFExSERaRmJGSjN1cHUxWVNhd1MyZDdxSXk5SWpjYllJTFhQVjBwWnNrMnVZYnZ0bkFiU20yc0NWa2g0VDNVU21KMWNjTzN2andGSFNmd2lCd3IydV9wQQ?oc=5",
-   "published": "2026-11-16T17:38:27+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study finds most kids like sharks, but fear grows with age",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlVzdlB0TnpnZnQ2ZU5UNjFrbjlVUm1zUnZfNVBpeGFKa3NVVGFHZmVyeVd6eXRmZ0JwWWNJSVQ5bTNOSWNrQ3VkX1RhRXBod3lmbFpFcjVSNUtWWmotUGVKU1hvMlRhdGY1cGhXMnNBazBqdFFmd0VIUWNleXh1UTZJb2NyWGJVZFExd2VaM20?oc=5",
-   "published": "2026-11-16T17:35:34+00:00"
   },
   {
    "cat": "transport",
@@ -583,14 +535,6 @@
    "source": "TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWVEc2NmVzlGWi1vQlBfcS1FUDA2N3RtTWxJRlh3bDY5enk3NS0xRGNKUnNrTHYtQlJ6Uk1VTFFSYi0xa0h3aXZRN0pHUm1qWlUtaU1MN2tSQnBjLVZXUi1qVnBBcllnWHZoakc1X0U0NmNsVHd2VEEyZ0xXb0ktN0dNVmFrSVdObmZrbnVadmJIQ0diNEJYaDcwUTVmNjkwXzJxVmlyY3BubFpMOE5zUV9CN1VPV2haLUw5bDdGbkxvRFdHcjcyeVBVUXo1RUFfYWNabU01dHJISFVpWDJBanN3ZmdIQQ?oc=5",
    "published": "2026-11-16T17:33:11+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Three cities blindsided by sudden closure of homelessness nonprofit",
-   "source": "Littleton Independent",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjh4WEc3TEFHamNxbUJlcVpxU3F5aUhxZTRFczkwSElTX21VUXhmcW9UZXZTYTdiSDhGNVpRUXhFbDAxbUlRNnQtTjlyZDlrNU5wTkd4Vm5sbE1wdERoUUpOTTdSVTNJbklxUWdmZE45a3R1UnpkT1FYenZnLUJyZzNicmVaOUh2V3ZZU09CWnYyZUFCSzRDRmY5bGZCTDhtdk56dDZ0WEpEallhV2hYY3hiLUQ4Xzdad1oyQ3d5VThfdlhJTjRnaWYzcHhXZWg1NjZSZXFNWi11dk9OWVhFVnZ3ZV9mMkk?oc=5",
-   "published": "2026-11-16T17:33:00+00:00"
   },
   {
    "cat": "transport",
@@ -697,28 +641,12 @@
    "published": "2026-11-16T17:28:34+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Lake Michigan plastic waste coming from miles away, study finds",
-   "source": "FOX 32 Chicago",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6b283TTFUcDZhdTBwZTNKQjl2b1V5bkptM1doU0ltbjRhTlNPcUxsSXlGR2VxU2tza3IzT1M1ejJmOUlmQTFKYmo2dGhQSlJKSHAwRDVtZ29GX19VbFhZM3lyYlBwUdIBa0FVX3lxTE5VM3dmeW9pQXFoRTkycVJBb0pPd3hkcm16Y3hwV1VaUzV3ZzFMeGJLQndqTS1jamtBUWRQZDhlTjVET1REYXFOSEhLM3pwWkhuLVlRSS1EalliZnZZWlFkamdqVDRwRlFLMXRz?oc=5",
-   "published": "2026-11-16T17:28:15+00:00"
-  },
-  {
    "cat": "przemysl",
    "kind": "news",
    "title": "Hitachi Energy Inaugurates Expanded Transformer Factory",
    "source": "the Electrical Distributor magazine",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkxlUldmUEVpSGowamstSEpsVkpmMzMwT1Y5RzBiOTlvcDNyWGoxSFpfVTdGak1Qd3lpa3R3ZHRQWVNPUHdUVWRSMlV1MmRPakpBOWowb2FIZGdEUmVkaDltMEtMTjlPbzBhNUVlWHFMTTJfX20xQUY3TnJGOGxUZg?oc=5",
    "published": "2026-11-16T17:27:37+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Denver starts $12.7M National Western Center pedestrian bridge",
-   "source": "Railway Supply",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVlkeDE2Q1Z1cDNVS3NTY1hoWXdyNHR5aUlvOTJVUFpxbWpNb0R1bXdzcERnQ0JDUUpfQXRvaUNxQlFEbGo4NTZoRU5JQzA4Sy1hc19jRjhKRm1YYU5HSG9xcVUyTkVLY1NobDlFeV95WjlyaWZ3c3pEQng3UWpGa1RSQTJjSFI5eExHTnhURDNzeVk?oc=5",
-   "published": "2026-11-16T17:27:04+00:00"
   },
   {
    "cat": "militaria",
@@ -751,22 +679,6 @@
    "source": "TVP World",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVJEUDZVc3RpRm1raEVFNWttUU1lMkpZblk5c2tNM0pWbkNBNUwweHFKM2NjWno0NW1jeElfTFQ1Q0ZBaEpaUFhPajNSRGticHZFQnhYYkh5dWhmdlhmRlpGY2VZdkVna2lQcG1ZLTN5eWlabF9OWk5LWlVKWjlnak5tUU1EZXpYVnBzMWJvUzJuSms?oc=5",
    "published": "2026-11-16T17:25:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "The Macallan Showcases Christmas Tree At Four Seasons Tower Bridge",
-   "source": "The Whiskey Wash",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSktkemZVRHBESzRMdkVGRUk4a2JuQk9KWkp3ZE5sWGRNbkR6djB1c2U2RUZIWW5LME1oeUh1emJIX2stbmEyem5XQ19oVDRud2FxRWdmaTU5OEN0R3dkcWtIYW5VUlVhNElNRndXbkZlQzZXWTBGdU1CejkwR3NmUmU1UzF6MkMyTGRCbG1jT1p6WkhuS0Q0ZnFtZDdwMEpaWWJQYjNEQ20xc2c?oc=5",
-   "published": "2026-11-16T17:24:25+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-   "published": "2026-11-16T17:24:04+00:00"
   },
   {
    "cat": "kosmos",
@@ -825,14 +737,6 @@
    "published": "2026-11-16T17:22:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds Retail Discount and Loyalty Programs Popular with Shoppers, Delivering $1500 a Year",
-   "source": "StreetInsider",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORXd2RVg4UGd6V1VlRjFuQllsSmRFakFFUThJU0tDTTBxYXVKY2ZhTWx5bVI2VDJKemdmLWNkQjFSVnBsVzBqUWk2QVZ4Q3M3bTV6Z2xvWGN0N1dfTENuZ0FLRDQ1NXZoVG5xa1JobERQY09JNG05MFJFc2ZWbFpfcFpDT3JoejdzX0liQVQySG9LR3NvOVI3c2Vpd3pCSEw2VFAwOHdRQ21aNnd3ZkxhR2RiZldyQ3ZibEVVNlpSRWF3SF9ORnRHcXhBN3ZvMks2WEh0aVRpOVJzdHh6U1hzVkhvVHpYQ0ZRM3c?oc=5",
-   "published": "2026-11-16T17:21:29+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Oklo Signs HALEU Fuel Deal with Centrus Energy for 1.2 GW Ohio Nuclear Project",
@@ -863,14 +767,6 @@
    "source": "Scripps News",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkhJRmF6YXJEVzBoR1lieTBKYzNjc25yQTNybUEzQlJnOVNDWk5lWjFCXzFEX0NmTHFsTEJPNEl5UkpqOG5jaC0xdUI5dERjaXJPWUFKQWtoaGdtLU5GbDNKY2JWNzNTUUx6RUlwcldGTDFyazQ4ZHFCeVJVZDRfV1pNbzBtaEVPMUZMZkpNZWswLUQ4OWd4Tzhkdk9FUm9tWC1TLVVOb21VdFc2N0RYOUZ6R3RwT0FBWnJBSHY5NnhrUUg3UEE?oc=5",
    "published": "2026-11-16T17:19:25+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Section of Winchester Pike to close for more than a year for bridge repairs",
-   "source": "10tv.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWN3dzFMaDU5MC1xcGRhbTBQLUw3YnRBa2N1YTdicUNBLVl3dllkcDVMak1KOTVnWndrSVBGX1Q0NWpmbmg5SjRZajRGQ192QjhDQ1BrY0JGS3ZqWjE4YjB2N21rY0JrSy1BRTl5c29mMFpOVFZEcVdLS2JwVTl5V1pteEdVTUd3SzJkXzFhdVRxY21QSkJWdUJDeWNGelZLcFpobXlNbE5TR2tEWW8xb3R1VjdPTUtFbWVvVXJYRQ?oc=5",
-   "published": "2026-11-16T17:19:00+00:00"
   },
   {
    "cat": "militaria",
@@ -993,30 +889,6 @@
    "published": "2026-11-16T17:14:28+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-   "source": "PBS",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTElQbnhudkdqV19YNm9keTZhbEFhcjhvVklVRE5TNlJtRTVBbHAybkVJTVgzMkVQMkUzUlFCX1R5SkNwNDNxaWlIMDE4am5FWHN3cFJCWTVZYVYtVUNXQ0phajd6OFgwSEl6VHNBVDRCWk5jRzU1U1ZNRWZfODdCQVZQMmpBdlB1R1hxeEpTVTJ1S1dkU2luQ0JPeDY5MlpLT0JpcFRXS0U2dGVKRmFTZTJzMUtZdw?oc=5",
-   "published": "2026-11-16T17:14:11+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Young Men Struggle, but Not Equally, Study Finds",
-   "source": "Mirage News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1EySUdOck0tTUdvRkJhT3UzbEZJZXhiMW9jY0VIeHdhRVctRTNmTWpMb0h3Z2gzb3JjVGtGdVhKNTJfS1VxelVKRC1LLUtWUEljTUtyZ0ViaE5PMmFmX0hzVW9PaEc2ejdoMXlrWHRyT3FZbER3dzdhN0k5REl5RHJjUF8xRWFwcVE?oc=5",
-   "published": "2026-11-16T17:14:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "No More Dead Ends: Schuylkill Swing Bridge opens to walkers and cyclists",
-   "source": "West Philly Local",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazdvYW9FQ2JHeEtyZ0NCVWlrVFBwRnYzNnNSbEUyZDRoLVR6T1BrNFZONlpJZ0ZOdS1qek9mSFNNdmM5Y2dXZUZuUWhvaWRSTDlJaEhaV05xTXlZNHZmWFlIaXF4M1E3bjF4QjFWXzJScWpaN0FlZ3hxLUdXbEpfYUtVbE9oQ3VTTXd5b2N3eFRlaGxzOUwyR0lpU1BkejhWWEhnUTcwNjV5dmdqUDZhQ0p2d2ZyZw?oc=5",
-   "published": "2026-11-16T17:13:56+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "New NASA space suit aims to boost mobility for future astronauts",
@@ -1047,14 +919,6 @@
    "source": "Sports Illustrated",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnZZazJVYmNtMnZuVG5TSmZHNDVveS1uVDRTUzJYb19uYnlEcnNJV3BwYi01R3R5SUNxQVQ3WFF0UnU0dVN0T0taeGhUc0VPSzRaN2hSRUcxM3pYTEpGN1NVaGo2Y2lMM3A5OWF4QUowbGgtdjM2clVBSXlXQnQzeGtuWmtQODVFNWdWVnNNUUlfeldjMG5Gb2lSMkY5NFJNcWhhbjVZVQ?oc=5",
    "published": "2026-11-16T17:11:28+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Health Matters: Study finds Canada's top health concerns are shifting",
-   "source": "Yahoo News Canada",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamUtTGl4cEVHTDNHUXM2MmY4Y3BINElhQVF1X1BqUk9IRzFFX0Q1MzZYbnBtYmZPczkwVUpPQkgtTi1aeVZZYWVJUFVpUGZ5d3VoYzZaeFBLS3BzOU81Nkg0Vk1NdnVvd0xER3hiaVQ4blNLa1ZITENjMFFfQy0tSQ?oc=5",
-   "published": "2026-11-16T17:10:20+00:00"
   },
   {
    "cat": "transport",
@@ -1209,7 +1073,7 @@
    "published": "2026-11-16T17:04:11+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "militaria",
    "kind": "news",
    "title": "Ukraine’s Crimea Bridge Barrage Highlights Global Drone Race",
    "source": "Bloomberg",
@@ -1247,14 +1111,6 @@
    "source": "Easy Reader",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzgtZDBmY29HczJaX0hpaDNUTXd2M2pMU29BWkRtTlVVUDhXNC1SdjlPeHNKMVdFVVpuOXVXeHZmaTc2cXkyZVBodnVEZDBHM3pwZVNVam0wZnVOODRUbG5lY1VXVXZwS2ZIcmlQYWlfZnZTdzc5ZHRYN1N1ZTdNV2dtcWZUR09ZNFEyVEZSTlRNN3lrdmg5c012Zw?oc=5",
    "published": "2026-11-16T17:03:55+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "HIT N MOVE Uses Wind-Tunnel Testing And Live X-Ray Imaging To Develop New Boxing Glove Design",
-   "source": "FightNews",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2h2UFBLQjlxYkNpbVFoRFA0cE5EMDBCXzVLb3F5TFpWWXZXTnNlTkJ0SURJQTNGX093aURndXJndjN0STBaSTJlRjZVdG93ZllEQjJNei1Db3kxLUlJSi1LTzFoeVI3Q09oM05NWHBpUFN5allFdUtnYmpMdERXZG1kNlRUeXBvQ2hHaVJ0TnZsc0NpQUhvbk9UbE4wQld0WVNYbi1mYkFJNEV0SmVRQVhOZHZKQ05YM3ZhcDBHbw?oc=5",
-   "published": "2026-11-16T17:03:29+00:00"
   },
   {
    "cat": "przemysl",
@@ -1350,6 +1206,14 @@
    "title": "Tracking Data Center Drama … With AI?",
    "source": "KQED",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJX0pyV2pVenJtcHZldV9FRzY5V2N5RmZHdEJ4WEJ5WHR2SXRfNmNvYVhSSjNIZkk2bUVxSEdhUXU5S2xhUThfRklVMnV0MTEyUXJJVWpwYkE5a18tdUFCTHBzYWxONzVmQ2c0OFlhSG5RN1JSZUcweQ?oc=5",
+   "published": "2026-11-16T17:00:00+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Physicists test a model of a 26.7-billion-year-old universe without dark matter or dark energy",
+   "source": "NEWS.am TECH",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zXzBLclZqaHMzQUV3a29RclMwWEIwLWF5TDdqSDhQT1hiR1dFdnNRR2FxYWxLa3d5NWYzYWYzdjJJME5GdUR6dA?oc=5",
    "published": "2026-11-16T17:00:00+00:00"
   },
   {
@@ -1521,22 +1385,6 @@
    "published": "2026-11-16T16:50:17+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "New Kent supervisors again decline to fund dam repair",
-   "source": "Daily Press",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1RxTGtjQjA4SlZuMzRZU2IyYmhsaWZCTDB1YmFMUUN5YjRhQVlnVF9PREwtZlo0UmQxWlNFOHBublRNMnc3ekFUYmM0NDVIZWJINlBRRWNkbFRzS1F4MV9Na1gxSk1PUVNYbmJIemw0MFNzNGZoNlhiNkc1c0FWYnNiM2xPV3A3MnZKa3pHdWhUangzX29J?oc=5",
-   "published": "2026-11-16T16:50:09+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Tired of spam calls? These two Texas cities are catching a break, study finds.",
-   "source": "San Antonio Express-News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnVrZDZUeWpVem42cW5XMFlhdFlCcTdrQTJ5cnY3RjNlQmFya1RnSUJuSDFRS0R0NnR1eHNXWHk1NFkwYkdwWUxHazgxRW1ETmFadkJTeFRtcDVaSVZkSWVlYzZpZEpMNFFkNmFFRkRDdDM0Ry05cmRKQ1RfMU5RbVBQc2t3WnFiNm9ORXNXSHFyUC1GMGFEWjJmZ0FLbGNvV1E?oc=5",
-   "published": "2026-11-16T16:49:45+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "SP Motorsports Joins Pirelli GT4 America Grid with Two-Car Porsche Program for 2027",
@@ -1545,28 +1393,12 @@
    "published": "2026-11-16T16:49:25+00:00"
   },
   {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "The Communication Small Satellite Market Is Projected to Grow Rapidly at a 21.5% CAGR Through 2030",
-   "source": "The National Law Review",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0dMUDhhcVZ3ZGpVRlAzNGlCTzA0bTZ5R0V6TEY2TFRNbElNNlJDVHJpalFBMHl6aUVObU5sT2hSOVlGZEh0LTdKbGtuS0JTT2ozV3hKTFgyb1BhdkFGbEtOVk1QRUJmSnJDMnJlQkRlMzBCM01HdUNaUjVidkVtdHpTMWFoekx1RDFzZW9JR3J0NkktN1Y0U09pQzltYk9XZ0t5ekZNcnI2cXNPZlR2UGZZb2JJdlE?oc=5",
-   "published": "2026-11-16T16:49:20+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Metra's holiday train tickets go on sale Monday",
    "source": "Chicago Sun-Times",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlhFd191bkxFUGl4UHJMOHBQSDl5QS0wWFB1M09lNHFNazUtX19BelNCbEUyaktSaVdXWmRCR2E5VEo4bHAyNDJSWlh5NDV0MGRlRlpyWWdGdU90LXlZZm54U3VVWENzODFPTlNKRWFWYUl2blpjb1ZPaHExdjlpVERFaWExUlctUlJ3cnpJTTBKeTRBUFk1R0RXelhwMWY1?oc=5",
    "published": "2026-11-16T16:49:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Mobile native captain remained on bridge as riverboat capsized in New Orleans",
-   "source": "NBC 15 WPMI",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2txQ3NTNTFUc1ljRjVteHk4bk5mWU9sekRZeExHN1lwUnlkMS14RzJJcFlTMzBMR0gzcGZiWVlBeVA3dHBSVXFydTFBblBtbUdtQVJIcVpEM1o0WGhQZmNpUFJKandJRmNVZEVqblNkVEhZajJaZDVpbno2azhoaVJMV0VMdUFDWkthak45NzY0VkpYZE0wQUZxdDI2ODRsUjA4MWtWYXhwaElB?oc=5",
-   "published": "2026-11-16T16:48:59+00:00"
   },
   {
    "cat": "ai-it",
@@ -1599,14 +1431,6 @@
    "source": "UNITED24 Media",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYll1eVFkZGZaZTF3NFhNMjF3TnVmSHFONGR3SzJaVnJILUxVVmlTaVFXYktrRTZoVWQwTHAxSFo3Q3k1RndRTUFqLWYySF95M2YyQVU3RGhXdFJPOWExOVJNd0ZGeGY2aTlqenVOLXJSWGtScDItZVBaVzNSOG5kay1XQ1hhYmNLLVUzRV9rV19lWlNCU0J1dkFGdlpScy1hc2Vsb3NiZHNfdw?oc=5",
    "published": "2026-11-16T16:47:07+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Bridge Technologies Adds Apple ProRes Support to VB440 Probe",
-   "source": "TVTechnology",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnp6Z0w5QWIwVFpzbkYtazc2dXJlTFdGeEpDeHNPeUlXcjhnUktTV0c2cldUSHgzRVgwZVZneldsbW9raGVkQWpBTEpZNXFQU25VQno0VnNidi0xRGVkTEN2dkwwX081bTJZVGFpdzNlR0hXdy1KOTFrOFJCcGZic2RNWXZJNEQwRlpDemk5ZGJkdFN3NnJScWN6a1hPckJaVnBZNUpvbHNQalJvQ1h0cnpkSzluZw?oc=5",
-   "published": "2026-11-16T16:46:40+00:00"
   },
   {
    "cat": "kosmos",
@@ -1649,14 +1473,6 @@
    "published": "2026-11-16T16:43:07+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Iran built hundreds of dams to supply secret missile bases, researchers suspect",
-   "source": "Ynetnews",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KUER1emw2TFFaR2VIWGhSbExPbHota3hQY2pKSDZ6X2N4Q3lQdWJVSUZQMHRxcVF4YXY0V2JaVzM1Z2w3ODZQemRjVnFhUmw3eFdid00zOA?oc=5",
-   "published": "2026-11-16T16:42:44+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Trump administration moves to close AI chip loophole before China trip",
@@ -1673,22 +1489,6 @@
    "published": "2026-11-16T16:41:17+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Details on 2 Hempfield bridge replacement projects available online",
-   "source": "TribLIVE.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXE4WWVLemlTaExCeUJESEpJMkpubkNDWlJrY0hQdkh0YVhKT0toTWZxYThXNzZ2cGVIU2VYekFQY1RQMmtqV3lNNGZZTmVhaUV1WFRxUmp5YnFETEZCZ18tYWpvbkJnOXdhUWlHclkzeFF5Z3A5bm80NzRRMlN1Sk5JcVZLRlVEWXdxQ3dpUzRnNEgzSHJNbnVuS2hMV1N1UVJzRm85bE9oVVFu?oc=5",
-   "published": "2026-11-16T16:40:55+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Bridge Beat",
-   "source": "www.pineisland-eagle.com",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wNlQ2UnVZYXZoUlpDT09nVmpSTG5PWTU4cGozR3l5NVZFSFdqSjJ0a1hvTm1mNTRzNVNncjAtdXRBcWRFSUYzLWgwUHl0YlV4SmJCX2R5cWs3bS01cTdZblBzZjlDVmtCeXh6Q3puVQ?oc=5",
-   "published": "2026-11-16T16:40:51+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "Rocket Moving Unveils New Los Angeles Brand Campaign Inspired by a Decade of Moving Experience",
@@ -1703,14 +1503,6 @@
    "source": "Phys.org",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmY2dnTThiRFFRUThCWUxBUDNOekhTcDhBOWVyQzRpRU1DRS1hcG5pdTZKZk1vM1dUaWphcXZfV1pGdnNJMjVtTjNxX3ZZemFhbmdNc1gtYTFsN0Y2c0x1T3c4TmVTOGlKdlpVYkZDVDJzb3pSSmc?oc=5",
    "published": "2026-11-16T16:40:01+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Russians claim partial restoration of traffic on Crimean Bridge",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGM2R2dfZ3lraEJNYXNxNjRJRmxLMlc1Vzk2WTF5MFZxTzc0MDBKUEtMNjVSX3NSRGhXUGxFZkNqdTgtS1l6MGQ4VGtScUJaYVpxUVFpalpsNzNOVW1TMU15WTlTZUY5ajBlOVNzZXRkMWowY3dXMnNON3FVejFiMjliSjU2Y0l4NDM0VjlLM3RIUzJ3VmpPUi00T3lkSWcz?oc=5",
-   "published": "2026-11-16T16:40:00+00:00"
   },
   {
    "cat": "przemysl",
@@ -1751,14 +1543,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUXUtVUdxWTI1emNGYXNFMmY5Ty1Nc1pQaVZvZUlIQzU0Snd6Z2xsMGVOSU5INFpxX010anhDdUxjVFZhSW9RVlZ6TWg2T2VMam9HUnhiaVQ2U29zNXJveVdGX3NQMWpnVV83bXZLNHhxX3psR2NPWmZlQnctcHRHUVlfUU9IREFKUFNtTHJDY1FyYUNVQ19kaUVBeDFUUUQ0elpuWW9FV0N6TUJPUS1MQk1EZDBKaXZRanJLRGNNRXZOaHk0a2VVM3FMUzN5MkNkNnY2N2o3cVRjamdVUTFRTFlON3RtWDlhSmd2Q3RJZVptV0NHRlIxaUJXenlfRlk?oc=5",
    "published": "2026-11-16T16:36:39+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Wine and milk featured in Iron Age Menorcan funerary rituals, study finds",
-   "source": "Archaeology News Online Magazine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYThVZG9fR1FHc25hdG9PV1BlNVVxUmdaM0g3OXo4bVdSRGZaQzhmSDdFWW9uUTViWWhEVWJWdDJ2dlZKQ0RaMEVqaDM3c25ncUZDX1hxc18zRHpteW5ydXVYRTVnSk5sSUc3WFVJa0UwNTNGcDFWa2ZVTmx4T3o4d2lTLW0?oc=5",
-   "published": "2026-11-16T16:35:44+00:00"
   },
   {
    "cat": "transport",
@@ -1817,14 +1601,6 @@
    "published": "2026-11-16T16:33:41+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Jenks pedestrian bridge, Aquarium Drive to close for pipeline work",
-   "source": "News On 6",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmQxZGQwaHhnRVltdFBQTVFFeGk1aVNhdEFYRWQ2eVNXak8yMzFSTkhkREROSDlZYmJkZEtiYnRhVG83ek96MUdoRXFJX0dQRkQ4ejlTT21zcnlfRzFXQ3lQdE5HS0dWdFE5ZXl3VnZhVnItMVh3UDVDa28ybUZXTWowZGhfSS1JWVg0X0IwRFI0MmZDYjNEekFNMFh3YUd6?oc=5",
-   "published": "2026-11-16T16:33:25+00:00"
-  },
-  {
    "cat": "przemysl",
    "kind": "news",
    "title": "Securing the Next Generation of Autonomous Warfare: Mobilicom Establishes U.S. Manufacturing Presence Ami",
@@ -1865,6 +1641,14 @@
    "published": "2026-11-16T16:31:22+00:00"
   },
   {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "Bangladesh textile federations threaten indefinite factory shutdown",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG45MHhWVXZHaVNjZHZwdDl5Sll0OEFKNWVrdm5YYUlSRUlITVN3QktHczVOcVNYYmduX2QtVENnM2xZRnVuLThQZVhiUWYzWFl4ZW1UWlJZeVYzZ1dRcXBsYmZZQ3VuOEJubFRkRDV1UW44RE0tWTdqWFVlVXUxeXZ6NUdDS09BRFJKV3JlSFBhMTVxTm1sYUQ1aHgycC03V21md2VLNzNrRGt6azBIdmRuVm0xQQ?oc=5",
+   "published": "2026-11-16T16:31:08+00:00"
+  },
+  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Windsor Twp. data center proposed. Nearly 200 acres near I-69 targeted",
@@ -1879,14 +1663,6 @@
    "source": "Kentucky Lantern",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkRUWTNycEtyRDVWTFhKejlyaHpacGU3OENwcm82aFQwRlNxX1laZk9kT3RIRTVrS3kzQ3FWM05NU3JGR0pWRTdQaWFyUnpWM2EwSEM2N1d2VU42amVaRDBpSXBTZjloSE5CdGZybjVQZk1uX0NNcnBXUzUxc1ZhdUMxNUxwTExuaE53SHZhTUUyZTlvNFJhS3lGbC04Rng2eThmaV9vMGtiZ2o3?oc=5",
    "published": "2026-11-16T16:30:30+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Calhoun Street Bridge Closing On Tuesday",
-   "source": "Patch",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanp2ME85UzdtdmpRalVNTGRCallpSlkzNmVaTHNBWTYtMEFJTDFoamppMmdkSkdNV2pXQTBfbjZTR2wzeXhVRWp6MlRDN3dOSHk2MjhNNkdpQ3h3OFpFcmFIUS1qLWEzRmZaQm1aWWN3UGVVamxXNWpQZ3dhajEyWmNB0gGXAUFVX3lxTE9XV2pxelg3V3EzTmNMV0cxazdxYXBaRUhrSkhkaEx1eEF5aS0tRjcwdlhLMXdjenYwU1QzcW5ieVBFRnE2RFJaYy1aeTNaVE9PcW5oQmoxSVJVaGc5cVA0YVJkVVQyZW9VRkc3MjlmQU5NY3d0T3hIUTA3a2FLVGl4aGlXN1B6dGlSUVJCUzUzVkVOYmdvekU?oc=5",
-   "published": "2026-11-16T16:30:20+00:00"
   },
   {
    "cat": "kosmos",
@@ -1921,28 +1697,12 @@
    "published": "2026-11-16T16:30:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Cities leading in AI see double returns, study finds",
-   "source": "IT Brief New Zealand",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1NMMTU5NnlMVGVFc1RRdk5DTWlsMk5URVNfNnhaNDVkSnM0dThBM2cxOW1INEZNdjZNdjZYYloxbGpJWmdUVVpfZkUzWnNmTnA2S3BEOXRoWjV3NnlHMUVsVmQ0OE1GLWE1SzNsTEN4LWZLbzg0UnN6c2VYZkRQOVRlRXNIZw?oc=5",
-   "published": "2026-11-16T16:30:00+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Iranian Army Shoots Down MQ-1 Drone Over Strait of Hormuz -",
    "source": "WANA News Agency",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDJTRXBBTy1PRWh5NzNKcWtkV2h4LURPTHpGdTNSNlB6Q0R3LVdyLXlIT09melVjTlAxN0hyQ3hqOFRJUTdXSFByWWY2Sm0tOE5oQW9SU3UwMUdfeHJrcG9RSFVzbGh6Z2hEbi1VMm0wMGM1RFRIcXlqeGlJdTVSMDlTRQ?oc=5",
    "published": "2026-11-16T16:29:52+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Israel's Shikun & Binui poised to win $1.3 billion Pennsylvania bridge project",
-   "source": "CTech",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DYWFzbFpOYXpubGR2YXhWa2xLT1ZNMVNtRGJCUEUzc1hmUldReUJwMnZDdlJTZHpaZGNtMzNsV3VpckhJRzNXOHlaQVRaZ3B6QkVwbDItQmhkMmtmUUZkSkJrcXlJcjA?oc=5",
-   "published": "2026-11-16T16:29:00+00:00"
   },
   {
    "cat": "przemysl",
@@ -1959,14 +1719,6 @@
    "source": "Motorsport.com",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHRHREwwZkc0QkhacjM5OVRNYkdwajk2RWFqWE9ic2FFdmViU2J3ajFkX18wNW9ZWE5oazRTT013NS14cHFjTFd5OV9yYng4MC15c0tGVnFlQXk4UHNCSFlPcTBvbzdLQUlHdFllcEtKbmY0WHRuRzFHU1ZsckhOVllpOUtFVnotSFNfUDl1Z3I0ejNyUmRIaWtiX2xlY1B2?oc=5",
    "published": "2026-11-16T16:28:34+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "Estonian drone company targeted in sabotage attempt, part of 'Russia's hybrid war against Europe': PM Michal",
-   "source": "Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR1JzU1JvTzlvVE9BTVowVnduaEVsYVZUN3ZUczgta05FQTZtVlZabk9aYmlQTVYybWZybzB6S3ktM3FqcW5zTWR5cFZhbWJZMmoya2VHSjM5Z0k5WFVydkR1V0k5QWRXdE9UR242blRJcWRBT0phR1FyR0NJanFvYV9XSjFBMmMwTklRMWY4dVFwNGhFWUNlZHZJbkg5dzdFTWNIMWRoa3JtYlRZSWduelZ4RlhpSEQzbTJNTExZYVJ4amF1dzhyYWg1dmlQaXBzdjNOR3lyQlhPRXhWNEpta0RHNlVaU0R1NnFZ?oc=5",
-   "published": "2026-11-16T16:28:28+00:00"
   },
   {
    "cat": "energetyka",
@@ -2049,14 +1801,6 @@
    "published": "2026-11-16T16:23:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Fatal Bridge Tragedy Remains Under Investigation",
-   "source": "LI Press",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mYjlTOVhxOC1iNkJLX0VOb3JPT2dWQi01Zy1Ud2dpdVo4b0JpcEFQN0xzcFE3MW9TbFphYXg1cTBVYkNnYzI1TFZjcDZkSjhjeTRTSWxadmRpMnZRU19KdWNHU3JmcXEwSmJ1VHBaT1g4Zw?oc=5",
-   "published": "2026-11-16T16:22:48+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Military Special Mission Aircraft - Global Market and",
@@ -2105,28 +1849,20 @@
    "published": "2026-11-16T16:19:07+00:00"
   },
   {
+   "cat": "*",
+   "kind": "komunikat",
+   "title": "Obsidian Mission Critical Launches to Bridge Service Gap for Liquid Cooled Data Centers",
+   "source": "GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU1VTbXJiU0hXeUZEXzB0TzZGaFFtZTBIQTFta2hZLVJoZE1aemhzUlpmaEVQMEFMd3ZadUp3bHFBNEpsblk0VE5EUmdsUHlGVWp0eTVSckJNcnhGcWJDU3ZMWjVQRk14V1ZHdVhfcDdrWmVJQnZGbmFSaUVJVUt0QUFLeXdBVU5peU9nNFl4MWhGdUNOb0Y2ci1GMTkzbUI3cndXSnJyM1dKQ1haSlJXYVpCcTJodEFzb1BjNzhLUElOa0xJdmxwa29EV25Sd0hjN0owZERhSFJkeEZOcmFJN050MktXVTlWVjVFV2dGdlQ?oc=5",
+   "published": "2026-11-16T16:19:00+00:00"
+  },
+  {
    "cat": "kosmos",
    "kind": "news",
    "title": "SpaceX’s historic Starship catch strengthens bull case, but analysts await proof of rapid reuse",
    "source": "Seeking Alpha",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWdDYU1xSjBxdlpuRFNJVE1mbWVFcDhYbzFIeEZGdDBidGc3bF9NY2JGSTBpUG5ETkpUbFFPYm9LclJlVXJFRThQX2pTNUNoYkNnT0JjQWhsYzdVbGRNcnFJc2dIZm5YamxpWGtQTHRIMzRBMlI3V3RHU2Q2bDc0Y3o3TWV3ZnRjc0JBUWhxREVYYTRMeUxhMTBDTGw2ZU5LM1VFVTllLUw0bWROS2ZvMWNDNmd0VWtaZ1NuQmhhNzVQSFB6?oc=5",
    "published": "2026-11-16T16:18:50+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Fatal shooting at Captain D’s on Deans Bridge Road marks second nearby homicide in weeks",
-   "source": "The Augusta Press",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkFpVjYzMjdwcG5EQnNLOXllbm5HVXpxZllOMDhSSlViLTh0cUpycWxYVnltRXVGSjdvOWtEZU9LUE5wVEltWWQ4YkNZNEhaeUhyanN6LU5BTVlUMzhmcFZrbDBKNlNRMk9DZVc0THVwUVZ1TmF1YmN0NUxpZ2xYMmx2TXE4RVA3cFdZbmRlUGZ3S2YzWlo3eVRBSkVONG8zbTAzVWxkNmFMRHVkVnlHOGZzZ1JNWVE?oc=5",
-   "published": "2026-11-16T16:18:14+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Warren Buffett says kindness ‘compounds’ as he gifts about $5.5 billion to his family’s foundations",
-   "source": "Orange County Register",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGVxbEhHVGpVRFNoek9CMjlEcldHRWVIejFodDlBRHFTbm5aSFVYRm5SUUU5aUNhN2ZSa2UxMXl3WU9qU09EbW5xR3g3MUJ4MG1FX3FxVndCMVg2akZDQjFqZXR0Ym5YWWd5YWMwRVBNdmhRMHdkdUh1VlBXZXgyYUJMdw?oc=5",
-   "published": "2026-11-16T16:17:59+00:00"
   },
   {
    "cat": "energetyka",
@@ -2143,14 +1879,6 @@
    "source": "Arctic Today",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2ZvV0dTZ1dDZnlKQnF3VEJGbVM3ams3QUoyakNyTzhZdjd3ZThCNTZ5QTFXQUhWVmgzcWJzN1dfY1haU2x4UHBnV19IRU95eUdrTmJzb1dKZWpEeFZ3MzEyOExLSWVmdTNISHhvN1dXNGRFY3B4M1Vvcmp1N0dhMTdFbnd1SHhSWEtGOTIwWWJDLWdKOXFOaHBhU2dtSjczUG9Sb3BTOHI1N2ViTFVfWDhKYWdHZ2dHcEE?oc=5",
    "published": "2026-11-16T16:17:33+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Paraglider Dies After Crashing Into Field | Car Plunges Off Bridge | Shopping Spree For Teachers: IL Weekend",
-   "source": "Patch",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjJMWmc3cW1EYW1vX0I3SkFia3ZMTk45aDN0eU5zNXA4aTgyaFpXOF9mR21xSTFzSkZqVkVsQzdka3FGUTI4bk1lTHBkN24ycHNLRDJYMjVlTVpOT3JhS1FYeEg2YmItSmdDSmpCZ1Y0d1RxR0Jpby1vRXJ6S3lpVzdsVnp2cjBfMFRWZERDS0FKTURkWW1nWVlXYUJVbkRPVEpTdkVFUjYwUXlnWTRUMk90enNianPSAeQBQVVfeXFMUERsMjlfamVOUHdlQ3owYVlqLTdUYUlDRXRfb2c1QUR0RG9aUFM2QXRYQWRlOXdqSWRBOVh5RTZFYktSTndvX2phVWg4TTdFTmtCOGNkaE5oa1hydURERGN4c2p2RUpxRlF5THBYcHh2S1ZYNUprcVo4WVBQWHMtOWVXUWdrWHhlcEZ5SkxYUkhSZ282RVcyRFZ4ZVI4cy1EM3lzdUJrNS1DcUZCWXU2aWs2eTQwNzdBN0NBVGVnUW8xV2w2c29UZG13OG1vTkVtVnhvb29MWWNhV2dFeEVISFhHcVdE?oc=5",
-   "published": "2026-11-16T16:17:22+00:00"
   },
   {
    "cat": "militaria",
@@ -2241,14 +1969,6 @@
    "published": "2026-11-16T16:15:22+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "New Study Finds Bolivia's Madidi National Park Is Home to One of the World's Richest Communities of Bats",
-   "source": "WCS Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc0thQW5RcHV2WEFSSnZKM2wtZFFmMDZldTY3QmhSN1JmZHFVUVFVQ2EyaHIzZEI0SFBpdk45RE0wbW55c21OSm9pRnZmV1FERTlwOEVJNU9fWGlTOW5SeUY1NmFyNFlIU1hxdWs2RjJ1WDhYMHhWVHVQYkE5Tzhuem43SVREdzI0NjRBdXJkNUwzb1dFclk2VjhUYXB3UGk5M1Q1MUFFM2wwdzdBUEVfb29GRDZYM09UQU9wRXZOaGZEdDVBSG5ka2dqVzVBWnNhZnI2c2l5bEg2MFM2SHZySGNwUExSdXZBOF9CMUNOZDdGOF95SHNpNVNGTHFIUXNxNVliYzlWSnhpOUhoX1djSVdPN3A?oc=5",
-   "published": "2026-11-16T16:15:07+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Asheville sets public input sessions on data center rules",
@@ -2297,28 +2017,12 @@
    "published": "2026-11-16T16:13:39+00:00"
   },
   {
-   "cat": "transport",
-   "kind": "news",
-   "title": "Drone strike behind sinking of cargo ship off Bulgaria's coast, maritime security sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUs2NE56Z2hUTXR1OHUtM3RLaUFRdkYzeS1IdkZaV1BfbkM2N29XamhOa2lhUkM2TUxNTkdNY0JyQWQ1LVJ1SlhnbEZHZ1RxSjZOeGp3WXljM0xkd3VyekJHUldSYmd2YlY3NUJjWHpFUkRDc3ZrRXpwN3hha1RrbFRVMjBMdHZVeVJVdzVUdWg4OThDWjJYSXFCUWdsclFLWHVCZFJTSnlEODg?oc=5",
-   "published": "2026-11-16T16:12:19+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Former Fairfield Walmart to reopen as data center campus in 2027",
    "source": "Yellowhammer News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWl96NDZTalhLR1gxUHRlWWFkd0F4bjFpdHBNQXQyM3ozVWpmNEVDUnZVRF91SkdoWlJDRUNmTG8yclk1ZWZ3UjN5dk9zX2hObkFjazdVZk81bWZqQ0dFaElaTE9xREFPekk2ZXl1ei1wdkFyZ0dUVHloZTVOUTc1UWZKT0h3YmRLQUFDYndERFNoUEVoMGlIOFNB?oc=5",
    "published": "2026-11-16T16:08:31+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "eCourtDate Recognized By LegalTech Breakthrough As 2026 'Overall Client Relationship Management Company of the Year”",
-   "source": "The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeHFpWVJ6UUFfSS1lNk5mUGNXX19LS25RNzMxN1JqbDJfVHd0RklRR3F5NW4wb3ZRT05CZ2haWUFjNXBsTzhGNFNYNXRNUlFUR3ZKTm94N0NBT3RDdm9JSVpWczlKWEhxRjFCUUVPTGVZSVlZdEEwM0h5NFYyd2JNS0tSak1nMU9XTzY2Y0dyeFlqRFFJcEFpeDRrUHlGeWhNaWRZU1dWRzBmV1ZyZngtY1UtNUdEQzlqRWlIdWM1N3lwVXJSU0hZUmJFeE5UX0hYYmlYWUR1bGpiUHREamNFZkxYT2I5cXZ3QlBhYXdrWklWamMzaEFQZFFHaE5WaXFpdEhQeUJNZU5JMDd5blNoN3Q1VWQtTzjSAZwCQVVfeXFMUGZ6NVFzcVV5cVdEZ0RtVmNnckRVMXVNQ1Vob052RXEzMUxVWFEtM2g2WHF5Rm5YNDg3dFdpVkQ1ajJfZVgwTnpTRGw2MU9rUFcyUGhEdFRmVGJ5VFUxSGExWjl4WmNKYTI4YnY2V1FEWXZ3b0U2c21kdWhqby1raGo4alh5R1d1SE9oWnp2eU9zdV9SeDhiNzVscTVnRmEtRUNZbDJsYmpSR09PVU45SldXNHhmdjdtNm0tcENEc0VGY1ZNU01udUJiVnk0VTdfb2h3OUM5d3pXZDhidWxnZXlnMDFsNFF0YTV6RDVaakhfaHkzTmh0MVRXTlFYR1haTmhKLWlOWTd3aHpkLWFJTUo1OEJLWDNqOHBqODM?oc=5",
-   "published": "2026-11-16T16:08:23+00:00"
   },
   {
    "cat": "przemysl",
@@ -2361,14 +2065,6 @@
    "published": "2026-11-16T16:07:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Harvard study finds 400 US data centers use more electricity than Michigan",
-   "source": "Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmR5dXYzY2lwd1o2aHZiTXEtRjE5Sjd0TU5LZ0Q3cTduU2FBSkJXMzhlTk02NVhobEVmenEwQTVQXzhxdEdCM09fSXljajc5U3laYWZIb1JYTmJGV3dwcnZoR3BfcmFCaGVwN0R0VVBfMUdUM05sM1dJMm8tQ1FWTQ?oc=5",
-   "published": "2026-11-16T16:06:04+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Environmental group urges feds to reject Columbia County data center",
@@ -2383,6 +2079,14 @@
    "source": "Patch",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1ZFb05wUDNxSGJSMzJXa1FpOWZhbDNhZGRKMGU0VnZyV1VQQ180aTM2R2ZIRnpCOVdnMUxwajBMcmhxSlBERkZoTVlaeGs2WldpNHZlc0tqbjNKTEg0TTFPdUpWWXNsVy1MdU83TXZuRXRiLUFqQjM3cVlwR1NOS3pub3g4VlNnVGszaXp2U2tiQdIBowFBVV95cUxNMUEwMkpONk4wYVEwcXZ2WC1OQWdsbUJfMFgwR2tKQmxCdWxxWXhlWkh1Rmlqd3dQbHJrVmZjMExLb19OeWJ2RlpKbWFWeFdqdjY1U193ZGpycW5lQTFmajZuejZGdThkalF1WjhwanhJaFJNdjFyNnlKUHNMUEJob2dnZzJyOVZuUGppX3JSZGFYNUlBbWFYRGhQUUJCbEhsWjdV?oc=5",
    "published": "2026-11-16T16:05:08+00:00"
+  },
+  {
+   "cat": "energetyka",
+   "kind": "news",
+   "title": "California homeowner urged to cut battery reserve to 20% after drawing grid power at peak rates",
+   "source": "The Cool Down",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGxqeUpnWDBYM3FmclA5SDRCTzQ1S2xEXzFibVowLUF5anVQUTNocU1BSUFHbmk3WHRDY2RpQXMxTGhYM0xUc1k3STZVaGQxaEdqZjY1amZuQ3I5Q1oxQW1BRnN1Mk1XaVdhZVVIRHN3cGFzQWdDWkFYOVlUaW1KcE53aDkxdGp3eFdkSGxfU1o?oc=5",
+   "published": "2026-11-16T16:05:00+00:00"
   },
   {
    "cat": "transport",
@@ -2401,28 +2105,12 @@
    "published": "2026-11-16T16:04:21+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
-   "source": "NVIDIA Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVZQdUtmWUZoalpDUWVYQWNpdVV0MFdfM3FDWk4xTjFYQjRqZHBXN2hiSUlGR28ySjJPUEx0UUFGR3E1aGc0R1V0Y3R2c1RBVXRQMExSNUV2RVFIb3U2U2dsQm42eW0wTFppQVIxUVFVOVdpT2pabF9XVFl3NWczU1VTcUIzc1VmNC0wOUdfbVYxZGZHTFVIdWRCWklDOGpNeDg5akNBcUlsVEY5cE1KMnBSZG5ITGdrRDNHSjhwTi1DNVNrX1lwazZqUlB5WEJzMFAtQjRXNk1Jc1VKclRTNzcyV2ZGbEd6QUV6RU9ZWk9xV2FDU3ZDd2VBUVdHblBfMGFwUmZ5OGRtUzhTbGpTRFE4dHFvNnltTEZUNnJObHo5Ui1wOTUycDBTcGdDQzJOMVhRVG4yY1d0VUhZOVdNNnlKRDlyeWd5ZnR4VHRBNEhrWWZBMS1J?oc=5",
-   "published": "2026-11-16T16:04:02+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Angry subway rider bites off piece of transit worker’s ear in scuffle on Manhattan train",
    "source": "New York Daily News",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmtsV0RxcTROZVRBd1Z1V3Fjc0s3Q251MUhzbDE0aDZQU2R0cVA0dzhqTkJub0FoUkw4X1hwby1UcXFpRE8zajZNMHJFc2JfNVloZmpvaS1SR2dpWUZMcmZ1cnJCdGptVExWVFhRYVA2RDh2ZUZ6d1N5Mzl2SHRoM0luY3VkSE5wenJUWE01VXdfdjg5WldQOEJzMExPa1VvZ2xYSDRHdFBxVS1WVWZybmlXc29SRjhGU2U3UHlSbGM4aEYyNEE?oc=5",
    "published": "2026-11-16T16:03:29+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Family Caregiving Costs Top $1 Trillion, Study Finds",
-   "source": "AARP",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqNUdLY0tfZXFjdVFKbFFjUXg3M1JiM1VXZ2xlUkVZU0JyYkZrM0I0QmVmNlpPdGRsekxGNGxUaGtsODRSby1GSUs5OXVyQWZXNHU5ZkhKWXZvZXZ4WlZUYlJkd3BRMTdJOWE0ZWNlQS1PSDFJQk96RA?oc=5",
-   "published": "2026-11-16T16:03:05+00:00"
   },
   {
    "cat": "ai-it",
@@ -2518,14 +2206,6 @@
    "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
    "source": "Space",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMXdrTzFGeXlNN1pldUZSNWlmVktUTzZ1VWdhWFJyUFBuaDNSZV9GRzN1Zi1wOGNXUEJvTDUyNmJEYWQ4YlF2NVEtUTZSR2tNejRYX1lxOW5XZVptLVRZS2JoSnZCREowYW9nSGo2SnJDRENKQ3FzU2J1V0NicmZsRDZndTh6dVNtdzdHWHVETkZwNlpDNE9KTHlqMGlhc2NiTFRwbnhFMTFnOHdFZHFMSUNrS0hFdEx3U08tQ0t1bWt5TmdMT0tyaVFjc2QtbFdENjdOQlM5S3ZzZUdEX3ZaZkdsemZUT0FlVElMRk9LTl9UcG5oczFOQVhBM3FMY2gydFQ0bXpzRlhQWEk?oc=5",
-   "published": "2026-11-16T16:00:00+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fM0VESXpiWlRJekV6YWRWaVJGWmF4Z1Fjd2tWTld2djYxSUFMX0tVT3hfS1JqdXdyaXl6NGtka0JNbFdTMkJqNVIxc1JGOHFlNng0TDd1b1ZrMV9tRVYwRnpxTGZrSHR0RVU3X1UyV24tZ3VzalExaXp6bDJlN1k?oc=5",
    "published": "2026-11-16T16:00:00+00:00"
   },
   {
@@ -2665,6 +2345,14 @@
    "published": "2026-11-16T15:53:39+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists discover a giant fungus ‘D-rex’",
+   "source": "theticker.org",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlFnY0tRbnVKRmprTGNEbVF6YWNyYmJTSTRFaHh1SmpfMXZzalNkRThDLTZrX3JfY3BZMF80R1pweGVEb2V1ajBieTB2VmdFYjVuNTdPTVphRE1TakZUSnhMUVo3SDNkbnVCQ3J0WTNZMjJ6d25HTFI1RFJTVXR2dGFrMA?oc=5",
+   "published": "2026-11-16T15:53:30+00:00"
+  },
+  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Hydrogen Passenger Flight Loses Another Backer as Cranfield Quits",
@@ -2695,22 +2383,6 @@
    "source": "DailyDispatch.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUJhdTNPTVQxU3dBMWswdGpyWDJzSE5uNlVKUkxFV3UzaUtIRXJ1SkI2R2lHMERDNlhLQXB3cmFMZEJSdnowQzl1amZKenhPU051Xy1NRTh3bVVGZ0JYdkNOallSMVdYZzRrN1RYNmluQW5tUTdKU19MUkdZWGhYcU1GclhvSExTdG9MbXZmUUhFT1BWY1hYTFdubGpPak9Ud3VPanRSVGMwbElDeEZ5YVZkbjBtY2hv?oc=5",
    "published": "2026-11-16T15:50:12+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Crews rescue 3 people trapped in floodwaters under bridge in Fullerton",
-   "source": "DailyDispatch.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUw5WnF0eGt6VnY5V2pHRTFXVG05UnJPRkxjQVRxMXQwYVhwRjlVRkl0LXZYMmdydEwxRi1lQnJUeUt1eDdpQTBwSmViWEcwVWdlUUt6TERRUXBvVW1wOUFhT3plamxGV3d0SUhjU0pYTVYwSlFrNGIyV0NUeW01N2Y2UHYxcE41WDJJZnFZaVhqOU9OXzFjVV9LTnlRVnVpQWljcm8zMGhDQXQ5OTkwVTd1UjIyRDZsNkE?oc=5",
-   "published": "2026-11-16T15:50:06+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "OrisDX Launches Oro Lesion and Oris Bridge; First and Only Saliva",
-   "source": "The National Law Review",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmxSMDdzRUc0aTJEeWxBckFQVGI2UktSMndxMDNJTjdVUVpmMVZIbmFoa2pzcGpoeGVOX0RpNUlIQ05tU255YkVxdHVreDd1ZThWcnlVNkJFM0lSVklEZXBCNndiX2VabnhMQUE3bVJmQXhrRFlmMG13OUVKWkNzUTJxT3VTWWRnLXpHRFVBazZXalY0TWF4T0VWSWo1V0E3MjlwT05oWkNlb2ZkRWlNeFZFbw?oc=5",
-   "published": "2026-11-16T15:49:52+00:00"
   },
   {
    "cat": "kosmos",
@@ -2785,14 +2457,6 @@
    "published": "2026-11-16T15:46:42+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds",
-   "source": "SciTechDaily",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5",
-   "published": "2026-11-16T15:46:27+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Non-Animal Alternative Testing - Global Strategic Business",
@@ -2817,28 +2481,12 @@
    "published": "2026-11-16T15:45:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Crimean Bridge Hit As Russia Counts 1,336 Ukrainian Drones Overnight",
-   "source": "DroneXL",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSm1xZzRNSWE2NXh6ZzVkLS1ta1hzRE1ybG80enEybVB3MS13cmVHU2tHLS1NMTNETHozeVR4enF3UDVDVVpURU5mdExvYjRsbHY5NE9PdHNYY0VaZjREZGYyQklKcTRVZjhacTl2UmljM194azdPSW5KOUtUNmtmX3hBVGRBdnpkekl6WERzUEY?oc=5",
-   "published": "2026-11-16T15:45:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
+   "cat": "militaria",
    "kind": "news",
    "title": "Ukraine Hits Crimean Bridge in Record Drone Strike on Russia",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2hzM0lRaW9TVDhfRk5xQ0dLZTBjVUh3YTN4T1FpLXlQcm8tUVhFc1RNYlBlMGlNSVljUXdCUVR3RTRZMENFc3NCc2NMZFY5OC1uMjlqd0RfdjZmOXUtUlQ2MFRQVDh4QmJCZmhxWU1Ec0JadmJqMF9PeHgxOXo2T0pDR3Q4ak9RVzdMUUZ3Y0pfM0t1TzBSM2RYQUQ4a1p0MVhGSEJkNXFMQ3p0bjc4RQ?oc=5",
    "published": "2026-11-16T15:44:35+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Manila Digger look to build on PFL breakthrough and make their mark in ASEAN Club Championship",
-   "source": "ESPN",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZXdfOExKQkdySXd0c3ZjYWMxNFl6RFZFM1Q1Zkt2UzVEQ3kyelpvWHBBcXZiaDhyVjM0ai1YWFpDb1lkOW9RaVJUOExCWFd5a1JwQTU0ZjRRMWMtbTVxcDMybjhxX2lnRnNhVExYTDM1aGJHUnM2cmxLWC1oTTFZdDNFTk5xLVVaM3B5WTV6eTJ4a3RKdUhqUnRLQUVRY3dsaDhlNHNlM0p1aXM?oc=5",
-   "published": "2026-11-16T15:43:50+00:00"
   },
   {
    "cat": "przemysl",
@@ -2883,10 +2531,10 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "COVID-19 pandemic disrupted cross-border fertility treatment in Czechia, new study finds",
-   "source": "Medical Xpress",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZQRHdScnlWa0VwWkE4TmFpY293eF9CWDA5MXZ3X00tUHVsX2dBY0hiTk0xdU1YUDVvY1RxY3FIbi1LT3FqNVFxbm9NdERHM19TZnpvVTFQaVNtQ2RqVmt0Sy1JVEdGVHpGc0g1b0lXdDZtcUNMSlVuVTBGUFJfN2tsN1pveU9QNzEwMk1R?oc=5",
-   "published": "2026-11-16T15:40:01+00:00"
+   "title": "Scientists Discover Genetic Switch Behind Primate Brain Evolution",
+   "source": "Luxurious Magazine",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ra01mR293TWJONHNfUzdXTlRMeFhEMGo5VVl4LWdITmFpQjk5OTlQZHlJZGNZWUdtN3FrVU1QaU02eDlLYXdsMF9xODRtSDNzMVNmbVhsa1B0SDhpbXR1QUYxLVhVVl9kYnkw0gFwQVVfeXFMT2tYUzIwUWw3T0NyT1RlUTZEQk54Ul9NT0FfTXdFT1Naa0w4NVRfVVF1bkFGQTlLZGJjZVk4LTBtQnNUWFhJYklwZ1QxOHRmTThuaHlEV29IM0FZS3NWQXlBU1N5OHpPbWN4OGRuSHBsdQ?oc=5",
+   "published": "2026-11-16T15:41:35+00:00"
   },
   {
    "cat": "energetyka",
@@ -2895,14 +2543,6 @@
    "source": "Proactive financial news",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFM5SVJBbDkzZUZlWE5EWmtYRUlTNzJUaGJvNXh0eVRlUVJWVzlFMzE5UkZ5blI0YUticHI2SEJSZ3JKS2t4N1hvY01VdE5GdXYzakdUZXVfOWd6OXM3VGpiZGJhN1d6NzQ5WnZlZzA3c01vcjFRS19WNUFyVS1qQVo0Sk9RbnNxalNuTHViS2s1TW91a3VWRHh2QnhkY0FTeDJHNjc3dVpKcjlDekJCOXJJSGU0MkVZYVhsUzQtVzNMa0Zsa19ReWtVOW1wczEwSUJOd1lQZmlEYzdnNmxHQ0prZ2lqVnpyWHZjMTRjd2RrX3cwTUxLNQ?oc=5",
    "published": "2026-11-16T15:40:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Suno launches Bridge, an app that drops AI stems into Ableton Live",
-   "source": "Music Business Worldwide",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJVdmh5aVN3VkZLUWZ4amhpS0R4QUQyd3ZCcDVQcEJGcjg0WXhXV3kwbEViWHFrTnl0VmdiRHhLSlpkaEJ3bEN0bUlWbkU5MmFsTGRLZ3lFczN5dEIzVmQ0U1dyMlc3YW1GN2VUOE4tY3Y5bWhMRjk4eU9VeHVHVDFPLWpmZkhNa1NGYjlPUXdnUjVfYWtXUEZzWFdOVEQ3R1k3dHZ4bUU?oc=5",
-   "published": "2026-11-16T15:39:49+00:00"
   },
   {
    "cat": "transport",
@@ -2977,20 +2617,20 @@
    "published": "2026-11-16T15:35:02+00:00"
   },
   {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "Why is Taiwan Semiconductor Manufacturing stock tumbling today?",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjdLMF9mOWJpSXhRa3BhSlAzcEs3V1FSTFhMWGZzQ2hsNnBwZ0VWMDZfRVBHNVZ1M3Njak1QUlh2TkxKLVpCVmcwLVNKbk9WOHczbVVqZS12bmJHeENMb2E0c0MxS0VLOV9WVS1QcE5ZZHZ0Zk1MeWh5NFVQbGFRQkdET0thY3JMRTM0b0hPb1FhWVpUZGxid2V2Njg1YnF6dEtZc0ljbzdYM0FlMUJWeGtfRnFrcTNESHZ0aWR5NWZ5UQ?oc=5",
+   "published": "2026-11-16T15:34:25+00:00"
+  },
+  {
    "cat": "energetyka",
    "kind": "news",
    "title": "China Doesn’t Want a Nuclear Arms Race",
    "source": "Foreign Affairs",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zeE5QcnZPQ2dMTEdfblZ1eFFsYlVMejM4dVRzM1BzaXJ3UDdidHA2Q2VZZmgxOEkybzlhVGxQcngxV251aTRKNDJiRTZzRFNwRG1LbG82eEg3eFYtUXFaWTN5OFlzdnM2aEZKUGcyVUFud05GcnBhNzlDdzE?oc=5",
    "published": "2026-11-16T15:33:57+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "As North Korea and China literally build bridges, is Kim Jong Un ramping up to confront the U.S.?",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMV80MGNsZ0pvU3VoZUZ4X1J2VDN6eVpWdnIwU1JwN2dQVXBlZ3ZiQVVHa1VGSWVfN2F4TzAwaWZtMk5WV3RseXNINDk5UENyNVFNUkxlcDVTRkxSbldZRVlVeWZ1UzJZcGJpVjB1bUlnWkhtOFdyQ2FqUE9Cb201dTc3a2NkRVViT3F5Y2FiYmE4SjkyNldoRnhtQTdROWdf?oc=5",
-   "published": "2026-11-16T15:32:54+00:00"
   },
   {
    "cat": "przemysl",
@@ -3049,14 +2689,6 @@
    "published": "2026-11-16T15:30:47+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Simply Being Near Someone You Love Could Have Surprising Effects on Your Body, Study Finds",
-   "source": "VICE",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0lCa01UT0FYT0NrOUlsMUdCS2lZR3RqdzNKM3JUWlBVSWp3TU5leUdRV05LMjZoa2g4WXdmT2xsbjQtY1RjaHFUVjJoaHZXNnBiYS1NbkVKbDhZRWgwTmRBZ0cyUDZtZEZxRkdyRDVoMlIwN0VjWEpMUGNLLVNVREtUMkJNOU9fQTRkczRtb0xUWi1Mc25odVZiWlRsVW1QcHdWbnZvV2ZGZkg4LU9yS0FuY2RpbkJ2M1RMYTNnYw?oc=5",
-   "published": "2026-11-16T15:30:27+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Elevate and ArcLight Announce Strategic Investment by Kansai Electric Power in Prospect Power",
@@ -3079,14 +2711,6 @@
    "source": "Ecotextile News",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmhuanVXRzQzeWxDSEYzNnBjU0dib2d2M2s2R3J5bjM5QnRnUXFWc0FHdUhVUVAxNk9Gak02RkNDakwxM3RMX1dGdTdlTDR1MWhPcUx6WExnN3JJU3JjeWpfQ0JIMU1hbDB6U2VUbjZyRkg3TUtJZkhGUDJEQ04zS0lNcGRvWWNlY3lmN19oTnVWd2RROWpVcno3M3k1aUVONllGZzczVjdNWFRPYWxDTnNJVGdRM2lQT2JTSnBn?oc=5",
    "published": "2026-11-16T15:29:29+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Xanadu’s Quantum Breakthrough Comes With A Dilution Bill (NASDAQ:XNDU)",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaDk3X2FBQ3cxOC1RZHd1STdhWkpYVERydEVnaTlnUmRWN2xidGJFYUVUQVk5Xy1RQVpHWENpOHNFS3Nsa3A2eUpBOXo4SmtibXZIbzQySmlWUWFrS2t4Z1VBWmZrdnB2NUVpb2c4aGN4NFpoZ3B5dDdyVVpVcS1sNDgtdFItckdHOTYyQ1pHUVkzbzN1eERZcUx6Vzc?oc=5",
-   "published": "2026-11-16T15:29:06+00:00"
   },
   {
    "cat": "*",
@@ -3121,36 +2745,12 @@
    "published": "2026-11-16T15:27:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Little Rock District tested new stoplog system at Ozark Lock",
-   "source": "Army.mil",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVU0bXRGVXdYRGc4MnRGd0U2eVNpMjhlVFBKQnVFLS1fUzBlLXJQdFRibkJYNEx1WDRPSURsZGdOc0tmNDhDc0RLM2lnODNkQzdrT05BY2VKOWt0eU5OWTY5OS1EWG82bkktWnRuMTJQWllOT0oyUVg5dXRTOHdRSlhWNlBLVTVxQWxreVpMa21KcHNMNzEwanRCbHHSAaIBQVVfeXFMTk9GekU1RHA2d3hUZUZFbnJLMVBTNk9pZUdtaDRlaGhMcGQ3c2t0UWY4NUhNclVPZ3FZcXY4VjJaOEtrOUN4eDhCbmVYSUEwMGNqSE9hT0pkbjdYNnYtNDA1eXdqUjdFRE9fWHlLMnlSSGw5eWtTSk9rTVZvRnJmSTgwNDFYcC0taXBnU1JHemh0VDNvNks3bnlkaHZCOHZQeExn?oc=5",
-   "published": "2026-11-16T15:26:00+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "US senator demands 'immediate action' to close China AI chip loopholes amid Nvidia diversion claims",
    "source": "Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0JnaE5kbTFxNWJxYlZ5QnpkQURBd1FfczRaemZmVzF4X0VyQnFnS294UW1JR2t1VnItcHR6VTZ6a1l0NVU1c1BpOXhqdnZNVU5YbldCbzh5bFpENjV4OG9XbXBiZFV4LVdaQW9FOGJTSDVtcDBfTDdiOWFheTVfX1l0UTh5MjB3SndGMERMMFduUld0ZzB2OXV4UXhQLWE1SnU4alRFMmVtNXl3b194VGR1T1R5WTlqeTRVWUduc05FaXFZYmgzSFA1SDgzc0o5?oc=5",
    "published": "2026-11-16T15:24:54+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "news",
-   "title": "BMW starts Gen6 battery production at Woodruff",
-   "source": "Automotive Manufacturing Solutions",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXctem1xdXFvWC1FQ0hNZG9YWnZrR0lrSkMxcEZhcUE2Y1k4Q3NDOVp2OGUyTFlaelZMMDdoNTNuNUlOZ2liazRIdlAxU3JpZUxaeWpqZGo0NFNSSlN3dkRobG42RHQtRWV0Uk9VU3pYMHMtdk1SQjNUUDNLUUdzb0xrNjVvU180eldDVVptdmM5UlRWVjlVMk5HZU5aTFdrakVzb2hTVnhPY1NT?oc=5",
-   "published": "2026-11-16T15:24:25+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "I-81 lane restrictions planned Monday for Dauphin County bridge inspections",
-   "source": "WHP Harrisburg",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbUJrMWxINE1IeVRoYnVCVktHR2JSZ2taUUZQWnhVU0ttT3JmaXVYam95dXJqZ2Nrbl9Rc3l1UVlPTTc0MFJQUi0xYlpwMDlMRWFzZ1FPRHBqM2RpS3R3enBIZGlqNVc3NGM4a2lYTThnajQ1eWxMdnRfYzlUZjVqRmp1ZkxQTTZOMXFyNWpNQVNjQTVyQkNmQ2dJamlxWkhBU0c3dnJqcUUxX0M3c1M1SVVNVHBCRjhNYlFjRS1hQmNCN2tFRmwxMWdBQ29FektKMV9hRkNsSTRPUzhpd2ZZU0FBYWRwMnkzdXBxSQ?oc=5",
-   "published": "2026-11-16T15:23:16+00:00"
   },
   {
    "cat": "ai-it",
@@ -3183,14 +2783,6 @@
    "source": "NASA (.gov)",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjBXaG5YMzhpLXN4N0VxVXNvSEhRQ3QtR3lrOXNWOXQ3Tm1SbnBoNzF3LU9saTdHSzhIRG9XTTQ1enF3TFNySEkzWDFyNk5ETUczN2pERFhnZ0tCOVdPTjlWUndlNjF0Ty1vWG1ZMW96cHU1V0I4MzBlcTExdlg2QUoxUE9CRTRWeWUycEZMa1lYeU05OVFJ?oc=5",
    "published": "2026-11-16T15:22:09+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "I-24 Bridge Phase 2 Wrapping Up; IL 146 Bridge Replacement and Resurfacing Programmed for Pope and Johnson Counties",
-   "source": "WMOK",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeDkzOHl5VEtqeVBfbFQxVUhMWXRPdUR6YUxaR2tpME4tOGFhWHFqVjdneGxERWZBX0VJeTdyWUI5M3dIS1Z3VnZoek4xczJJYk45SFlESTRXcVpZN01qdkhRXzBXY00zVl9PRUhWY2k2aWpCNUp3RkgyaWpwWTJYV0RTZEk5bDZycGZZbi1rZlRkNEExaWNpemlEc1FsYl82UEM1UHhGbTZYUlB2UnZhYWpNWUZZSlQ5YUcxenFTaklhVzhBcldfclhtUUpZcGc0SnB0R0VkOUhKcWo4WkI0bk1YdUF3X1RBVHRF?oc=5",
-   "published": "2026-11-16T15:20:39+00:00"
   },
   {
    "cat": "energetyka",
@@ -3337,14 +2929,6 @@
    "published": "2026-11-16T15:13:57+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Women Who Spend More Time Scrolling Are More Open to Having a Sugar Daddy, Study Finds",
-   "source": "VICE",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1pSZW9xc25FaUF1alhidEpCYUl5Unh0WE9tQmJOeFNMSnAzbHpSZ3c1ZEs2S0c0dmF2UzRoYlRhTkk1b0dyNVEyMjFNSVd5ZHRqbm1iR0NnY3dxQmlOa2NMLWlJcXNKSnBYcnFLTXgxTl9XOEpFQW1jbWZlaTU2OGNoRWVyN0QxN2VFQTBPaXc2SXpLdnVZNHRUclRPdkVBS0pVZ2VuWHhlaFZHUVZCVGhuZ2FibXhSRFE?oc=5",
-   "published": "2026-11-16T15:13:07+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "Selling Some Rocket Lab After Launch Record",
@@ -3367,14 +2951,6 @@
    "source": "GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOUHM0bFZEX1Zrd3pYTklvZzg2czZxdHg5X1BlczhDZUl5UVM4dUg3UEdGNTlCZ2FCamQxcTY1aHhZYXBsM3dFSjkza2VyekxCQUl4YjByUEp3Y2dtSFZMclpVQlpvdFFYUDBVaDktcFdoSzRyV2dLTlhBcXJlMGZweXJLX2E3YzhwbGlxS01taFFkWTFiWTlMd1ZCWnVDOUo3Mm9DOTFXeUdycnNzUUNVTTZyaUFkMjY0YmdBYnJyWUg4dm9CYkdnSFAyWFhxZEJHNVZwbVlERTFqVVJVQ2hTd0UtbWttSnZDdmUyYmM3dHJWT1U4eFM0MzRMaXBnOFkyNmFGNEZTRzY0RDRyNG9QVWFqdTF3aTFmSjVPakY1dVhOcURrY3VBMXpxYlZSQ19HbzFwMTNXVzlPcU9sWC1hY0RhTk5nZ1FEajM3SWs2ZFEwQi1zb0NkR0k5WEkyRnhwY1NvclpVRzM?oc=5",
    "published": "2026-11-16T15:11:39+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "ICU patients more likely to die without pharmacist care, UGA study finds",
-   "source": "95.5 WSB",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUpYSVFuZVZIU3dWY1pNSVJsc3F6SlRGT2VsS0d5bmZLUWdFSDRIZjRkYXExeG1JRUMza1dINi1YUDBiVlNmRkhySzZMWWpzSktKbVJ6Vm9uZkptOWRHTTJSVWhyM3B3czdVQk5HTE9pMlpTOENwZGRKaW42bmlzemFETW1JRVdsMHBVWm5uZUxTWnV6MnJfQ3JtVXh0ZkJKUWsteVM0M2MteXNDdHJ0eHVxQk91RmRkbmRzcWduQjM0blhWaHBvR0RLdl_SAeABQVVfeXFMTWpmblFLQnphOXhuWnMyR0FPUnBxaEFnQkVEUnZJMW03U2pDUWhCakl6QWQ2cjIzNXg2REJHaG1JQ0pUak5qNE9PREJVT1U5QWUwaDhqZXl5bkpRVk5Lc25ReUVWaTE5b0UwS1VnaUhnZEVpaU81VFBwTHhLd2tFRVRKcU9qcGtodWdvUk81VUhkNlc4TUJ3aXI3RnpXQy16R0NFTThiQktkTW12c0F6alFCazJ4Vk9SYm1JMmd3Rzk3REZRU3o1d0wybXpmZ2tLQnE4Z3hfU3ZzUi1JLWNBZDI?oc=5",
-   "published": "2026-11-16T15:11:26+00:00"
   },
   {
    "cat": "*",
@@ -3401,28 +2977,12 @@
    "published": "2026-11-16T15:10:01+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Illinois, Missouri DOTs Set to Open New I-270 Chain of Rocks Bridge",
-   "source": "Equipment World",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR295cC1nNnhpUUV0WUx5VUZFZnFjTmpxbURoNWkxcWR5ci00bktJNlMyNVhiRjVDZ3Rfd1A1d1FaX1Uzc0dIRWRjSURIcmR0RVZsRFpvVUlBam05ODgxMkpJTjRiX1R0N1lhcE5rcDJ4bEZ4ek5wZEJkSk84NTByZVUzY0k1anRscF9xQkNxT0xWVHJTb3BGVFg2YTJIM0hQd3dNNnF2dVI0WkNQQVlMQWdB?oc=5",
-   "published": "2026-11-16T15:09:36+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Aselsan Fries Drone Swarm In HPEM Test",
    "source": "Aviation Week",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclZNQXVLc2FGM2JjYkJBNHhqV29OcWpodFhrX1hUcVRkZ25RbGRiUUdVazJQRWdPX0lCV0tCdC13TU5sdHhnaHRDMDJkYnZsQ1hKMjE2T0dlU3liSzREQ0pDTzJmenQwQnNTWXNoOTVrNjhsQm5NNjVudUZsZHBnOGJ5cFRUMGhYLVhJNGRNRzVNNHpBT2NtZC0zUQ?oc=5",
    "published": "2026-11-16T15:09:25+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "One dead, another arrested after shooting near Deans Bridge Road",
-   "source": "WFXG",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmdFTXdjemtBeDVuWEVBT1N0Y1MyS1ljWndGcjdFYXNsS29feWpva2tPOUx2U1UwX1BuYlI1N2Y5SkF1VlFNOURDY3lpbVpsVnBCZmZteUd6NHNZY191YXplSV81LTBnRzJ3UnhsQ25aaFk5eDRvdjBtaUM4c1hPZXB2c3FBcGJXLURxSWxuRjhrN3pLQUVqcEFhU1pnTHJVcmI1V3dRY3hUUll6bmJ1VjlrV1NjSkttM2ZUbkFHUTh5UE1HdkQ3TktJeGlXSFdfcWc3OXFn?oc=5",
-   "published": "2026-11-16T15:09:00+00:00"
   },
   {
    "cat": "*",
@@ -3569,14 +3129,6 @@
    "published": "2026-11-16T15:02:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "20-year-old arrested for DUII after SUV goes airborne near Ferry Street Bridge",
-   "source": "KVAL",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQi00UlBSMUUxVk1XMVhNZ3dBcVB2c3R3dk1YLUJtd21PajJIODBmLThWTDdLUUFmd21VMWFIbC1SVnpqODBhNURMamswZXVvanBEVTZ5ZThNaWI4RHNvbDN1dndWRVFtbFEwTVBUQm9LQTU2WDVKUm45d0tsSER5emhibU9Vd3BnZmxMclRTTlhZZGhlMjF1c0FsZHlzQkhfcEFib2h6T0dGdw?oc=5",
-   "published": "2026-11-16T15:01:48+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Global Cellular IoT Antenna Market Report - 2nd Edition",
@@ -3609,28 +3161,12 @@
    "published": "2026-11-16T15:00:43+00:00"
   },
   {
-   "cat": "przemysl",
-   "kind": "news",
-   "title": "UK Additive Manufacturing: How Wayland Additive brought semi-con tech to metal AM",
-   "source": "3D Printing Industry",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHk0eTFYNnRfUkV0aG82SkhVMVZOMl9Wd3h2WF9yNHRNel9Ya28xdnhzT3MxTkZEcnU1WjViM2FBSWFyRWVVS0p1VnpXcDFaNlJfMEE2NEdKUmxWNWNKdGlJRDRvdDQwMFVNUGJSdzZLZjc0U0VLaDVoajFxYlN0b2tqTFpNV0dlLW5nUGdJRWtISkJ2NG5KeklvbVIteHRVOXhjYUFyODJtOUpBYnRHejRNUGh3ZGl5WkJKVjVoWktJZw?oc=5",
-   "published": "2026-11-16T15:00:33+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
    "published": "2026-11-16T15:00:19+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "From Sinkhole to Bridge: Mount Olivet Reopens its Dam Crossing",
-   "source": "Denver Catholic",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHJWekdvZGdEWWFpNGVWQzJmYm1obEY3eDVyeGp4OVJOSktQbTRpY0tDUEl4RHZtSTc2a2FJaUgwQ2xTUGFPdjZ5STRmeHF0VkdqX21ZcURCTnBZVWs3U05kZExtWExBbVhPUWd6a3ZzM2hvNTVnTFk2NDNubi1wUjd2YVpBSHlQajNWdC10V2hJeG9haHMw?oc=5",
-   "published": "2026-11-16T15:00:17+00:00"
   },
   {
    "cat": "kosmos",
@@ -3681,14 +3217,6 @@
    "published": "2026-11-16T15:00:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "The River With The Most Locks In America",
-   "source": "WorldAtlas",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0lkSFZfUUpBQXZUb21IVTQ4LVNfbXFRT0oxSjhSUWg5ekQ0M0lrNEpCN2x6Y3ktUkJHN3BMT01DbkVSTzV1eE1lU0kyUVhWYkxGZ1NoRER1VHYzbnVaQnBiWVJyLWZpTmdNUVkxVUtFdFZ2cVR6dVJhaThfblJ6b3YtRElpdw?oc=5",
-   "published": "2026-11-16T15:00:00+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Iran's Revolutionary Guard Sends 6 Drones at US Radar Site in Bahrain, Ending a Lull in Gulf Attacks",
@@ -3721,36 +3249,12 @@
    "published": "2026-11-16T14:59:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96X3NYRjBaeWkwdzU3aGZGTE5XYWRQUGpsNUk1dnJrY3BfZ05FWERZbjF6UkRJWlZ5SzkwLXVVWWZaOTFuanFYYUk2ZHhJdmNETXB1YWlxbUEtSmxiMFE?oc=5",
-   "published": "2026-11-16T14:58:12+00:00"
-  },
-  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Core Scientific files for 285MW data center outside Dallas, Texas",
    "source": "Data Center Dynamics",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWTVpZ1ZMSV9iNGlKb1BHNUIySzczb29QWm0yNHJlVHdoMjFUYnU5YzM2RllKdk80LXEzeHpkcl9IUHJuTDltUHpXeXpFMlNTSkVieWViM0pDdWgwdl9Dc1F3LXNhQWxmOHBuRmwxZFVnRi1jQXFDamdWYS1OTzlmRjN3bW5tWDN5RzNqT3VsVmhpb0c2Z3RwNHhyNHJ3UDJWTjVBLUJ6ZlBRNnM0?oc=5",
    "published": "2026-11-16T14:58:07+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Major bridge between Minnesota and Wisconsin now closed for more than a year",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFljczNyUmpOTmVrU0l1R3A3OEhZVzlRc3c2YzRweUlpbUpadGRGUGx2UUVzakN6YzN5Qmd1ZVZVbHRPZmtLNUtfa1dYRzFfVFpyNjBFd1RMeEdCMU9vcGYwaFR5akJYWlhKVGgzN0JLTWVwOF9qMF9uVzV3UUVwMGJlYWtxT0YxcVNSbG5Gei01a0N3WlI0dA?oc=5",
-   "published": "2026-11-16T14:57:35+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Design Workshop Scheduled For Kinneytown Dam Removal",
-   "source": "Valley Independent Sentinel",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1RuZ21zUndTcUtTblc2RC01V0wwTkF5NGRVc2R4Q2FiR2ZvOW1tUEJmYjZWVHVsM0JjTVpXdWVTY2RxS2VQSXFNdGRMZmRnQ1l2aUFjR1hNREJnNnBIbDZ2OGFoSG1NZmFSQXRjRUpwUTBVSTBkYURWYUlTMEc2a1F4T3lzajdQQWtCN0dQcnhoMWdpT0hLRUFOTU9hbVZSRlZONmdB?oc=5",
-   "published": "2026-11-16T14:57:26+00:00"
   },
   {
    "cat": "militaria",
@@ -3799,14 +3303,6 @@
    "source": "Automotive Manufacturing Solutions",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUndOMjZMN1BqdVpNZXgyakk5Nkx1di1yVWpVOFhEMVJ4NmpoZnpaMEdxQ1dGSEFveHFwcjJKS3NzOXJORXduTlpSeHFRU3JPenpIaTN5dnVCV0d0OGRVWjZiSGRMQVA1WFo5UWFFZ2I2OUFmWjlmaWJuMFRvRWVlcjN0d3NrOW80UzMwZjdSRWFaYnREeWJBeEdPVndBNWdHVkhlVjFOYk8wNF9ncFVUYlVOcUs4WFhlMVVXZGZ4V2wwOHFBeW42Ukc5dW9DY3JH?oc=5",
    "published": "2026-11-16T14:55:54+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "komunikat",
-   "title": "Global Nanocoatings Market Size, Trends and Forecast",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdVZ4RE9NUHUwNE5LdFhNM0ZDYVJoak43SUhwZWJsZFdXR3VHN2xYTHpWcWxLZmMzLUVsOWJCSE1taWxHZ2hkM0QtMkxWakNmYkJrUVJJaXA2bmlwbmJKQkZaeUNLM3lINUVVR3dXV0RVYm1UaHZRbUJDSXNwZVNubmJpUzUzaHgxdlNfMGVGdm4wd0NVSXBUUk1ualVJOEdZbi1aM3l2cGdmRkw0bkgySVZJcEpoMm9tcDFwY3RTSHdUU3Q3RmVIODNGM0V3TUhUVDN6S0RDREswNlJCNGxlVUY1UjBCSzhRYXdDelJad3BWZHlMSzhteVdWeDd5N0o2OGNPdmpSNUJrdnVpSDMyVnRJeV96NDFHYVR4TGtrOF9uOGxIMlpqaFlWS0dBWEJRNGYyekV3a3Q4blJUZXFmaUxwcTRKeFE?oc=5",
-   "published": "2026-11-16T14:55:47+00:00"
   },
   {
    "cat": "kosmos",
@@ -3883,14 +3379,6 @@
   {
    "cat": "budownictwo",
    "kind": "news",
-   "title": "Pittsburgh sister bridges will close for lighting work this week",
-   "source": "Audacy",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MLVVRVnVOaXcxZnpxNVJkWHF1WTYtZllKdzRjRGtUTWY5ZHBqTGVscjF1ZzVzZ2VrWnI1WTZ4cHR3cVRuSHRleXlZNnZLMW1LcFQ1OVdLdF9haVJrclhpRU5RZVRlOVQ0VWc?oc=5",
-   "published": "2026-11-16T14:50:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
    "title": "Quantum Campus Neighbors Don’t Want $1 Billion In Public Funds Spent On South Side Megaproject",
    "source": "Block Club Chicago",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTA0SFpBbXlFSW8weEpjMVF3Y0xCR3dMU24xZ1Q1MEtMbXd4bk5DVUpzaENqQS1qTVNhd0w4LUVXTGs0ekpVOHQtU3ZlVW9Yb0dvUnNiSm9DdlpteTY4RkVwOVhHbG45V0NvRFFhSlRSclJMUXV6T1Z1WGFLYnBEb2JBcEtMcDA2dmx6QUx0NEtYTDRUT2JFTGpaZ1pOTWgxYUNScUpiQTFwQTFTYmRJZC1yZmtfM3B3YmlVV0ZDOVowQ0hhTllIVzZESHFKZw?oc=5",
@@ -3903,14 +3391,6 @@
    "source": "GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNNHRLcnhqWVNabDRWMUs0MHpzYXRjVVF0YVIzVHQzTlJOVUJwMTQ4aUNOR05yTGRULXVsTnBVYkJ1MHlMc1lFcU1iU3hMZVF1YlhNVGRKd1VQNlNISndWSFQxUHZGaHdpY1NtVHd2VV80NkxnZjRJbkV4OGhFSjVUTTlmNU9sRWJfdnJDOXByM2g1UFREZFQ5VkFCczhGcV9xOU91YVRSQWJHS1BZd3Y0cS1vZU5VaUVsRU80Z1NpWm0zZktRQ1VTMkN3TDdWaHhOUFkwelNOVUxsaE5lVFdqcm1FMk5mWmNFQXJfOGJ1OFJzSE9DMmU1TWU5SWJEV0x2emp4RnhOeXh5TTdta0YybmZ1aHpaam9WbmVKMnBSVm0yNkUyM0RJLVhCSmNRang4Q1pmSGh5XzU1ZWlsOVZ2TU1DT2tqWnk0LVZYbnhERHM3LV9JWnBkT0FFb2l2WUY4bzRYNkU3UF9hNEZCNjhCUw?oc=5",
    "published": "2026-11-16T14:48:39+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Luzerne County Flags 10 Priority Bridges Facing Over $12M in Repairs",
-   "source": "Audacy",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZVpKcm1wTjQtbXIzYmRJU0lyWDE1cjFQUnI1a0drZTBFc0xqVV96OERfVS1FRzJJakNwVWJRWkJVNFUxNV9Fd3Zhb21hM2l5SjREemVzTm9GZk1RUzFNWmtLc0h0SmF3RDhKZHJKVUFrM2l6SE5qaUFUSVg1aF9xSkpiY0ttU1FkZFE?oc=5",
-   "published": "2026-11-16T14:48:00+00:00"
   },
   {
    "cat": "przemysl",
@@ -4075,26 +3555,10 @@
   {
    "cat": "budownictwo",
    "kind": "news",
-   "title": "PA Bulletin Shale Review: Bridge Money, Compressors & Range Pad",
-   "source": "Marcellus Drilling News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjN2c2YwMl9iTV9rSno5MmlQV19tMjVtNVVWSkc4YU1vT29YcUJsZjBXOEdjdUhzTWgtd0l2UlkwMHloNkxqdnlHUDNkN3dudzMtSTJEQ0hSaVRNMkxPSDdRZXo2a094ZFN3WVJXN3ZSMm1XRVNGQ2V5Q3k0OTRMeHlWOWVyLV92VzhOZmdiM3Nja0N1Ym12V0FDWVJaUDg?oc=5",
-   "published": "2026-11-16T14:36:29+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Suno Bridge is a new way to sync up your AI creation with your production projects",
-   "source": "MusicTech",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdFNWbEg3eEZPYTlxWl9wQTlzdHRyeGdXWU1oWDVKamh0Z1pjNjg2c3pPclpOV0FmbGZ4TUx6eEdvY2lGaUpHRHNoLWVnd0ZSNHFTa2xYYWRmU2hF?oc=5",
-   "published": "2026-11-16T14:36:26+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "AI Models Abandon Accurate Climate Information Under User Pressure, Study Finds",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2ViYlB6M3ktN19tUnBHQzRjNVVGZm5WTVBwaEE5MWkyUDBjNl8wR254QnFrTTRVUjF4RkdkTm10MXRqY3FTbUJmMzBvUTJjeTlVY1hVSW54UFY3dzQxMHhpZlMtNXZsdXBMMWM0WnkxT2RNUGNFMWROcGhOR0NnOVVaTy1uZmUtQzNqMVhlRE53NlZuY0ZCb0NGcWwtVlVFQ1FuMkdn?oc=5",
-   "published": "2026-11-16T14:36:14+00:00"
+   "title": "Ontario awards contract for bridge construction on future Highway 413",
+   "source": "ReNew Canada",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWUzemtNNGxiYVdWMTVIT3pMQ1ptaE9sSTRkVDh6VEl3c1ZRc2VHNm45WGtqQy1vR3JQckFUbzhwSVFtNTNsMmJ6VlBQWFRTcldWcjlsRUd6VDIzRzFaZjFjY1FFbXdfSzRJUHp1RHVRVnNWRTFrc2YzanlMaEl5YjFpVUdwQnR3dzVSdzJ4V05OaExzQnVqU1VGdGVwNGc?oc=5",
+   "published": "2026-11-16T14:36:28+00:00"
   },
   {
    "cat": "militaria",
@@ -4145,6 +3609,14 @@
    "published": "2026-11-16T14:30:34+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Dutch Physicists Achieve First Radio Wave Control of a Single Atom’s Nuclear Spin",
+   "source": "Inkorr",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEVKajFCaC1EcGpXUWk1OUdlQmNoWVJ0dWJoTUJvOUZyQ1BSbmNXbVFrNGtxUU9MMVVneU1TdUVJSmhHLUZ5V0RfZ3FuZTRIdnJPYndRZExsU0pNUl85TE14THB6R3BqZmxhQnV4VFhaMXlUZnQxU2hqVFNwTWxBMHlmUEJJQ2V2a256TVZGa3dnV09wN0pFUE9kUHRKa1lrSjEtQUVCVWdMRkxBTzdHVHZuR2VBUHIxQ0I00gG7AUFVX3lxTE1oRUpqMUJoLURwaldRaTU5R2VCY2hZUnR1YmhNQm85RnJDUFJuY1dtUWs0a3FRT0wxVWd5TVN1RUlKaEctRnlXRF9ncW5lNEh2ck9id1FkTGxTSk1SXzlMTXhMcHpHcGpmbGFCdXhUWFoxeVRmdDFTaGpUU3BNbEEweWZQQklDZXZrbnpNVkZrd2dXT3A3SkVQT2RQdEprWWtKMS1BRUJVZ0xGTEFPN0dUdm5HZUFQcjFDQjQ?oc=5",
+   "published": "2026-11-16T14:28:44+00:00"
+  },
+  {
    "cat": "kosmos",
    "kind": "news",
    "title": "SpaceX catches a falling Starship",
@@ -4153,36 +3625,12 @@
    "published": "2026-11-16T14:27:30+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds Flecainide Shows Short-Term Tolerability in Older Outpatients With Hypertension",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXBLd1NsR3hNSjdKWnlleG5BTW93d1E4U0NhcjdrZVEzdmhrbm4ybzcyVTdQU3N6bUwxUjNyTk5kUHJCWnVxQXJOSWFBUUNNQzhQMFBuLWlmczk2TjNRVVlkX2Z5bmhPUGVxUW1JMEh1NWlDY0I5WG1ZcDE4QlpBZnVPOXJqT0o2NmN3WExhOVNNNHJLd0lVa25abUlXbEMzV0ZTM1ljakN1U2s2b2dabTNNLWJMcUU?oc=5",
-   "published": "2026-11-16T14:26:43+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study finds repeated MIM feedstock recycling reduces ductility of sintered steel",
-   "source": "PIM International magazine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXdTczBCSmlfa0ZEUXBESFNLeEZSdDJPdGtkdGVLc2hWc0dLajBkMEtlZjVhUEt6MWVmT2F1SjFYd0NteFJraTBINmd4ZnA2am15blllbXhWUTVldTYwd1I1NUwwX05GbzNLQTlDY1pnYjZpTXRUdXotVGpyUmt4RHI1OGtXY0dkUmI4WFRCeTNwdUR5dHdta0dEb1V3ZWVLdjlPM3lwRHMxcUw1dGxTUGh1YlhNQQ?oc=5",
-   "published": "2026-11-16T14:25:29+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Elements Green Signs Grid Connection Agreement with TenneT for 1.6 GWh Stadorf Battery Storage Project",
    "source": "Renewable Energy Magazine",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUhoajBtSkpycXozSVR0MU5jX053N2d2c0VWaGYyejk3Unlza1JielYwaTdsd3lDUlRUT3V4M1p2YjRuV3duaDliVy1VRWZodk51QXlrZ3Q4YVpzbXU4WFpkb3hIZXV5Y2dYSTdRekwzUUtrcFQtczhlVDZjT09tTV9wY0UxVDFzbGQyeGhBTy1PQUlSdlo5ejNtSUpQMnpUVVpKM3lzZlo3VVlU?oc=5",
    "published": "2026-11-16T14:23:25+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Helene-damaged bridge in Yancey County repaired, reopened",
-   "source": "FOX Carolina News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhzWHR1Umtua2dGTkRZRTI3d0FBZ1puTnNrYTNQbjlmNXozcUgwUW1LTjBMQzEta1B0VlZYbG5LcDVFTUV1WVdEYWhjMGMwaHJvN29GSnpZcmZIZjdnOGtnOFVGTGc2Z0ZFSDZ5U2dyYmhxZFVsR2hab3pyaUZuQkVaOHB5QnhKZldOLVloVG1rSTFvTnRGODYxWEVKYW9X?oc=5",
-   "published": "2026-11-16T14:23:00+00:00"
   },
   {
    "cat": "przemysl",
@@ -4289,14 +3737,6 @@
    "published": "2026-11-16T14:15:42+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "China's CRISPR Breakthrough Opens New Possibilities for Faster Forage Crop Breeding",
-   "source": "AgroLatam",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckxIcDhwajY3Q0ZHTzdiLTlBZTJDeVlzR1VaeFZzRmcwaDNLVU9mTzhxR05ubUVQU1ktck9LUWdwZ2dRS3hoN0s3dGpzUVdERTByemkxU3ZONzZtV2FJR2RjQlF6R0I3QU4zX1VsSHRvT3hvdlpfM05IemROMzgycmg4Q2NHZFNraWk0N1VsU2tVbnByN1VYZzRBNDJBTU1aaFE?oc=5",
-   "published": "2026-11-16T14:15:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Service Robots Market Size, Share, and Industry Analysis -",
@@ -4337,14 +3777,6 @@
    "published": "2026-11-16T14:10:10+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Trucks on Staten Island Expressway cause delays on, near Goethals Bridge",
-   "source": "SILive.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1JNZGpUZnFtc1lydWJUUVhlT3MyazVaUVB0VWE0MmNRVzdWYUU0SzJGRVoyRGVoRDRLQWtvUHMwcEQ1blpCTmRidmJxenFhQlRNdUp1QnJPUERPb3RXZnAxNjYxVUhXTmtaWlJPZENKb1RWWUdRRmJ1NzZXUXJZdi1UOUhqSVlFenpEamJ3Rl9QMUozdy16WEw4Sk94MFBCZmE3SUdzVmxuMVVGd2YySFJ5STJuc0pPQl9PbXN2NA?oc=5",
-   "published": "2026-11-16T14:10:00+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "The Best Area for Families on a Cruise Ship Belongs to Royal Caribbean",
@@ -4361,12 +3793,12 @@
    "published": "2026-11-16T14:09:19+00:00"
   },
   {
-   "cat": "transport",
+   "cat": "nauka",
    "kind": "news",
-   "title": "Cargo ship's Tacony-Palmyra Bridge collision under investigation",
-   "source": "Courier-Post",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcHZWczZ3ckozOXEyaE5ueFk0Wk1jeXNkZjdPemZiOTlYOVJlZmUwdDZvdHJRVVQyb3pyVjZSajh4a3kwTGJEUWZnUF82WnlESGd1MXMwWGZTUkVhQm96QWk5V240MXBaeE04bUpLZ1VZYkJpajNOZmJPNEdpTXl1QXc1ODNiSGtvZU1NS1JndHliYzBCYzdIVnhZcnlOWTdYbWQxbE1VUjN6MWhJZEE0amxubVRib2hWMm9iVldIaERJQ05BN05ENnhGREtDb0swSzZMMlE3VlhJSk80dHpnakJfNlhxM2hIZlU2bXBVc3Yxdw?oc=5",
-   "published": "2026-11-16T14:09:00+00:00"
+   "title": "Physicists Defy Expectations to Control a Single Atom’s Nucleus",
+   "source": "JournalArta",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVF3akgyLVhKbXRzZE1za09ZMFJJOG9xRWFNdGNKckY2LTZLUzhTNW9oSHJ5d3Vta3lFb19qenJ1LUpqOHJXLUMyU0FzY3J3V0lXZG9ZeEE5SFNYMTZ3cjdDZ0ZvRkM1UkJQR1pxQlFucFg4RDdkRFUyd0xkcUdNZ1ZnLUd5elRWQmc?oc=5",
+   "published": "2026-11-16T14:08:41+00:00"
   },
   {
    "cat": "energetyka",
@@ -4537,22 +3969,6 @@
    "published": "2026-11-16T14:00:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Volunteers plant 250 native trees and shrubs to conserve Broad Brook",
-   "source": "Berkshire Eagle",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWFqVUt3MnIxRGZMNnJwaHBGVmlkTUhuaHV5R09iMlJKZnFkOXEwdzdSdHAweEQ5Ml9ZZ1ZfNjZDa3pYSmRsR1NwRmkyYkNZVS1wcURIYWY3VVpfUUo2UDg3RFh4MUl4UDEzQ19VNV9EdlhabUVVNF9qZnduMGVleGo4cVRDQTk3QklvSGRPYmFkNXRZYmhIVGlMeWlicVNjQUw3M3Q5RUMxbmtScUk1ZlZyTDZ6NGFtRzFtQ1RYVGd3T1BIcVRxZ1BFYw?oc=5",
-   "published": "2026-11-16T14:00:00+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "HLTH 2026: Calibrate, Withings study finds wraparound care boosts GLP-1 weight loss by more than 60%",
-   "source": "Fierce Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGZpa3BZUC1MbVZCaVBOYzJWWkNWVm1LTjdyV1FWbWd5Y25PanBfZVUwRkNYamhyMVpKVTJWdHo5R3ZCaXpxblEyT3dLQWlZcUtNZ2RaMFRNUVVnelJ2cWxpSU03alRRSTVZbVRkd0JEdXliVHlSSnBCWmNORnNndXhNZw?oc=5",
-   "published": "2026-11-16T14:00:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Battery Energy Storage System Leaders Join Together to Accelerate the Deployment of Flexible Capacity for the Grid",
@@ -4657,6 +4073,14 @@
    "published": "2026-11-16T13:52:48+00:00"
   },
   {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "MGM Dubai on track to open megaproject near Burj Al Arab by early 2029",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29BZXlSQ3hFZGdQeEZ6dzM4Z0Z1ZlM4RXg2MDVYTmZuVlhFT3pDSHpqWTFLdWJPenc5Z2RkS0tTaDZLYk1MQTRfYVFFS210cXQtQmppTjRBazc3WUpCVUpOODJKQVlUYXhQbnRtb0E1bEFlRjlqOURlLXlaSmpFb0VrQm5lVTFNS243aDJqd3E4ZVZzS1MwekdScVpjNWNvVUxiZ1JnMVlCRlFaeGpPcWQxbzlHYlRqVXVPNUZFR3JqQdIB1AFBVV95cUxPMTVCYndKTHd3Y0djam94QV9LRVhzUkpDbzVka1JDZFpubjlfR1huaXdZdzItanRSLWd4T2RUNEk4WlhVbGZHRXpvSGlOR2tZTEpMeUNQbEpPTVlmQW51d0JhYUhoZjFlM3E2NHF5c055ZnJyTUI2c093TE4taXEwN002OGxEYTZrVUFWbVY3WHJWVThLdW9HbjBGMTlqMnBrcHFoaHZBalY3QndCTzlKekF0SG42aFVZNjZvdWdlY1p3Q3RsR25oT3hGWlRWX1NKY1FQMQ?oc=5",
+   "published": "2026-11-16T13:52:35+00:00"
+  },
+  {
    "cat": "przemysl",
    "kind": "news",
    "title": "News | Sirius targets UK defence-related properties ahead of expected manufacturing boom",
@@ -4673,28 +4097,12 @@
    "published": "2026-11-16T13:51:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Wyoming water district sues landowners to condemn private property for Alkali Dam and reservoir project: To obtain easements to enable the proposed $103M dam, the Nowood water district sued landowners in Big Horn County — Angus M. Thuermer Jr. (Wy",
-   "source": "coyotegulch.blog",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQcUh1Z2gtMktJUWVTQk5STXJoc1R5UEZ2TUptM1JaeU43UHBydUlsem5uZ2FDeTlRanNGQ2d4cWVybzdzY0c0ZWVFRzk4RklockUxQ3VxR1dlZVFQMDIzWFRjUkgyY2VtSVE1UnRmbDZLeVdsUXNjNFNxd3BWdFFqU3lrYlI1SHdXMzBFanBMWXJlUWl1WjlyUm1CU3JXNGhIbTRUZmJ1cG1ZYktrUkVwSk5wdmVVZzNuRzVlRlpOM0tWLUcxMUhscXg5YU9BYVJ6dzhnc2QxSkVSeWpKTWkzUnhxZ1o2NTMwNlFvMnUyNm1kcGZtTFo5aG5NaW5PYlRxX3ZKaWgtWTJHeTZyUEVaOXBXT1RwNmJXUEpaRDNGVkh1MW14WGxHRHJfTU1aNFBIcDJzU0JDT25ZVF9hZFhLSzBrY25EZGdCamdXZ2RBZVNIWGc?oc=5",
-   "published": "2026-11-16T13:50:00+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "Watch the moment SpaceX catches Starship after historic launch",
    "source": "USA Today",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZ1NVR1eXYtWDZtQmE2MFQ0czFYS0RBalE1VmUxOW9Id0VJVzRhNVBpd1djNlVMLTRQODc5VEN1cTVzMlJtX2FFTDdmN2hGVmYwWWlxUjBGSzFHQUVHMzFUZVMzMEVXM19ocXhxY0lwcGFVcnBWMUlMbDVNVU5tX1c5RW9UOEJLbE5nZG9nTVNqSkl5ZVRYa0xPZlhjQmp2eXhrT1VjM3N3eWxnSDRoT3hDN0c2b1htYjZld3NQNkE?oc=5",
    "published": "2026-11-16T13:49:00+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "news",
-   "title": "The Latest: Trump will head to Asia for economic deals and historic nuclear talks",
-   "source": "Union-Bulletin",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWjM3cnBWZkw0bzBoYVpBMU1zaEpoaFZkYXFDRkpLcW15TmVzTzZZVXZKYk1LVGZtaVJNNDdrdmFZRjJldUs0Wnhkc1ZoZ3FVUlVBTXllNnRaeEVHU2J3QzNWaUI2OGpRNkEzX2R3a21TcHJXYTl4VGdSYjlBd2ZNNmN1TXVZZHdXT2toYVBPcDNGckNKdFJzMHVHbllLXzhCWWs5LWdfNlNwQkE2V1BKY1J5UkN1TFdZUUVXZjl5YzktZTRXQmdVdHNUUmVzR1RnNzk0cXo4UmtKUjRyMExmQmNxNk96cDdhdmd3RFJqeFcyMy0wcGhGeTQ5TEN1T0poTnE2N2tn?oc=5",
-   "published": "2026-11-16T13:48:33+00:00"
   },
   {
    "cat": "*",
@@ -4785,28 +4193,12 @@
    "published": "2026-11-16T13:43:40+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study finds body mass index errors in obesity diagnosis — ScienceAlert",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzZBV21Dd0JYYm9VcjBzLXZ6bWQ1MnpvUnN3eUxpRXZXVkZBVmhWNnZkSy1Ka0FhQTFPaVNTZXFmMlVZTFgwSGpoR1lBeEFzdDU4MEUwQVB1LW5BQlQyQy1PR3A2eFdtUVNmMVdSdlNxNDB3SVk3ek0xclRSdExxUFJtNFhDUXBDMU9NS3RpUHNac1ZaR0VJSkFWQ1pYcE5qRzZEdUJYcHRRS1NxeVlJMWlVejY5SU8zN3loRw?oc=5",
-   "published": "2026-11-16T13:43:31+00:00"
-  },
-  {
-   "cat": "budownictwo",
+   "cat": "militaria",
    "kind": "news",
    "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
    "source": "The Guardian",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEZvZ1pFSGNkdXh4bXdESEZXLVpHdHFIMWJnd0VLVDhrMHBaUVF3c2VHNVZEOU95cWk1UzE5RWFyQmJFLUFfTjlEbzRteXBOa0RVdFFtTzdQN183V2htYzBMSGprcEZQVHdWTDgzbnRpY1pSUjhpeW5adklHMU02VDFfZkhTQUNoZEhkSEZ3TXU3cWw5VExLdHRJRQ?oc=5",
    "published": "2026-11-16T13:43:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine strikes Crimea’s Kerch Bridge in historic attacks",
-   "source": "Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2YzZ210RTIyLVFrS1hDYUMyN0tjOXN4MGh5d1BldF93MVVpZHNuTTJ5aGhEWTkzR05fWHpuUUVNZldVbXlOWjhjVW95anpIYjlfQThfQTlWWnVZTW1MZ3R3RmFLRlgtdUo1TkpjWm9xeUZzMU56X3dGM2t1Z054aVdWcThDQ29hN0JlaEVrTkQxZ1pzX1dqWklCMGtZdzN2YjZVWmdERGN2X3Rv?oc=5",
-   "published": "2026-11-16T13:42:21+00:00"
   },
   {
    "cat": "kosmos",
@@ -4855,14 +4247,6 @@
    "source": "AiThority",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnpOSU9MWWR0U2RDX2VQWVZYNzIwQ1EzM1lzank4R0I2QXhveEs5TjlvSE5zM3BXZjA1aUxVRkNaQXhORjhwTTlaS0ctWWJTV1JLMXpRY3AzX1M1aDh2QnM2a0h5QXZQZm5iTnlkYkpVTzlLd2NpNjVzWmhBNjJjM2ltalpXWWJvUXk2RHhrc2dxWUlDZ203MWxHVXNGb1ZSbWJLY1AtRG9STnJoRXQzWjUwVTU?oc=5",
    "published": "2026-11-16T13:35:03+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Suno Bridge takes AI music to DAWs – starting with Ableton Live",
-   "source": "Music Ally",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWS1rRkZxbWt0TjBzT3pKQkd3QV9ueUhiMFZ2WXZ5ZlN0RGxBejdlWmg1TWtMZWItWUFDZG1mVmd3Y25BcTdkeGdNYXNOYkJMTUJxby0xQ19nTmFsWDdZOEdPcDhVbnRIdmIyNGxOQlhtZXVvdGl4YTdHZE5EUl9nTF94VHQxdzEybUN2dnlhcU1naGF4OGI1cE5kWQ?oc=5",
-   "published": "2026-11-16T13:33:40+00:00"
   },
   {
    "cat": "przemysl",
@@ -4953,14 +4337,6 @@
    "published": "2026-11-16T13:30:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "BASF Agricultural Solutions strengthens Seed Solutions portfolio with breakthrough Nemasphere™ technology",
-   "source": "The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUWx5d2lTTTNLTnN5RW1SQzRxMVhvTUpGVDN0NDd1ZTczMnV6T2hJWVkxeEE4UGdqczJmS1A5aXJwdkQ2TF9BcnBlRVJoU0JsM3NHeTRnNVRfNXpsQnZlNzE4YXVFRVF5U3EtdGduNktjTUlPV3o4NGZ4cXFIbWc0T0Q4QXRhMFVCRVg5V2IySjFFNHRPNzdQUmF5YXdWQmVzaFQxc2RMUXR3UU9ZeEhOYkR6c25jdUhtVFBjell3VnU0eXZqMDVKT0l2dE5fQjFQWDZjOXJKMHMzR29NREZyenY5WGhSQXAyb1Z6bG1hVlVYU19iSF9RTHgwRkVpQUVFT2NfWDFHY9IBjAJBVV95cUxNZDJ4RjdRSjRKMTZXMDdNWEIzWElidVRjVXdUbHdRcE1kQ1BrSThqamtOdzBpTGVNVWZzbG45eFB3ZTV1MGxSTUNYYjhCVnByWUlWY0NkMW5tbEpRZm1CVTVkUmhESjB0dFFLSDVDLXN1TGxHZnNUQUM2d0sxYUREdV9BXzVhSXVEdDJxQnV1TWRvS1J6Q2k1NkctYjlhdnJGU0ZhRjBoMkFnVkRZYTFKbW5wTzVfQlpFX3IxMGZXcTZRM0JncUtsaFpfeXloZGxVeksxN3V4TUd5SjBWM0NIR1pnVDJTUV9QdExMTVBvWXJrM1YxZUk2Mk9OT21qNEd5anJSMHZEVUgyUEJy?oc=5",
-   "published": "2026-11-16T13:29:42+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Iran claims capture of US MQM-170 drone near Strait of Hormuz",
@@ -4983,14 +4359,6 @@
    "source": "Quartz",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZEwwelhtaXpJbVVpaENuRXQ5OExLc2dSamQ4cHBXbVpLdTVrNTNiNjVRTjZHaXJvSS1fU3h4cU80THd3TFctR2Etb3F4TnBNbFRienlHWFR0ZDdLMWdDWmVmSWtPc0ZJaENyel9EZ3hNVE1ITEE?oc=5",
    "published": "2026-11-16T13:25:03+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds Link Between Microplastics and Colon Cancer",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW1McWE1c193SGhiSUx1YUhrNHBtN0lhTDRURXJ5c09wWk9uWHBrTVBIMUVNcDJRcWRabmVycGtqMm1NRlBtUVBWMW5MS0lPZjhDTDY4UXBtR21mcXJFa0FmbTVuUkcxMkxyb0V1V2pXcVJ5SG9mQ1BzMXRoUFJSUzYtekFXbG1WM01rWmV0Rm9IcVpkanhaMnpnOHhsbm8?oc=5",
-   "published": "2026-11-16T13:25:00+00:00"
   },
   {
    "cat": "militaria",
@@ -5025,22 +4393,6 @@
    "published": "2026-11-16T13:19:03+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Japan will find World Cup breakthrough by trusting their process: Coaches",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5IWHI5VnBJT0JjbU1Mdkd3b3M5Wk82VnBvR2RCTUpGbWdCR1lKQUl3dGpEQ2JuWFUtMW5MY2hvOGVHbzZkZmx5SDFrX1ZXWlJ2TmtyTklxYkxsRngteE5iM21GMzJfX1R5c0FwSGlOZExfT3pBcHQ4Nmg4aktQVlRNWXZyMF9HcnFCb3I3YkpTZTJ1OVdwY0toTXQwRThHb0drd2JZSWpfTjB3VkJrcUl5SGY5WWc?oc=5",
-   "published": "2026-11-16T13:19:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Crimean Bridge Shut After Ukrainian Strike as Russia Claims Record 1,336 Drones Downed",
-   "source": "Kyiv Post",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzMW5uVE5zVUw2RzB4S0N0TVVrSEhEeWJoTlA0M1hUV3dURDFiTTNQUlVORkpUQWZ5RERzVV9vQTFVTWU3ZEVxWlAzbw?oc=5",
-   "published": "2026-11-16T13:17:58+00:00"
-  },
-  {
    "cat": "przemysl",
    "kind": "news",
    "title": "Aware to open Valdosta additive manufacturing site, adding 100 jobs in Lowndes County",
@@ -5063,14 +4415,6 @@
    "source": "pv magazine USA",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGIwdUgzQmZLNXREaTNYVG8zTUdVTmRlM1JUaTZmN1M1ZXdmdXduVTBfX05RZmM4WXZVQlJHM0JaWHRmUGRYLUlaLWsyN29OWnVxWG5SNE9GQ190Q2x3T0o1UzUwSlNsLVZEN0NhZ0NFa3ljd3d1aV9kZ2I2TlFOVlBFNU5PR2ktNUJ6bzFRNWU2QzR3OVNOU2gxeDlxcDVSaEtFMU5kNzZPbTNWU0l2bS1UcVpPX3lTYlphRUYtSDlqZlE5ZEVabzdn?oc=5",
    "published": "2026-11-16T13:14:13+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "AI-generated child sex abuse images 'soar 8,400% in two years', study finds",
-   "source": "Sky News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjV2MW9BUnhibWlkWXk2eXBOa2N0Q1JqcTJuV1dNeGFVX0d1cE1tUFBVUHBlS3NZY2hlZXpOcmExNDVfMUdua3BNOW1ZV2xDN2VUU0ZYczVVblY2d3RSUGFrR2toLWs4aEdHY1Jwb3h3QmwyWWV6UFQzMzJMQU1wcjNPNDlVeWoxNHlVWFY5aGtqM1A4d3pELWQwRXVDX2JGc216TmdoX1RJMU0?oc=5",
-   "published": "2026-11-16T13:13:17+00:00"
   },
   {
    "cat": "transport",
@@ -5121,14 +4465,6 @@
    "published": "2026-11-16T13:10:07+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds AI Assistants Sent Late-Night Toothache Patients to Closed Offices and Dentists Who Could Not Be Found",
-   "source": "EIN Presswire",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS2Z6OWVETUlIUnBwSE1XajFnR1Fjd1ZuN1JWTTRpSWcyQXBKWmlfR216a0VkNkxfQVc0SHplVjJPYkc4dnFScTllUWpXU2pHcnVNbHVhakdLZG1FdVZBQ1NuR05EYndrcTMydUVvbC1kUG40dnN6RXBibHVMclFlMC0teXdHQmUwVUJlNGNwN2M5VkRqWUd6TDBWWGwyUGxEZUhuZmI1NzNZSF9OTEY0ZFVuV1ktZ0dIZGVFMXZuYm42VTBDLXBrZTZKY1ZQRDZLekhqRC1pM3d0bTBBVzZ5U2l6TmFuM0ltZTE2QkEzYk0wYm8?oc=5",
-   "published": "2026-11-16T13:10:00+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Cargo ship sinks off Bulgaria's Black Sea coast",
@@ -5153,14 +4489,6 @@
    "published": "2026-11-16T13:06:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "VivoSim Labs to Showcase Breakthrough Multiparametric",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOVUU3TXd0T01LYmxmOGxTQmVrc3dNcVZCV3V3T2k5cGdaQXRiOFZmVXVFVUh3dDVOT2RCWG5meVhLN0NnQURzX0NoTWVfaGI5c3EySi1zaVlQRlpKaGhwcUpCWHhmUU5yRGZjOUFTMGgyS2xnRXdpQ0VGdDAzNDdZLXFSemdHOVVEQnc5ZU1OeHhyUWMwR0RIRXpDM3FBVjBLbFR2MExlbW1ON1FqX2hDY0o5Y1lNeE9FRmllcTZmTlBCVTM3U3lqVUgyQUFQUnZQZDRjc0lNUHdGRTlnS0I4RFM5dE9UeVVSeXluc0JMRmwtbzRWVmVfRDJMZ29RZXRSR0hyQWs4cElzVS1yVXc3Wkx5aHliaWtHWTNDRXJ1MWJxNG5kVktIel9zVEJQbTVtSm1TMTVwTFpGR19ublJXNEkyYTdIX0E?oc=5",
-   "published": "2026-11-16T13:05:00+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Eurowind to connect to grid 28-MW Polish wind farm by year-end",
@@ -5175,30 +4503,6 @@
    "source": "The Texas Energy and Power Newsletter",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydnBaSHNCLXhzR3RaWE5UaFRUMGlrOUFsdTltRG1jSVRTUkt5VGlTZExqblFwR0k4OVMzdjMyYWVvbDBNb3ZscFRkZHV3MTN2bm5qVDRiS0Q4Qjh1MDJ5N2pfX0w3NkN1OWt2ZXpWTjhmajVhYkg5X3h4OA?oc=5",
    "published": "2026-11-16T13:03:36+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "See T1D. See Our Advocates.",
-   "source": "Breakthrough T1D",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51UTNMTExPT216U295cHRaZUV6c2s0VDNDcmZITHhLS3JNRkFadFRBVTVRRGN5VFdwZmJDQzdvMDFYLWZVT2daSmFBckRxUWRmdFpka0pFVmRhWGVDTm9SQVRGRUkyQUdkZHBuNkM3dEpXVnhr?oc=5",
-   "published": "2026-11-16T13:03:26+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Monroe Freeling breakthrough sets a new standard Panthers need him to sustain",
-   "source": "Cat Crave",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXNxOWJPZFZtYUlKamU5QkdISDY4ZGFNZExYR1JRWFZKNFRrZTQ0VzV3ZFhaOUMyM3FIVnFVYXFlLUIxbFNRcnFzWUlIekQ5SnJQNkhtZ19aVlBfN2d3RTJMX1F1ZEVWcUJ6Qy1WNHdxM0U4ZE5pb0ZZRFNEOFpHSFlqcTM4OHV1c0VSYVhxYUdKT0VXcXFHU3N1ZzVONi05VmlLTA?oc=5",
-   "published": "2026-11-16T13:02:55+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "College removes Loose-Read bridge over safety concerns",
-   "source": "Scarlet and Black",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVRuTDN1M0hNU2IwNHEteW1lTm9JOFdtTHdOTVVZUUl2T3hQaW9VMHZpZTVxR3EyZ2luenVScVRtaENNNUhSekhUS1dlVWRja3NGSXBLSW5CVTZiSTlOOVMtR2hBbC1CcXYwTXRRc18zVjJXTEJJQ1FVM2pmd0labW5PMUNld2lRaDI2STlKWXE?oc=5",
-   "published": "2026-11-16T13:02:27+00:00"
   },
   {
    "cat": "energetyka",
@@ -5217,14 +4521,6 @@
    "published": "2026-11-16T13:01:01+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Bridge Project Nears Finish in Uhrichsville",
-   "source": "WJER",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OY3IzeVNmRUNXODItZnYtbGxXUi1xbzlfVk5ZbHFDcWxlMF9pWnJfU0dWbzdOdTNWZXMyT09ud0wwbXRPNVJoUXBUbGdKWFF6ZF94REQxNmxzcHNlaFRvR1RENXpURkluSHhQLXJHMHY1ZnZ4enpBV0Fn?oc=5",
-   "published": "2026-11-16T13:00:36+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Robot samodzielnie zbudował strukturę w kosmosie. To przełom",
@@ -5235,10 +4531,10 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "34% of Colorado households are cost-burdened, new state housing​ study finds",
-   "source": "The Leadville Herald",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRkhPSmRLb2RfVmo3NUFuVk5nTHp6YjJNV0wxa216dFJ5Zk92c0N2NDViYzRfdWpIVFllaFZ1TzZKT1diQ0ZrWVJIVUNyYzlYNVFGLW1YOGk4M0w5RXJMUGVYOUpkYllwa0plVEVsRzlqd3N0RlRnWjQ1UjNMOVJfZTZ5TXpmYUlmVWRUZy1haTNncTgwMjdBM21tU05Jcy1zNUtkdWR4VjY0M2EwTmV3RTNjNDliWFhjNjR4b3dOSGlVaURDWUg0WkIxekxMUmVXNVJZMVZWQ0lTWVpzcFZKUzFYZlRPODFNTG40NGlZeTltZw?oc=5",
-   "published": "2026-11-16T13:00:00+00:00"
+   "title": "Earth has a new minimoon - and it will stick with us until January",
+   "source": "Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVU1pdnRBUG1lWmxHNUZqV2RreW80OWRXcjRfOU03UDc1YXZsWTZ0RFgwWnJHVGE3Z2Q3RjlNN3NSMV9wNS1QTUJaemhpYnE2SkZ2bnFuMFhWdW5GNGN4OTNzU3k1ZWpWZWE3bG1uenI4UHpPbjBDY2Jxc2x0LTFRNHhwRHh1TGlBZUpINW4tS25COWs5aXhfNldNZUM0UUU?oc=5",
+   "published": "2026-11-16T13:00:19+00:00"
   },
   {
    "cat": "*",
@@ -5353,6 +4649,14 @@
    "published": "2026-11-16T12:49:01+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Students from Turkmenistan won 13 medals at the World Young Physicists Olympiad in Indonesia",
+   "source": "www.turkmenistan.gov.tm",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE9scUtuQWYybURmNV9EeU1pRnNZOVV6cHg3LURodGJkRlR0QUpTcTEteHJzSWpzX3pkWG54Sk4wN1UzRUlNRXBDN1oyMVQ1Ql8tWE9qNEN4Si00MHlwWFdXVjlDTmpTQ0NITHVHYjBKYXdoUHktang3YTl4cGE3MEtvWW5nU3BpMVlhemxiOEYza1lpVDQzcE11TkZPSnZCMElRdzVkZ0EtS1lBYTItUWZ6SHp2dUliZVJ1aDVVc0Ftdw?oc=5",
+   "published": "2026-11-16T12:48:19+00:00"
+  },
+  {
    "cat": "przemysl",
    "kind": "news",
    "title": "To Make in America, Start by Importing a Chinese Factory",
@@ -5383,6 +4687,14 @@
    "source": "Dziennik.pl",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUERnMkpLbjMxOXN5Q29jbHJxRG1hNWR2cFN3a21xaGtyZDhYVlJFN1FqQldrUzYtbjhMdWhLUUdEaWVOaFlGa19SalVuZmgzaG1McGFqUmFtQ1RiSXpHMVJmbUtXQmdiaEJfM3BPQjVhNDlYc2xEVTF3NExoc096YlNWVkdjQ3g0NkVBbW5wTVlZVjBmMWJXOEZIRm5fb2N2eGgwa3JiMVFuM1o4ekN6cWtfa1F0RVVCXzFsYmF1UzBlV0J5dFVYdVN3WQ?oc=5",
    "published": "2026-11-16T12:45:36+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Developer scores refi from Desjardins for planned residential skyscraper in Toronto",
+   "source": "Green Street News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXZsTUtELW9UcjAzZm9DNTV3c0Q5UDVPS3dvT1RTYUFobmZ4Q0lrWHhpTU5TUC1CREh4bHdWYy1MZGlWeXl5Sk4tNUlZUVhMU2h6Q1FhWXJtT1AwNVhkTE83SThiYlhabnhaQmlNTm1TYzBKekFxVkt1WXlNSVc1T3p4NFV4MGFyRjdPbWpJVUpkX0lXUW5aalBiTW1xeXV6VWVfNFFZQkVBSHROZnc3bEFaTVR1eGdnRVhlRQ?oc=5",
+   "published": "2026-11-16T12:45:34+00:00"
   },
   {
    "cat": "*",
@@ -5417,6 +4729,14 @@
    "published": "2026-11-16T12:38:34+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Penn Researchers Develop Durable HyLIFS Insulation Material for Lunar Habitat Construction",
+   "source": "Inkorr",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEM1TW1WeVZURWhJNm1kUmI4VnUwOGZxUU10NEJiX3l6ZFBqTmJsOC1vZlU4ZHVnU1hlLU9XQXFLNXdCd2pzMEk3RFVLOW1lUGFjbjkzM3BGY09aRkJmbDljNlJIX0tJU2huR0lNcmp4NjJvckhpTHlBU1Q3RUZiWVNHUDUwd3VLaDlGZGxxQnh1V2kzdjlIQk1PbGdScmk3cVU2UGcwQXpRb0xXcFRhMGpicVNOMUVwM3dqb09wV1FiMTk1V21F0gHMAUFVX3lxTE1GcWdqenRndGpxcHNycG55TWhJeGowVWV2R25xemlwdnFKTU1hcDN5WVNlZ0syVHRyS08tcGVxODhxOVVrZXlQRDZNaV9HdDFYc0R1eXVWSS1vWG1IRkN2UU40QXNEU0IwZjRFWDcyU3IxVjFPSXQ0b3JRS3hfMHhIRDNZejlaNm1lUGVUQVkwTzZvUGNILUhhQ05YX3FxT0w0NXRiN0xObkVsUE9vTkloZkxHSUFTN2FTdmQxY0s3WDdFR2MxbU5oQ2tmZw?oc=5",
+   "published": "2026-11-16T12:36:51+00:00"
+  },
+  {
    "cat": "*",
    "kind": "pl",
    "title": "Firmy wdrażają agentów AI, ale nie nadążają z monitorowaniem ich decyzji",
@@ -5449,14 +4769,6 @@
    "published": "2026-11-16T12:35:03+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "New westbound Chain of Rocks Bridge bridge opening delayed",
-   "source": "FOX 2",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWhYcDlHbFRORWVHQVJ2dFNQNVFYbnhrUk8wSVRMaHU5cjY0Xy16S0FJdFlvbi1MN2F4TWJsNEdhNzBnanJQUDhINnB3TkU3anlLTzNGTXhneldHMzRxS2s1WlF1UjR1SFZXYnpTRnNlME9aaGtla3ItZVFqSWM3Y1dZTXM1cjRjb0p3QUdXZkVoNlFN0gGaAUFVX3lxTE5Lc1YtOGptcUZfSERIMXNkWUhYQ0lTXzJtaXVOSHY1R0ZQaWpPb1VkSlZ3YnhwTTd5ZG14a19WZDJaT0dNM0xfNnNwNWEzMHFhYUQ3WHdnYVhRYXFMa0RqLUJybHBsQWNuWDJRam9fVTNZX21BVHFLdGktZ2R0ODJwYVkwa3Jjbk0ydlhPbjBHNmpNTmhYOHB6ZVE?oc=5",
-   "published": "2026-11-16T12:33:47+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
@@ -5475,17 +4787,17 @@
   {
    "cat": "energetyka",
    "kind": "news",
-   "title": "Coffee shop and bar to close, wind farm proposed and more Bay County business news",
-   "source": "MLive.com",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjBsbndxZFZpT1hyZVZFTUhfdVF6YzVrUy1BWDE0d1V6RG5QMUVzVHVTR0F5MlBWcU1IUzRoYVpLS1pzR3ZLVVRPbWRQOVVnZ3hhS2FoUWlIRklGajNNOEh3REgybFZkNVByQWVocVNEQzlaVEdfTlVqTWhxeWxvdHNkVzdQREZpb1huakdvbldhNGZaVi1iSmtRQ1VOUDNIOV82Sm9UajliSmJ5UFZxQ3ZKUGFzbVlzT3Q5SWpoMkFSc1l3RGlvR0t0TU1rS0RzbGc5Uw?oc=5",
+   "title": "HyCoFlex 100 Percent Hydrogen Industrial Cogeneration Solutions",
+   "source": "Fuel Cells Works",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0ZzWHZmUU5xUnVTZ3ZhZzV5TzFQVGhHM0FtWHpqS3NrSUdYejNHbTBDS2NmV1phTFRoMnBXZlIxRXpCYWgwM2JXUkNWejZubVNuRGQ2YVBqQ3A0dlRsWUFKT2h6SVBMQU1UazVGT0g3dEVPbzVEOGpDZlpnQWU0dHQwaUdkTWFiYW52bHZyM2JvbWRfZTBrWm4tMEtuVjFVZXEzVkVmUzBsRlhMUVdGaE1LLWh5bGNzWHFDTmwxaUxQTjU3c2FzaWJLWmhhcDhNdnc?oc=5",
    "published": "2026-11-16T12:32:00+00:00"
   },
   {
    "cat": "energetyka",
    "kind": "news",
-   "title": "HyCoFlex 100 Percent Hydrogen Industrial Cogeneration Solutions",
-   "source": "Fuel Cells Works",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0ZzWHZmUU5xUnVTZ3ZhZzV5TzFQVGhHM0FtWHpqS3NrSUdYejNHbTBDS2NmV1phTFRoMnBXZlIxRXpCYWgwM2JXUkNWejZubVNuRGQ2YVBqQ3A0dlRsWUFKT2h6SVBMQU1UazVGT0g3dEVPbzVEOGpDZlpnQWU0dHQwaUdkTWFiYW52bHZyM2JvbWRfZTBrWm4tMEtuVjFVZXEzVkVmUzBsRlhMUVdGaE1LLWh5bGNzWHFDTmwxaUxQTjU3c2FzaWJLWmhhcDhNdnc?oc=5",
+   "title": "Coffee shop and bar to close, wind farm proposed and more Bay County business news",
+   "source": "MLive.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjBsbndxZFZpT1hyZVZFTUhfdVF6YzVrUy1BWDE0d1V6RG5QMUVzVHVTR0F5MlBWcU1IUzRoYVpLS1pzR3ZLVVRPbWRQOVVnZ3hhS2FoUWlIRklGajNNOEh3REgybFZkNVByQWVocVNEQzlaVEdfTlVqTWhxeWxvdHNkVzdQREZpb1huakdvbldhNGZaVi1iSmtRQ1VOUDNIOV82Sm9UajliSmJ5UFZxQ3ZKUGFzbVlzT3Q5SWpoMkFSc1l3RGlvR0t0TU1rS0RzbGc5Uw?oc=5",
    "published": "2026-11-16T12:32:00+00:00"
   },
   {
@@ -5495,6 +4807,14 @@
    "source": "PV Tech",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHpQUDRJSmZ1S2NCUUZ4MlJZYnpwUzRheHd3Qm9lUE1uV29xRl9iQ0VuTkM5bEhDQWF2WHRaX3cyUDQ2R0UxYlhWNy10QlVBcVJIU1lYUnBMd2w3N0J6S2E3SVRiRzdVam45Z29CRFdhSzNTYXdCb0JqaEQxUTVBdmxLa2RTQVdCTlFIRmxRdzVVNzh5VGItdkl6MG5zTC1VRFhoNA?oc=5",
    "published": "2026-11-16T12:31:21+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Polish physicists develop sensor that remembers light",
+   "source": "Science in Poland",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTJDZ01OX1NOZjdyZkVQc3BQeXVIdWJvWGZxUE9JSTFWdFdqcF9scmZoam1UVjNSQ1RvV1pvU2hIR2xOc2NTQTlRMW56WnZ4NFZqTG1fcFBMNHFnU3hqN3JyQzFuelVhZU1JMV9BUS10SS16SmpYcFNiMDhiR2dCeTJIXy1QSEwwcHc3bXVhM2RjbWlESFUyRVcxTUF1NmoyWEJwbk5lNA?oc=5",
+   "published": "2026-11-16T12:30:38+00:00"
   },
   {
    "cat": "militaria",
@@ -5519,30 +4839,6 @@
    "source": "GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdzJCVkVOTE5OWk56Q29JOHdGaF84V1EyUlJSUE9Jc2xsbHpUNFRIaFkxeVlsNlhGMlIxUVFlR2V5R1BwQXN5Ty1Qc05HOFQyZUVrWU5uWXFpTFhWZlZJa2h3Zi13WHlPay14M2JQcFJXZDI0YnpPT01aQ1lhS1l6a2Iyc0MyS2tsQU9QSTNrYlZfQk9fTVdRZ3ZJdDRHanlqekhyMFFFUUxyV2V2RDE2eGswQ1BBTW1qWExnb3FiREFvNWhVTXNKX3dLWlV5QTIxUl9PVElFNy03M3pUUWhPNWVqVzJpcWdwQjM2bFRVdw?oc=5",
    "published": "2026-11-16T12:30:00+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "BMI alone often misses obesity, large international study finds",
-   "source": "Scripps News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkdYNzlIYVlkanZlZm9EdW9hYzVvSkZIeVdzLV96ZkNyVW5GRVNBNlY4bnJFbHdydDhmR0pzWi1HQ25VdnA0czEtVTlUSEtHMVNGb1ozUTJBSGhUVlhxN1hNZE0xeEJuUG1HemRCaGZ5X2RSMU5KUkpqeDBsLW11LUNXXzVERGt5RUFXYi1LRE03eFJZTUZNSUxFSFFPUQ?oc=5",
-   "published": "2026-11-16T12:28:23+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Ableton Live most popular DAW among dance artists, study finds · News ⟋ RA",
-   "source": "Resident Advisor",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFB2NlR6aWVJZDZ4TldGR0RIQVJzVnFvQXRFZzAyOHI0XzNVbk5YMjhmbUk2OE1DcmpRUl9lVw?oc=5",
-   "published": "2026-11-16T12:25:05+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Indoor mobile signal is weakest in North America, Europe and Oceania, study finds",
-   "source": "Mezha.net",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDN1ekxsc0NnUnVkT3ZIUkZJdlVBeExudU9qV0p4czFURHhfSkZSVWpaajFyMlUzNDlNcGJkTHZPVXRxRUxsOHlaSFpkdEdwMmJuaTlpRnpuTDN2VDFWdWpTTVpkbUtXYWNjZUlFR2RrMHRjQ2JPRUVOem45d3RiLVVCRTJZQQ?oc=5",
-   "published": "2026-11-16T12:24:49+00:00"
   },
   {
    "cat": "energetyka",
@@ -5585,20 +4881,12 @@
    "published": "2026-11-16T12:15:34+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "nauka",
    "kind": "news",
-   "title": "Largest project in PennDOT history draws $1.3 billion bid for I-83 bridge",
-   "source": "PennLive.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1h6YXE5b3RCR2praXB2bmFSbUx6WnotMlo5ZERLb1RpeXYxVkQtMWFQSHc0amxMZzhDaEdaRGxURWp4VU9LMnJvX0I5MEMyM0ZGdzNDYmZVUnY0eU5jdWRYaHliX28zalk5SnVNSHZqb3pMZTJ1VFIzZU1pU1V5bHl1bnZHcjBvUlNaYnd6WXN6UGFyeDBfaV9pWm52NGpXaml3MU1idmEtTWZzakZVbzZqS1PSAcgBQVVfeXFMTnhGMXhxUzNVS0RXYUZSeTRUMExJLTJ0NjFqY1Z2ZUlsb3pJa0hHUzU5TUdwZDZtMHNPREdtNWV4T1JBMEs5c1NvUWRIQVdDZjJlSHptS3F0S2FWcXYyS2J1Unp1MjM4MTF1dHF1dTRFdU56Q3ZLbmR5SlA0a29JbU9wMmpUdFJNdEQzYkRPcUtBU1E3Qk1ibDBMRktxMEhfanQxRFF2alhpNVdSamFLMElrOW9KOVh5OElQdjdmazZBZnBzSmUwMkM?oc=5",
-   "published": "2026-11-16T12:12:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Dump truck driver plunges off bridge to avoid hitting a vehicle, NC troopers say",
-   "source": "Charlotte Observer",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWk2T2pnYW5haG1VRE1veHc4T2Jrd0FuQzg5ZXJTMEJvbG8xMk9NLUVRTmdYYnFKU0NXNWRwblEyWWU0eGducjhEQWdEano5RVlpb0l4X1VDYk82bUhhNkhIaTJSbk1xQ0E3U3NYTl9WdS1SVW5BczR0ZU9PYXhnQXNqVWxXTDFG0gGIAUFVX3lxTFBUVDEtcGpjdkw5SUJtOGRGNmVFd0I4aE01NFdRTHBZRDBlOENxbDJHVTJvczItV1dGWE5zWE85VzRMR3plYkJPeUtUZlBwUGUyQW5PY2psQWN4eGpva3B5T1I3VmlxREJzYlhhVEdVU2kwYzNBVVNNSS1kX3pJNmU4bGpSaGVRM3Y?oc=5",
-   "published": "2026-11-16T12:11:03+00:00"
+   "title": "Scientists Discover Star System With Pulses Every Eight Minutes",
+   "source": "JournalArta",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbl92ZldQZUNsdXpBVGZLblA3blNjam1IdFRIUTdKeVNPazcyWlA0UlhsZEM5cV9CRldLMjc0cktlSnl6WTRrVUFFa3BSSHMtc2xvN1lXWXpkem96SFRMWklfQWhsbmJ1TS1DVXE0enR2RlVvR1RlMEdWR3RuSFF5eUxaX0RMNXJ2WFlnZmtfRDVTM1pCOHhQZTh6cw?oc=5",
+   "published": "2026-11-16T12:13:16+00:00"
   },
   {
    "cat": "*",
@@ -5625,6 +4913,14 @@
    "published": "2026-11-16T12:06:35+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists discover how Covid-19 tricks the nervous system into triggering coughing and sneezing",
+   "source": "The Eastleigh Voice",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjkxdnVVSlBJRnk0ZXd5c2FRaHN4QlZubDhPTExoU09uQTlqUFRpeEw4TEJuQm1wTkNMVUVRTFNybGxqWThBV0JiLVF4UjJEUDBvV0hoMGRKb09kN0Jub0E4dnMtMWRySEJ6YU9oLXd5eFFjQUk2XzZBVmV5aERFUWlXTDNFcXFIMGJ6ZVJhV3NaWmFmYldSV19UQkNMaXBFX1d6clNDenNoclAxT2JxdkZCelZwRUFIdmd6Q3NNM0NGc1dpRGN6cEQ3T1VLcnJfVzA4eDVR?oc=5",
+   "published": "2026-11-16T12:06:29+00:00"
+  },
+  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Uzbekistan Nuclear Power Plant to Use Dry Cooling to Conserve Water",
@@ -5639,14 +4935,6 @@
    "source": "Interia Biznes",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzFMbmhmQTkzS3JIZ2VwcTJjNjF4TTRtUzF6VTNnUEhyOUhjVEttdjk0M1g1eWdUT0lNeUpCNE43Nk42RFRJU3FOWWJpcnYxNW92U2xFLWE2aXFMOVNPR1d2RFZiSVllZ3YxdDlodlRPYmFRQ1loQm9RREFYc3ljUDYzSUhxSkhDYlctQWVwMi1vVUhlRHlubXJYNGhVTEpZRnRjZ1g5aHpyVVJfWTJTY0RmclU1dw?oc=5",
    "published": "2026-11-16T12:05:38+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Woolwich bridge renamed to honor veterans",
-   "source": "Wiscasset Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjA5VzIzaHFvR2tZaHJWNUI5NkxGajhVMllocVQxaHZGeHNMdjVFT0xrc3Z5UjAyOUpyUW96NUc1VjBwd1FtMVVPUkFtMnphQzNFSXhzZ3R3NzVCOG0tSTJYRVRlX0FFT292cGdBd2VlTG5QQTdYVjlSWlZTWHh3MGw0eGdnTmJ6dXBvZjF3VEFhRnRPLUVud01USTE3Y0E?oc=5",
-   "published": "2026-11-16T12:05:30+00:00"
   },
   {
    "cat": "przemysl",
@@ -5665,14 +4953,6 @@
    "published": "2026-11-16T12:05:03+00:00"
   },
   {
-   "cat": "ai-it",
-   "kind": "news",
-   "title": "Will Latin America Capitalize on the U.S. Data Center Backlash?",
-   "source": "Americas Quarterly",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmtXTDNPYkhjVWNPaUFTRklaZjdPOTJGSUlpVllGWTg2d19tTTRrbXptTHVkNy1EU2Z5U0VHVXlxRlNINE5Sd3IzelIzWnZvT0thSEV6cTBQYVRpQXpINnpJX3UxMVNFZlNwQmxBdWtUeHJpM3ZIeFktYTluRE1uYkI1djN6bE9zRklqWTluWE93WWFyMUtPQW9wVTBlMk5vRWc?oc=5",
-   "published": "2026-11-16T12:02:45+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Delivery drones are coming. For some with PTSD, that’s a terrifying prospect.",
@@ -5687,14 +4967,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2tKcEFSbWVrbFpXUV9yZGc0eW1YWWVoTWVTTnRYbi1OejFhY180bHF4TWwwd1NIS0tSYXk0ZnZYMmM1bWItM1hoUnhBRnl3bDJ3VkxONlduOTVXTjFIS3RxckZrNDdkOWE4dU8zOW1IdV9uWEkzSDV4NldFN1k5eHpqa2tHbjl6OFM4aE9FYXRVSWR6ckF5TlZYcGhvRFU?oc=5",
    "published": "2026-11-16T12:00:02+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Breastfeeding is associated with fewer maternal depressive symptoms, study finds",
-   "source": "Medical Xpress",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObHRNb2IyYURJNkZEWWh0UlFRNG5mdzdxelNOZnhxamNBY2RWLXJ1N3FJU2hPWHpMeXlnLWROSzJVeEJYYldGeGdlbWptd0tFV245VlpTSExKTF9pZlV5Wk53Y2ZuVWQyM0dURlBpZW1aazFha2s1LTZFVVB6bHVISWR6UUIyQi03cHBPZHE4aw?oc=5",
-   "published": "2026-11-16T12:00:01+00:00"
   },
   {
    "cat": "przemysl",
@@ -5713,35 +4985,11 @@
    "published": "2026-11-16T12:00:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Meeting on Joe Page Bridge on Wednesday",
-   "source": "AdVantageNews.com",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOENRNm5HVTRqRzRCTnpGR2ZWRUoxM3l4RnBLVE1OTEJTdkt1NGV1YVhkTmlHMzJFVk11MnI1Q0ktRUJvYjJjdDBvZzRkREc3UnNaVUZMZENaTjBsU0VQLXJhNDhZLTlWSklWajg4cTh4V2VWLWJBazVTRklIQUpGekc2OWNvbm1DSUVwdkhuMUhsQUVnQmpnLXBaRjVuUl9QX3lMcDhneGYzSFlpaDFLRVo2T1pQYkNKd0xnNTJpRFUxczJCQVVFbDFB?oc=5",
-   "published": "2026-11-16T12:00:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "New I-270 bridge opening delayed",
-   "source": "AdVantageNews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmhWYnl0TWtCR3FOVS1UMzBsUy1UYXpPWUdQSEp3cnZDMFA2T0NHelF3VHRHZFpDbS1SNEgtLUlqRzBaZGpTX3NNWXBseWl2aFRDbGUtWTlqUmRHRjhlTUNiTVYwTi0xQkVMZy1zNGpZOFlUX0taVmo4Z21FY2oyNlgtc1g1UFU1WmN1LUJ6QWV5c3kxT3p1RkJrRjRmVzRCTVJpWll2aVZuajZ1R0NVVkUtLXA0VmgtR1pSZFBBTHg?oc=5",
-   "published": "2026-11-16T12:00:00+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "High-tech drone amplifies research scale for Mountain Studies Institute in Southwest Colorado",
    "source": "Durango Herald",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnVZMURDUkdqTjZTUnFXZ3JNQWVjejVwTHNKQ1JRLWVzMk9HVlh4MElDU1hPcHI4TGRNWGlLUnpncEg5UDgtb1VLZ0hiMG0zd3RxMFp5WmNRVk01blBuS0JWam1KcER2QTRreE54QWpqZGpNb3NVYmRSSXFkUTlxdEJnOEtCd1lWYnBTTmJaYXlEMGR2czRwcGRkSGZOMFBYVTlEbmZ5UVFNWjk3S1d3N2lGa3l0b0VGTEViN2RnNWotZXVZeHB1NWtaSldrdXk4T1lsNQ?oc=5",
-   "published": "2026-11-16T12:00:00+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "AI tutors may lower university students' grades, US study finds; participation also drops",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZFBGd050WUNUSVh4Y2ZDZVF1Ny1WZGtaYV9mbGItTDNuc2RqUWpsMURtRE50NWRLYTR1bjVfUWJGamEyMU5QWkRzNWNPdU9XQWk5Rzc3YkZYMEoydzRWdlJLRk11Q0x4VV8zRlNoSXFReENmWGVDc0VHOVg2WC1lQ1ZobWNDRjdWdDBIXzNfa2VrNWxZSjRRTmp3SVdDQ1otOGRZdkREUDk1eDh3WkNNWjVzZW43dF8zaE5iaUQtaUZjcVZNX0RIM2xzZ0ZGZkpROXlqbnNCemotbDdMdy0yRVIyWHNucFhGTFI5dlJqd01rX0hUTXfSAfsBQVVfeXFMT2U0dDFFdVpZVXJha3VMcFh3SzZud01ScVFYdDE4aW8wdGVEZlBDc3lKWkZPS0VVRUJ4ZXMzQWM1c3ItZlMyVTZrM0U4NEk3S3ZmaTl4SWEwSXBDWlotb1JwUmhZeTM1T2tCZTc0c3NGN0d6YmVvbnhCTkVqSm1sTzVzdloxdXlsaHlueE5iX2pacUZjYWtfWjF4OUF6b3Z3VmFzM1B2dTlYeFFvRDRBVXZFZHEwLVQ5R0NValZJZkIzQjZlV25HSGxEdkExeHhWR3hMTEtkeU04b01IemFvWHRUZUNLZk9Ec2dwbUw1WXJPZWNteS12SFh0MDQ?oc=5",
    "published": "2026-11-16T12:00:00+00:00"
   },
   {
@@ -5801,14 +5049,6 @@
    "published": "2026-11-16T11:59:48+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "The Problem with Pea Island",
-   "source": "North Carolina Rabbit Hole",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVndXaWpua1VFeDZGS3kxTnFJUXRhMWRCWEc3Vk9FM0ZKWTJMZWk4ZnpIZWloZ01Rc1hfQWotcnNQSWZVYXFibEZLRTBLWEoxbFJVaVFQNVlxd3NZMnJONDJrdjg5SXBiNUsyYlNTSjlmWWdDZFQwdzVoOXFQUVBtSi1tcHJ0OHlBY09zX3lnNG9BdUlUclIySA?oc=5",
-   "published": "2026-11-16T11:59:46+00:00"
-  },
-  {
    "cat": "przemysl",
    "kind": "news",
    "title": "Manufacturing slump drags down Belarusian industry as economic reliance on Russia takes its toll",
@@ -5825,36 +5065,12 @@
    "published": "2026-11-16T11:59:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Group walks across Fuller Warren Bridge to honor people killed in car crashes on World Day of Remembrance",
-   "source": "firstcoastnews.com",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVjY0ajVCRGZURTdSeXA4a2RISEVvVXI0Q29pUG1vVl90QlBHUVUycFlyRkFXRi0xTk83bXlfbVV5VHA1bHhVV3J5dkJEVGVyQVFqTGFqSlMwRFRUbjhaSzBfXzBQenJ6ZDJzemN1RUFFUDJ3aUlFTHlCTTRoVlpVZjhmTUNrUTRmb2pLOWdqX0pTaUM5ZG1tV0NkSktJQW8tT0dLX3ZCVmhmVjRQMUhpaGhHY1dMZm14UW92WTB1cjZyNkFsQWREWFBnVFhtZUVtWDUzTUJnZ2FOS3ZlM3BJWWlhUGxPQzA?oc=5",
-   "published": "2026-11-16T11:58:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Cinmoore Launches Smart Parking Camera to Keep Watch When Drivers Walk Away",
    "source": "PR Newswire",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2NTamg0N0Jkd0dXNzZtRVQ5VF9HY2FEbE14YWJmRmxtTWtURUE4dEtocVRZSGFOYWpDUFFfN0ptXzViR0RYVDlyNjlpZzBtbk15eGNaQ09qcWVsVW84eWNnQnM4NVE5NlNYZ2pXRVkyN2RiTmpRb20teUtKejhqNkM5b1k5SkpmQWh1dDdBQzAwVEV1RURrSlZ5b1ZfZnFORzNYak1oaHkwcHN6OFNNT0llSDhJbktvOHhtdHJPb0lNQnpkcUNyYmtKVQ?oc=5",
    "published": "2026-11-16T11:58:00+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds South Dakota Among Top States for Seasonal Birth Spikes",
-   "source": "KWSN",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlYzYnpsaFE2bjFlbzAwWXF3X2xlZDN2ZEl0elVVZEZ5ZVBzMjFJOXB0ZWlhX0FzSXlUcFhwNEF4RXBGTlRLZGFsS2lzTVk5RXBEOVBBV1E4LW1Ual93R3lEQVhyVElhcnFsM0pCaG5ZT0NFQ2liZ28xQzZ5ekZPbjc0bEVsYnhZVUVnNkNFdDd0dExTR2Noa3J5NF8?oc=5",
-   "published": "2026-11-16T11:57:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Russia’s Kerch Bridge Has a Problem—And Even Occupation Officials Fear Moscow Can’t Protect It",
-   "source": "UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGpJVFpJX0ZNWjRLREJUblJDWHF2dGQ5cFNyYjV5aFFWOWpYVEUzSWpvNFQyaGpQdXFIVTdfYjRUTTJzRFIxY0hNQlI4NVhWWDA2YUpmNW9hR3c1QnNPMG9JRERYZ2YtdGVmMkllYTBnN1YyRk5GWjJURFZsODIyRTFGamQ5TF9mcUFHRnVjYW9CalR6dWxaZ1FYX2RaYldCaWpJYk5pN3ZDel8zZ05USkZxRHZkcWVYWWJfSE5kSFdtODEtckU0eXF3NDJ4WEpzWUZGTzhB?oc=5",
-   "published": "2026-11-16T11:52:48+00:00"
   },
   {
    "cat": "nauka",
@@ -5873,35 +5089,11 @@
    "published": "2026-11-16T11:50:53+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "IDF: Troops demolish 300-meter long Hamas tunnel in Gaza",
-   "source": "The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3A3SHR4X0tuV1QtS0x0d1ZBbTlEbXk3R29DOHJMdnVQOHM3aDJmbTY3cWc1emZVVTlRRlVvUXhyTlRoSUg0a2xfSF9UbFNzR0JLWnBxMkNpOVdsSnZVcG1mWlkwWGhGYm10UEtzN2Vha3FrMjQ2eFpER3lnRlZ5RFppczY3Zk9FNGQ3X2hNbjJsRTFyNU9KWFlVb2JtUEJGUUx3?oc=5",
-   "published": "2026-11-16T11:50:08+00:00"
-  },
-  {
    "cat": "energetyka",
    "kind": "news",
    "title": "Nuclear power supporter, opponent clash at referendum forum",
    "source": "Focus Taiwan",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRHZWVndnS1BBcHNsa3RKd1lBbmtNVzYwZUdWc1ktSTE2WTVfLUI3VkRVclg4QzlTb1BFR3cwdUpPeG5ZU0NydlFxNWZYTGV3OVRuWHpJcw?oc=5",
-   "published": "2026-11-16T11:50:00+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "NASA Voyager 1 To Pass ‘Extraordinary’ Distance From Earth: How It Compares",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdWM4YnpmTXl6c2F5Z2wwcmRKdEZET1JTZkhBamNWbWJSWG5tODVfRWlhbzlGWDJXVEVKRW14Ymw4aVhySGhBZnlmUWttQUFNYTJSQTNwZ19zQml3QU94WWk0YW5CbWFmcFhKclN5NA?oc=5",
-   "published": "2026-11-16T11:50:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Williamsville has new fix for old Ellicott Creek dam problem: ‘An Island Park once again’",
-   "source": "Buffalo News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGhJWU1RNDlCTnhhbUdWb3dVSExDY2FGM05XbHhOZzY1SWluT3VSOHpQWndwaFdWSEFKR21JTHdMVExhaGJmaXA5d0R3QklMN2dadWx5QzRmWnBVblZBN3B4d0pLelRNUzFnMkI5bDFRa1BSNGl3SFJValhhZDdZYTdsOUZkRTBNS0tqeEVlTHZJSWo1NWo0eTZJek5LVXd0U3prTEZLTQ?oc=5",
    "published": "2026-11-16T11:50:00+00:00"
   },
   {
@@ -5913,28 +5105,12 @@
    "published": "2026-11-16T11:49:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Bladder cancer cases rise among younger women, US study finds",
-   "source": "ThePrint",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEl3cFNGR29jZ214VVhMWE0tZVozc0ROcElUdXZMN0RWaEZxd19seURTeUV0c3c0elJ0TFZsYzNTa2ZOTzNGaU5ubXFrMWtsXzRoNFJnSVJGd083VGw3Nk5hQV9GcUtyLVhrUWpaVUVNQUtVWjBMbWFyV2ZMZmZsN3lHYWxCVUhfNGFfSWoydU8ydkdnZl9wU09tZmlWUdIBowFBVV95cUxOYnhoU2NudU9ZSlQxaTJaMWdDd2VSUXJpWFZVYjdSbEdHdVpKOElmNDZPckY3dmdxanlHMjVKZjJrRkRzRG5hYmZXbHFrX2dyeUNhaV84UzQtSjVKNzNTSkZiWk9LLWdMSlJWTnNOVE5LbjJwSFFDSGNHTGdib1dSQ3VHYTBCUkFGdFZfTHJUQ29iYXpUUXVzSWpDX1oxbXJuR3M0?oc=5",
-   "published": "2026-11-16T11:48:36+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "A Smith College Student’s Summer at NASA",
    "source": "Smith College",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBval95dWltZUxsSDlUNkJqU3hoVkQzQ2JET1ZETnVZUTJ3WURLanFZb0pOSE11SjEzd05Xa1NnamtWSVo5RFJ4TUVVa25ObWxWVWRrUnN2enNVY2tsZmF5S0F5aWFEbURGNHhRMV9nMmY1ZVRBWVVJUEFaeWdudw?oc=5",
    "published": "2026-11-16T11:48:34+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Lane closures in effect for Hernando de Soto Bridge",
-   "source": "WREG.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmgybGdQdTA0TU41S2toVkY2M0NWQVpTUmpPdFA4OHMwMmtuVEtzdFkwU3ZqVmNZak1KQ1NBSjFFYnV6cWNxemRKX3hwVVRLdG1acG1qTThqRVI5Y3VSTTh1VW9ZemlySjhBLTNEcW5YY2M1X1Z1NGtzQTZ4ZmlCSzRlNER1WXJqbW5KYg?oc=5",
-   "published": "2026-11-16T11:41:00+00:00"
   },
   {
    "cat": "kosmos",
@@ -5953,14 +5129,6 @@
    "published": "2026-11-16T11:38:08+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "New Portal North Bridge opens for NJ Transit, Amtrak riders after years of construction",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWklEOU1HLWJEeUlRcF9GLTlub1NQYXgxb0Zlazh4V3dNTnZpTDN0UUlxTkFUcDdYY1BmNnNKVEV2XzlUbEJmSWpZSkZsYkNyNnpjSzg1ZlBpOW4tTTYzRFZudjVXOHptR0cxSTEwY2xDdjctR1ZYcGluSkhDMGRTRC13RjJqZVVZbWZUNDdDYUxPc2J3aTJoNHNCYXFWQQ?oc=5",
-   "published": "2026-11-16T11:38:00+00:00"
-  },
-  {
    "cat": "militaria",
    "kind": "news",
    "title": "Putin Humiliated as His Crown Jewel Is Hit Amid Record Drone Blitz",
@@ -5977,20 +5145,20 @@
    "published": "2026-11-16T11:37:39+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "South Africa cuts Western Cape water allocations as dam levels fall",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFPQVhrM2pJVG02N3hJLXFNUm9GSDhvWTBLUTNTNTh1eThMOTVhME5PSFE4ZExQUFRkelZsc2gzSThkRTgtRDk4ZEpoREtLQUJhd056bWx5bWhwdVBfZXRWdG9PSWRiV3lmek1QTGQyZ0JkWDZwZDJvMl9ONlhjXzVzWF8yajlhdGRjSWlXQkJLaGV4bUdLV3VMTjBJZjlpUktCeGRUbEtubjlKcFZkM0JNRQ?oc=5",
-   "published": "2026-11-16T11:35:43+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Polska energetyka i gospodarka mogą jeszcze być normalne. Kluczowy projekt ustawy",
    "source": "Radio Wnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVl0VThvOXVzWHV1ckR0WVo3Si03aU9vSnVsSTRSWlBkMTdFY2FlMURnODVWbkdiRW5POUtvSWwyREhSTWdmcmc2ZWNDZjUxTC1KYVJaeDM2VS1SaGJiNmVWcjl6Z3R1VlBhVkhNMjREZG0wa1lrNlphcHNqTURFc0VOOVZ4NnRrQUIwVzBaX3VlUi1aVDJFXzgtQkNIMFNNR3U1YzNzb05pUm8?oc=5",
    "published": "2026-11-16T11:35:01+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Portal North Bridge construction complete, ending NJ Transit service changes",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUm1mVmdxQXI3d3gzd004YU5ZOEUzcUIxQ0lTTHdaS0gzUG5IVzVhTGJZUHV2ZFBQdTFMRzhHdEZpbGVMLVdscVJobnRxSnIzcUlIY3pQdWxfaEt6NkhuM3NOa3VDcHQ0NnIwbElWYmdWTGt5Q1Fub0F4N3FucU9sOUY0VnZwczdDcm93bHlLZEVvVHBFWHdMbVJVV1lQQzFtekhPektydEdmSTR6SzRQdlkzdW0?oc=5",
+   "published": "2026-11-16T11:34:00+00:00"
   },
   {
    "cat": "*",
@@ -6017,14 +5185,6 @@
    "published": "2026-11-16T11:33:34+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Heart of the High Plains: The Bridge Children’s Advocacy Center",
-   "source": "MyHighPlains.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlQwZG1sVHJWSGdqZGE2SXQ4LUxJb1otY2FIRTRpbVFWbGRiTGxsYkwxUnBnTV9wRWxZcjYzTnpRMm81TE1aOGtwV0RUMGt6YnVFc195Y1luYjBWUnIzeEwyR1QzQjV5bWRWVzB2MEdqNEh2UUtVel9Lc085WWJhRzhhSW5MczhnNHpvQm9WMVZZVjZvSHdHYk1zMnVDMkRabWdxWW4ydGhvV3FtblHSAbMBQVVfeXFMTTE5VkR1ajBiNE05TUtWWl9rczMwTEMxem9PcEUzS2lGajNlc0JQVTgxZUd2ZDNLaC11cUFEbW1OVFM2RXpULU9pVG5xWFdDeEEzT3hCU18ybjRyTHY4VUl6Ykdra2xjWW4wdExmNmJGbWZIMmNuWGJxTUFjMEhfcHEyWm1LUDhsWW8zaUtvbll2Yk5QeV9EaE9BMXNJMVFvZUFTcjVzOGRlc3hWLWJsWmwzVmc?oc=5",
-   "published": "2026-11-16T11:30:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Ukraińska energetyka pod ostrzałem. Tysiące ludzi bez prądu",
@@ -6041,36 +5201,12 @@
    "published": "2026-11-16T11:27:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "ICSID may offer member states economic value, study finds",
-   "source": "Pinsent Masons",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSi1RRTA0Qi1SemhxWVhCaVlyX0JtYVVwbVNobnV5ZmdRTklSZTRERGF2bnY5dXAzY2gyS3BHNFZJWGxkcHJib0VUMmREbElYUzBvTkZyaW5pZXpvamxoWFpHdG5meGN0NFZSS0NSUzVzb29ZWFk0NXE4UHdnY2FHanN6RUk2Z0JTVDBmUWkweWs?oc=5",
-   "published": "2026-11-16T11:21:30+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "What Stands Between a Breakthrough and Patient Impact?",
-   "source": "Modern Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXpodHRwTEtaS2FtRDRmemIzRjFkakwtajV1TlVVRl9LUzZjNy05cDJBSklLOGZ4WF9xTDYzem4zb3YzbFV6enl3alJuVHJDRlRQT09SQ0JyWEdfN0NPanIzdTdZcXRUTzlMNHVxS2VyanNldXdWNUQ0TmhlUXAzTWlncUEyc2Z0RTJrVlFCcjBXNFY1WVJ5TFF1dmRBSUdBeHV6VURxcm1qdjdzdUkxdg?oc=5",
-   "published": "2026-11-16T11:20:52+00:00"
-  },
-  {
    "cat": "kosmos",
    "kind": "news",
    "title": "SpaceX catches upper stage of Starship rocket in historic first",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXlXNUp6N0RxOHl3RDJKMDJrOGFMUE44WXNhcXlBQlEwSlB1U3plN094ajhJSVVCNlY5ZlhmWlhsNUdvUU1Udnl0MlpsaWxKdkhPS3pFc2hib2RJbXdhUGViNW1WZDc3WVVITW9SOXJtNnBWRHg5Ny1LMlRmaHMzeGp4SzYtTFVkUGFNQkRmTDZxNFhraWhWTEhoWktWRDNSU1ZWTm5GWkkzUQ?oc=5",
    "published": "2026-11-16T11:17:06+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Shockwave Therapy, Manipulation Best For Frozen Shoulder, Review Concludes",
-   "source": "HealthDay",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdE0yWExGdkhiSXRLOUlrMVByT0FTbFBPTjdtUmMxWTdKTXBCMG5zXzJuNlRRcHZOVWNkaEN6d3NBWFdTaEVtQl9saU9meXlBbG82MFE5LUM0c3Q1ZFcyaloyanU3ZmE4Y3BxNm1xaDJrZ2Q0TjQ2M3MzWWZOd3NCdE5NQnp2c25hY3dpN25LZkZISDI4YW4zZk9iOHU2MVl3azZVOVkwUGxyQkdfWVhhbnNxMXhBNkZaTlE1eGd3ZDZ4QVE?oc=5",
-   "published": "2026-11-16T11:15:00+00:00"
   },
   {
    "cat": "*",
@@ -6089,6 +5225,14 @@
    "published": "2026-11-16T11:14:08+00:00"
   },
   {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "River Nene in Peterborough closes to traffic for Cygnet Bridge construction",
+   "source": "Peterborough Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGZiNHlwQTRWSHYtQkJWMDd6ZVk4UWxOLXNUeVpiclQ3dW1wM1h1RXBzMG1OQW1wd2ZWcDZqNGdSWmtJb0ZHci1zV0hNY1ppNWRoUFhjNS16b0hfX0tFdEtEVWg0VlVfNlgxT3ZET1lWTjVYRDlmOW1nUG03bDV4eVJ2NVZ1TUZKYXRtaU14UmZRRTZoY01xMmYtS1RrQVZvMVhrNmQwR19mVDl1LTNrTV9IcGNfUGhkTjgzUGhBQjZOdw?oc=5",
+   "published": "2026-11-16T11:14:00+00:00"
+  },
+  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Syntec Optics (Nasdaq: OPTX) Earnings Call to Highlight",
@@ -6105,44 +5249,12 @@
    "published": "2026-11-16T11:10:12+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "WASTE2H2: Breakthrough technologies for converting plastic waste into hydrogen",
-   "source": "Innovation News Network",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ05wUTVBeWlUVC1RblpXZ1R6VUV2QUxHUWM5TjFjemFKQUNKY2xIbl9QRUVOcUV1N0tKcFFFQnVuTEFHRWhtNHROQlB0SFg5cDE5Q3N5YnhxaVhmdmg4ejU3LU91TC1iNno4SzVvUW55TldGZjVpUWVOWHp5ODhpRE1CbHlPbm1CR3ZjZVA0NTU2Y080YjVCM0ZaMER2Nk50Vjd3ZUppeEM1eXNNSF95UEd6b3VnQVBaaGdSUS13aw?oc=5",
-   "published": "2026-11-16T11:07:15+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "‘Abandon ship’: Inside the collapse of the Villa Vie Odyssey residential cruise",
    "source": "CNN",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWtNaHVHaFdFVnM2cnRLSXpTZ3hBODdITk16ZmY0bm5LOUxQd3d2X2lKWHdMV3FpNmxqaFFRcnI4RUY4ZExIczJHOW5iZUY4VktoSzZLbnB2RXhLX3JoZlZtaklCMGt6dzRnN3FKTk5SV1d3RUpNQ0hibUpNa1ZNMjVyUDZhQURNbHRReU95bHYzV0U2Ny00?oc=5",
    "published": "2026-11-16T11:06:49+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study finds association between children’s social media use and differences in brain structure",
-   "source": "News4JAX",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZng1MFBzYVdYVkhyWjU1bm1qaEVEZ1Q2Q0Y3dGFWLUJhb09OZ2xrRWFNTjFHNmgwQXVtT0Z4N1Q3cklrOEduQ3RHVXdCaFlzUXBNMFdCc1lxZUY2OGpaSXY5MmdURTVCX0o0TDdzVUlKcG90TlVaTG9hQlBkTklQMmNjQXpIOVlNdnMzYmRwS2lHRl9CTUNvWGZRWlRCVEd6VUVnQkE2Wno3Y0Y5RVU3NGlaVGhNYm1Ma29sRmN5QXBLSWtZNEt0SVQ2WHJxV253?oc=5",
-   "published": "2026-11-16T11:06:46+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
-   "source": "investingLive",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlITGw2QlR1MWJfNXBoM3pkTHo4RjViOFh1UXNzN19hWDBmeFBaVFZYazVDUE9tdWNmZ2dQR3ZIVmdwa0xMRjVHVkhlNVhNVXJXRFZaNjFnNzhVY2FIUWt6N29ZMXpaVEdZOXlTdkR0TXhJNkhiZTRZYXNvMThXdURVWDRBYW1SY3FfUzVMTHlJMTRQWlQtVDRnSlBmYTNZZXp2Y1J5R2NXVHhXMndaZk5RdXp1cWo4QXVvNzFn?oc=5",
-   "published": "2026-11-16T11:06:12+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Highway 24 Bridge Over I-94 Closed Overnights This Week",
-   "source": "KNSI",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2lCd2VlRVp4VG1NMXUzNWlhYzBHanUzMmNZOENfdzFfeTNndHlOdHdGdGwzWmN5cUx0MnVfQmpfcV90ZHpZVmtoS2pSd0JsRGdhNDNXMXVBbFExYlZlVlQ2U0FiaXI0X3I4QVhLMm1yaFF1VS02MUU2alJvd25IUXlOUnpJS1FZLVZVdHp3eWUyOEU?oc=5",
-   "published": "2026-11-16T11:05:25+00:00"
   },
   {
    "cat": "przemysl",
@@ -6153,28 +5265,12 @@
    "published": "2026-11-16T11:03:29+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Bridge closure in Munroe Falls leads to frustration, lost business",
-   "source": "Akron Beacon Journal",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU28xRnlXbXVVeFlNS09xYlpjU3ROZjlfbEdMa3FWMGc0MjZPa05HOWJ4aDRTYzBob0NLb2oxLWQ0cDBSTmdHYTc1bEIwbUxLbHpGUjdkUHJhYlhiWWdCTHlFMkdRNjJZQ1d6VDVCMGV0dTFSRzRWU1B2NU5uZ3lZdGJ5YjVUeENjTmZrQTdYVFZtbWFteVNxYjBrWjlqTzdrVDc4c2drLXdFZjJlOUxEOGZJU1hvQ3NJQkpMQ3NyN25HYlZCREVKZkRXRTVwX252NUJPRlg4ZVNSbkgwOHBSY2pOaWdrYUZtUUdOSnFPUGJLaXl5UzEwRWh3?oc=5",
-   "published": "2026-11-16T11:03:00+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "SpaceX's Starship nails historic ship catch in unprecedented test flight",
    "source": "WGEM",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEc4NkY0azVPNEFyb01ZU1IyRk5WR2JQcHFmWFJRdktLLWlNd1BwbkluSm5kNlM2andxZVUxdUo4aUllX2EwRlB6aFlOeC1rU2NCcUJqNUJXSGlZVC1raGhNMGlGR0RGcjNZdUxUbkVJQmgzcTZYUWkzYWFQTzZnR2dKZUlLaEZiNFQwQUIwWWFFdXdSWUN3bkFqTVJ1eDF5RjR1WjRvVjJOdjQ?oc=5",
    "published": "2026-11-16T11:02:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
-   "source": "France 24",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTZzaC04T2VhTHQtQTF5bGpXd2ZpZWFhc0M4R3F1RXA1VWc5eGlzeW93enZEaG02cmlHSEprVkE1Sjgyb2FQZkNRNVY5bWEybkgxMDk4aks2bTM2V0g5ZGlLMU9yN2JpNjZVTnlxN0N4TUhaV1luS09ZMmNZTWd2ZW1oLVgzM0F0d3pkN0tsOTdNd0VtT2FLaGktUUxEbmdRSHVBbG54aU1QMTNKTG4tM2s5OHhWaDdsWWd4ZlpSTTBWclc2bjVYRw?oc=5",
-   "published": "2026-11-16T11:01:42+00:00"
   },
   {
    "cat": "kosmos",
@@ -6185,12 +5281,12 @@
    "published": "2026-11-16T11:01:00+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "nauka",
    "kind": "news",
-   "title": "Reading officials favor keeping Centre Avenue bridge",
-   "source": "Reading Eagle",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2VUbUhrZE9lUkoyMWVZUDRuajE0S0g3NUNWMGdHRmZjeklJTU5IRzZ6TnBNWFFVLXpiRlJSLTMwS29DNGJxVE8tTVdSV1gyTXU1bm5ITm5NeUdVbVJaMFdRNWJWWDNBX3R0anJJUzBEY3RqSWFINjEzWXJBOFBSVjMySGEtMW81bGYycUZqTHN5RlpWUC1Scw?oc=5",
-   "published": "2026-11-16T11:00:37+00:00"
+   "title": "Scientists discover your cat uses meows to control you",
+   "source": "geekspin",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXFoeUFGQ1pxcDRoZmVaZWNoZV9GSFdRX1E2WHV6UjlJOTZ2MjNBSk1KVFNoMng2YlhHRmwyUXlGQWtsbE5QQldRa3oxaUhwT2x1dE1zMmJNZjFYckY5ZXRiNF9RUndZdXE5VExpNllRdktMV0FrUUxjTHF6OTgxZw?oc=5",
+   "published": "2026-11-16T11:00:29+00:00"
   },
   {
    "cat": "przemysl",
@@ -6225,14 +5321,6 @@
    "published": "2026-11-16T11:00:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "What’s next for underfunded Jenks dam project?",
-   "source": "Tulsa Flyer",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDg1bVNWcVlxaVFhLUROdFRUT2VMeFVEaXVnTVk4ZXBESmlNTFBjdnBkb2lCUHFKdUhyTzhaQ2VzTWRPNWM4M2VPRm9GTGN5T0NsUzBvQVVkYThyaXBYem5QUnpIUDRPRl84R0hJRng5QXJ0S2l6cEVjME93R1VoNW5TOA?oc=5",
-   "published": "2026-11-16T10:58:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Thermal Management System Market to Reach US$ 180.20",
@@ -6247,6 +5335,14 @@
    "source": "Seatrade Maritime News",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDA5bUF1ZUlGSnZmWVFvN19Xb2RJSHlkcTJ3WmdyVlJyeXFIZmdGRnI0RTMydHZ4YV9CUEVFeHctWEY5U0xqS19aSGlkTGNHRUZrMV9QeG1BWWFiTTZJOGRqeU5xeTNZRWN1SzFWRDRNckxVQW5QOHFjcmNadWI0MmRNcE15d2dXYXhUbUdBbjlrRHJDQ1Bxb2p1Qm1zVzk4U200?oc=5",
    "published": "2026-11-16T10:57:23+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "At the request of MINEM, Proinversión reactivates development of the SITGAS megaproject for southern Peru",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWU5GQkRYRFZfZzdVT2JVTlViMHZfTnZhdU03ckNKMXFJMUdLN203OHBldjc0THc0dExpTUxkYmgzcXQ3N0RtM2xjRlhvbzVUTTM0Q1J4eVJUZzlGV3lCUG80bDhadEZHX1N6c1ItUVRzVEdPUDRMM1dqM3hMQVg4bldwckduTHFOV0JEUm00S0gzZ3BSWVhjUmJxQnpwWGR3N1lGWktsczYxZUxKbC1XT1hfWUF4eXlpcWRmV0FXekNoOWRNem55V3Y2bUxUZmNMRHdpbHJn?oc=5",
+   "published": "2026-11-16T10:50:17+00:00"
   },
   {
    "cat": "przemysl",
@@ -6297,14 +5393,6 @@
    "published": "2026-11-16T10:39:00+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Russia says Ukraine attacked Crimean bridge",
-   "source": "POLITICO.eu",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWG44a3lGWXRzMmQ3c3NwUktlRTd2UVJBXzJoNXY2bXEtOFdkbEQ2RS0wUVNobW9ad1NLT3o3ZDZtZnF0WV9jRUh5VExIOUFISkdjdU9EMndOQU1vS3VvbldSSlhVajBxckd1YTlKRmFqSm9sb2FJcTBZZFpha0VvcnlKSDBkZ0xsN0RyQ0Nn?oc=5",
-   "published": "2026-11-16T10:36:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Awaria Microsoftu doprowadziła do wypadku w hotelu. 15 osób poszkodowanych",
@@ -6329,20 +5417,12 @@
    "published": "2026-11-16T10:30:30+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "militaria",
    "kind": "news",
    "title": "Ukraine strikes Crimean Bridge in record drone attack",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjhQYVU3SkRRaTZVN29Vd0lEekN4SEc3Q3AwUmRsTG9kU2RiTEdOZ2lxekZfVXd2cGFrblBULVlOSVdkUDEweXNuVDRxcW1zc1lJOGxia1NLUl9fQlJCYXJKMXkzb251Rm53N1VGaDY1QkpnOUFhX1lJY1RIeFJHYVY4aXQ?oc=5",
    "published": "2026-11-16T10:29:11+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "FAERS Study Finds Disproportionate Gastrointestinal Hypomotility Reporting for GLP-1 Agonists and Tirzepatide",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVU2UjlxbnBmclJSOHI0dDZTbExVQm5OSmVkbFREQzM1akhNUjFMR3FXMF9ud1BmeWR5VU8wRWNhOGotNWI3OWs0UXNHOTdLbWlJUUJJaFpLQVJseVJBUV9mNDZCRmk5dkRWNnpiSXk3NzdaRXFFNWVEbEZFWFlEWUtDZUpDRVJHSmNVWER3cHljTTVuWTZ0TzR0RTB5Y1pWNHpXLW9iVllHT2dnRzF4bEJ2RkFFLU03ZUtVRmFwbjQ3S1NKRk5yUG12TXdYcE0?oc=5",
-   "published": "2026-11-16T10:26:08+00:00"
   },
   {
    "cat": "militaria",
@@ -6359,14 +5439,6 @@
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEg4dFlsam9ZOXNfbDhhdUo5OXhCVDJkNzg4NWtMVlU3WEUyamppcFAyR21wX25RcC14d291b05IOEFhcnZfLU84a3pqVEw5dGprUkRmTFlCdVJLOTJQUTJtME90TGRod1FYbEt2c3RzbUpzMnN3WUZNMGkyenN1Q29tT3hIS2xrejkxONIBkgFBVV95cUxQY0VpdnlTX3p3dFgwS3VweHRMZEFOTlBoUW5fMzhiLU5wNkp2V0RCTnJQOS1FcjdxWTFqaXRVSzAwREJrWVF0cTZWY1VXdUl3a1VwcE03eTlFU0h4akg2WlZzWXBBc1o5TGVGX2hsNG11MGVFS0g5ZU5SdzlEOElNMC1xYm01WnpyMlRsTEdYZXE3QQ?oc=5",
    "published": "2026-11-16T10:23:07+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Not All Whole Grains Are Equal For Blood Sugar, New Study Finds",
-   "source": "Yahoo Health",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUi0tNWZDSlB0TExWYXdwSk90aTBfbHg0bDdTXzdLWFh0RTVyUTJIV2NZdmstSTZxNExxek5uc0VQQVd3WkV0V2JGSGpnU3lpVVlEdEZGSUp1YlZZbFlwcFlsdXVOZVRBZjVINXE1N0M3VzJTeGhEbXJySDA3OXlrbEdBajd1ZXNHSDhQZ3E2REhPR3k5SktRVWNZR0dDVXRrUm1GLTFoNmV4bzA?oc=5",
-   "published": "2026-11-16T10:13:00+00:00"
   },
   {
    "cat": "militaria",
@@ -6409,6 +5481,14 @@
    "published": "2026-11-16T10:04:00+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Warwick physicists help find first evidence of rarest beauty particle decay",
+   "source": "The Boar",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjlmaTZxZkNGRTllN0tHQnRCMEhXdDlMejBkckYtb0NuSEFYUEVVVEo2Nnh4Y0V0Ym11Zm9vQ0pEcVhCcjhxMFVseFY1WjVZUzBOZmNKYzNvNnJnaHlER3JEa256ZDBpSnNaX2R0eDNCTFJKYW5ubVc5WGl4SURrckZ5eGFGOXZJcG5TUTFyRHFMRHNsZHgwZ05tdjh6ZnJ1cU9Na3NiWQ?oc=5",
+   "published": "2026-11-16T10:01:22+00:00"
+  },
+  {
    "cat": "ai-it",
    "kind": "news",
    "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
@@ -6417,11 +5497,11 @@
    "published": "2026-11-16T10:00:01+00:00"
   },
   {
-   "cat": "nauka",
+   "cat": "budownictwo",
    "kind": "news",
-   "title": "Study Finds Genetic Links Between Drug-Resistant Foodborne Pathogens in Humans, Foods, Animals",
-   "source": "Food Safety Magazine",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaTloRW56bDY2RXFRa1pQQU5rSk5hSERkQWVjVGlXeFVRWmRxSzY5WlM3a1ZhZzNhbm5ZWXBnODFZQ0pDSm9MbXBjbk8tbFNOVUJCRTVNMmROQ09xWm5KX2huTEY4em9KSzVZWjBpUkRVb091Q2kxaXZXeDB1RjlSaUU1ci0yMmNVN01PNVRWMGJNUGNQS2UtVjhUeEVGOFc1MEViNFdSMjFXb3ZJdmpDMVJZOXhEbTA1WUcyQjltNURjQ1BacnhlOEdCYnVod2lE?oc=5",
+   "title": "World's tallest skyscraper would have reached 4km into sky – and cost $1trillion to build",
+   "source": "The Mirror US",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FGWUxZdEtEd05XcHVkOWVoOGt1a3ZVRDA4d19NeWw3TE1ENlJLUFUxUUk0NXA4bV9RcXpRV2pTZFgxWFNvczE5QkxsSlpsc3RlWm84bGlPcGZINlVrSDFJdVgwcEtMSEVmdTl0RjZaUnlMaE9HWHNTbWVNZFdzcElHSWJET2MxUnRrV1NuTGRkN0XSAZgBQVVfeXFMT1NSR3BMSzlFa3R5dGEwaTRQMGRIdHJxX09mUU53VGpreUJOT3ZRUHRON1E1OWJqREtvWFl4dVVUSFRhNlE5ZWx5RE12cV9kWUg2YklvSlMtRFN2dTItZ3pEd3daMlRkdEppNTUtT3ZyVHUtMXN2YW5sT0g5dmFyYXA4eFFNWmlpb3h5YzZVSjVsaXlPQTI5Y1c?oc=5",
    "published": "2026-11-16T10:00:00+00:00"
   },
   {
@@ -6435,18 +5515,18 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "Residential Care Facility Outdoor Access May Reflect Structural Ageism Study Finds",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGIyRG16dElCX1V6MGxsWmRoa01vWmRxekp5MXZqbURVMlNHMFBmR05UN3llQ0w2YlRYbll5VnZUd0c3cVBUVG96ZW9RNldxal9oMjRiZHhRdC1NdnZzTEY3aXFQeUxlczhCaXZ0REpuejFMcUNuX2VWa1pYMnlLSXRMRmVfM0U2azFpMjZzNFVtd01xZ0RFM0U1MXlnanZhb1NpUGNBZWZjSXM?oc=5",
-   "published": "2026-11-16T09:56:08+00:00"
+   "title": "Chinese Scientists Discover Fairy Circles in Northern China’s Arid Regions and Explain How They Form",
+   "source": "SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSC01MXoxZDBJcVpkMmp1Z0lUQWQ3Rk1iR3ZrMkRTWUtNMWFVQmd1MXh5VGIwMnVmV0VLUTZCTUVJeWt1U0dCdU5fN0Q4aU40Q29EMXhZRkhsT0JDY0JqUXU3bTNrZ0NiejJZdFhXSDMwRVk0Wkx6TzBuNDJXSmpETHI1NWtHd0d4TEVRdk1HQU5MT0pSU08xQjg4RS0wdHlHNjBCb0hNdnZhR2Q2LTZFODloa3RBTEtER3p0UWdDTHRBME5y?oc=5",
+   "published": "2026-11-16T09:59:18+00:00"
   },
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "High-Output PVCO Pipe Extrusion Machine Global Partner: JURRY’s Breakthrough at Plastic Pipes Expo",
-   "source": "EIN News",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHFnMHlaczdoZ0JyVXFTSTZnS1IybEVwWFdYNURYS1BuZktyZ2dHMVNZWGhyUTVPaUJGRm9JUnAxRVo4R1c0ck5mYnM4N3J4ZEhGd0JUa3BJbVJlbEJTX3o2X0dFVnpLX1ZXS2tiS2ZXUlBjdW1oN29jN0VZMjkyODJDWU1ib202TWo4RUVmdTh6Mkw0LUlsN3ItQWlveW02SHF1UlBPY1dQOWN0bTZTLV9reGVqSmVBTDcyVGlUckE2eXJiakpCT19xZkcyX1JadUxWUUZB?oc=5",
-   "published": "2026-11-16T09:49:00+00:00"
+   "title": "Zhejiang Taihua New Material's Board Elects Chairman",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUYtMTJTUnZuZlE0UWlrUXBlV19kRkZ3Mk1SYzYxTFc2dEZuSzNTY2M0Y2NSZFozVk9lQVk4bXY2YzVmLUZkLTN6TGFLZWFzZkVpeWpNN3FlRW1nQTJoaEpUZF80ZzMtQ0Q5RF9yZmMzb2tiWVhwWHFaM1p2MnlKOVB0ajRPT0o0OHFNSG9WN093akl2QUc1LVpjRWRFZWpJSnRqU0ZxZXFkX0x1dWFwU0Yxdy10YVpkZEZrc0FRWQ?oc=5",
+   "published": "2026-11-16T09:58:53+00:00"
   },
   {
    "cat": "nauka",
@@ -6465,12 +5545,44 @@
    "published": "2026-11-16T09:44:05+00:00"
   },
   {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Dangote’s Namibian Megaproject is a game-changer",
+   "source": "Namibia Economist",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcmEzeFZSZjNLTjMtVzBmcjhydGM0Yk5kdVUwR003cE5ZYktBMFIxcjJKdjRrWF9wa09NTlQtcThZSkZTNUc0NVh6MVVUNmhweHVfaWg0MVpLZ1BpVkw0TFllNXRweE5vdExiREE4UENKSi1Ec09Mc0JOQjRvUQ?oc=5",
+   "published": "2026-11-16T09:41:35+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "11 rare photos show how Burj Khalifa transformed Downtown Dubai forever",
+   "source": "Time Out Dubai",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDc4OC1lcTRILTNhMDBoRXN5T09kcE03VzF0Wk1WVE95OGZnS19RamVzWXNjRTRXZGJDek9HZFlyMVdWN2RjQXM1Q2I5OENFRzZQYzJXdWF5VWFpQVg1Ri1GcHBoSjNUSFFmZndEQ0xIUlhIejFxeWxnbzlUUTdLY2xn?oc=5",
+   "published": "2026-11-16T09:40:08+00:00"
+  },
+  {
    "cat": "*",
    "kind": "pl",
    "title": "Wielki spór o przyszłość giganta AI. Elon Musk i reszta stanęli murem za byłym CEO",
    "source": "Geekweek Interia",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXczMFJqM09pdWQ0VlZWOC0zU0lfNU9CQjc2V1pHWXE4SzhHRlNqQ0l1aEJPeFppbVFmQ3p4UF9Ca1FPU2x1M3c0STA5VkFkbTVwTHJJVm14OTE3Q29icEZtM1U2QV83UWptSjRXbG1QNmxpandpX3lHdEJvd0tzTDU3N1pEWC0yem1veW5LSFVxZE1JQUxwQWJjX05GX2N3RnpCX2p6RWNxYkNNNFNXZGJmX3BVQlRaWWc?oc=5",
    "published": "2026-11-16T09:39:42+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Ukraine bombs Europe's longest bridge | Extent of damage not known | Inshorts",
+   "source": "Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSV9jSWtrYjByUnkzblhkbjZwVkdfWTlFT1BURU9YMXpQaGpWbUNQemI4bFJtMGlPOHd3QTZFTWU4Nk95LURmSjJYcXVycnJyZTVJaURhVmdsNUItajhMc1NYS295SFBPZm15Wnl1cFRlbU55TTN1bm9IUG42U0FIVEhDSXZJb1HSAYwBQVVfeXFMT0x3MlNSM1hTMjNFR215ejMxM01Va0l2aDd5M29vSW1INlJEVGR0ZnlIYkxCQXFNWFdRRnp1LWZZeW9aNTR0UXRoZWh2ZWRHc1Y5NDVSaVNFdnUxaW50ZVhha01pT2l6RWJEZHl3WkNFRzdCdzYwN2VfbjZodlFIbmk1QmY0VVc4X3pZZFE?oc=5",
+   "published": "2026-11-16T09:39:39+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Europe’s tallest residential skyscraper is rising in Spain – and its technology is extraordinary",
+   "source": "Euro Weekly News",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm9mSTU5NmFYQ2JVWnZ5dFhBclNvLVg5R28wZU5taDJwUTdnYmp0OFNpZy1rczNIcU1YYkIzTXpOcEg0a0kzcVIydk8wbWtfWUxmQnRRRk51dTFxeWR0b3F5UXQzdjVZYTZpaTJIeUdqR1A0U3Fubm43N3FmVi1qUlVYNEpoVDEtVUNKbmxva0Y0RU9oTURfRUlMWlBtS2NZMWhlYkI1YUlCTUpvN0t0WVlHU1pLNkZuUUY2QVRsQzRtWk1zaEpVbWs0N0U?oc=5",
+   "published": "2026-11-16T09:37:24+00:00"
   },
   {
    "cat": "*",
@@ -6497,14 +5609,6 @@
    "published": "2026-11-16T09:35:54+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "ASELSAN makes world-first breakthrough: “EJDERHA” disables 51 drones within seconds",
-   "source": "TodayPress.tv",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFNmOC1QdGduLWxVNTBoczg0eWVJcmtKMHZoOUhZeFlaLW5HZ2R6VElBSVk0T01DekVxWUVnQ3BTbDJ4SzdGMm55VVI4ZTdZemZsX2dHWTJxeDU1bjkyOGxiWXRwaDg0NWlxRFdwcXpqVUtKc0FNVGlKSHJzaUVzU3RpeXhCTlRkWUNwYkVoQ0hvR3VKcW5rbGI2cDhZT283NVdReFJvSkZWRmZGTHJxdQ?oc=5",
-   "published": "2026-11-16T09:35:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Technologia druku 3D z powodzeniem stosowana w skomplikowanych zabiegach chirurgicznych w obrębie szczęki i twarzy.",
@@ -6521,6 +5625,14 @@
    "published": "2026-11-16T09:30:31+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Physicists determine the mathematical limit of time reversal in a quantum system",
+   "source": "NEWS.am TECH",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tM3JwUjg4WEZKU3Z3Y3NhN1cwZ2NhSDlCTnJkbUN1ZjBTS0JFTGRBTTdRTUZOM3BMaHpDeWl4RkpGNTQyNXZCcA?oc=5",
+   "published": "2026-11-16T09:30:00+00:00"
+  },
+  {
    "cat": "*",
    "kind": "pl",
    "title": "Kosmos, 19-letni Polak zadebiutował w LM! Niedawno grał w III lidze. \"Jest zdolny do dużych rzeczy\"",
@@ -6531,34 +5643,26 @@
   {
    "cat": "budownictwo",
    "kind": "news",
-   "title": "Ukraine Strikes Putin's Prized Bridge For First Time in 18 Months",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVklTMlo0bTNaSEk4UDFBOHkzREJCMktzeC1RVTkxbXYySFE0Znc2MWZ1SFp1X1B3SHBKUi1vclhhdWFFX1dSQ21XYjRvVzNlYVBQanJjN0lqNHlVYmpOWTNKcGRiaGN5T2FxTE53QU9rNldCTUNiN2pjMWZ0NW1XSE1TejJpdDdWQzViZlBIRmpiVFhRb3c?oc=5",
-   "published": "2026-11-16T09:27:00+00:00"
+   "title": "S. Korea-ASEAN summit in Manila",
+   "source": "Yonhap News Agency",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GOFMwRnByWW5fUXFUbFNpNGJsRHhUazdZQUNOckhrZjZJQ0ptcWVtRlMwQnBVMzVHTXAxOTA1UEFVcHBhdGQxV04xZy1Db1VKdTZQX09RVW5VSjRKZzZ3RVdyNGFiNzRGRjJYUUNZaldhTXB6Y2s4?oc=5",
+   "published": "2026-11-16T09:25:37+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "nauka",
    "kind": "news",
-   "title": "UN ambassadors enter Gaza for first time, tour Hamas tunnel with Israeli envoy Danny Danon",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kSHZkOFBWcUNIZXZmV2doQjBwOGhhZ3dQUzVhX2dVamhFSlU4empzbFQwQ1BVZ1huODV0QlBxTXRNcUZPeWduTlVBOUI5YlY1ejRFSUZWajVXWUdI?oc=5",
-   "published": "2026-11-16T09:22:11+00:00"
+   "title": "Researchers develop high-porosity materials from sugarcane bagasse and straw",
+   "source": "BioEnergy Times",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk5WMnJid1puUVJ1aTZrSGE2cllaYzU1YUt3Wnc1eGJSZ3Z0dEpTNmYyNWU1dXJIUFNpNzUya2p5Yng5Sk1QeUlYQzNiVEs4aUEyTWJ2Mk1UeGxJSlp1eHlsYUcwR2lHa05WMlZKc25UOEtUNFhhdnJlV1AzUFV2TW9XMkIwVWUwaDhkWkN6MVpKTXBucUVhZ1lBcWluM19HMVJjWXo1UQ?oc=5",
+   "published": "2026-11-16T09:23:13+00:00"
   },
   {
-   "cat": "budownictwo",
+   "cat": "militaria",
    "kind": "news",
    "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
    "source": "The Moscow Times",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
    "published": "2026-11-16T09:16:00+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmVubTdWMGkzRFAwaHI2SjFkaFNvQnl3SXBvVXE3MGdCcHVzVzdPV2ZBczZmMmZYMzBoaGh1cmE1Wml3Njc4S3F6UUxISWhUQlFkVzB1aDdZNGFBaExNanpzY1VFYnNJOVNJRVJGS0xwWXY2SlhwYVZiZ1VzLUtFNFB4RW1qNmN3X3JMVDl4eXo4eDUwWXh2U21sREdZRHhYS1hHT1BkYlNMWW53cXdlQV9NNGJ1NnR6LVd30gG7AUFVX3lxTE5PQUxQRGpra05rTDJuMC02VVJrX2plOTRmYlpYNmlXUnZmdHNnWVpUZldDU1k4dThyLU9RY21zZjFSWnQ2TVpmZTNBWF80VEZySUhGNlNNZWdGQmhSRWdITUVSNWRnVkc4WGRkS251Z0Qzc01aSlpYQldzaV9kbmZTNlRmckJ5RVNCOEdWSXNnYlFnTVFvbHQ1WkpCazJEUzh0RWVyQ1FmMUlzU05MYXNaU1IybzZMVEtSRUU?oc=5",
-   "published": "2026-11-16T09:15:47+00:00"
   },
   {
    "cat": "*",
@@ -6569,20 +5673,12 @@
    "published": "2026-11-16T09:15:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "The Pixies loathed the song that ended up being their breakthrough: “Geez, this doesn’t even sound like us”",
-   "source": "MusicRadar",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdW9rbHMzenl6UHdGSS1UVnFFSjVQaTNydmRHZ29FaEVKRS1CUUJ6Q1Z1Q3AzYVdrNmM0d3NYLU1zUFNJRFpYTlhfOF81SHFtaWMtbXFNX2JLd1ZOanBqZW1ROVVMQ0ctNGthMzZ4VkF1OF9ZNkJWb1kyNmxfZnNya0gxczZDYllrN1U1cTJoWDYwV0FFc0tBZjZXWG9NcG5ySjEtLXh3Ui1UVXNHdUZ6R2xCR3NSUURvOTJSZ3BpWHowckJPWDlJeG56eEJVdWVleHNn?oc=5",
-   "published": "2026-11-16T09:10:15+00:00"
-  },
-  {
    "cat": "budownictwo",
    "kind": "news",
-   "title": "Ukraine hits key Crimea bridge in 1,300-drone barrage",
-   "source": "Le Monde.fr",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZU1KeS1EYll3X1V2ZkZTTTRjRXlKTXhfbXJ0bFV0NTRVYk5EcTBGN0R0ZFZ1ZWNtalEyU19fd015MENITDZiSUdWUXhic0VieWcybGVoa3RqdmhEdFBPLXZPYXhnV2M3MVFLcWRaeWFvTHdVTWtVTTctVG9jRkpaLVBhV3dtRlQ5MUwwWHVDVlRWcW9wLTRQdktiN0t5Tm5RVFRuRngyQ0kxVFFuXzBnLTF5RlV3RC02MFVjOVg5T2pUOXhaOFE?oc=5",
-   "published": "2026-11-16T09:10:05+00:00"
+   "title": "S. Korea-Thailand summit",
+   "source": "Yonhap News Agency",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSWFfVXVCTDZjaF9MTDg1THRTSTJacDF4cE1MNjFaUVE5SDE1TklmR3pTcDA1bFZjMU5kd2l1LWRNVTJqc09JaHdzejFhLUp6RkROYlhRRmttOWF5a0NGNkpVQ2R0WlNPT1RjMjhuWHFRbEh4c0JZ?oc=5",
+   "published": "2026-11-16T09:14:19+00:00"
   },
   {
    "cat": "*",
@@ -6593,28 +5689,12 @@
    "published": "2026-11-16T09:06:25+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine Strikes Crimean Bridge as Russian Reports Claim One of Its Arches Has Shifted",
-   "source": "UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGFtS1NpZWpsWVFzODZyaUdTUFd1RVFIYm5vVzQwRTFYYWJibGtNZnk1Q3RuUkQyRFQ1NG5MbWJ2MEJKYjRuTXNNNGFlQ3ozcFM0S3pHZkZ2QXNUVG51Y001Z0tKSWh5cG9qTVlrWnpEVFRDVEw0Uzd5MkVjRjhYaFZHbzRNMFlNRWs3YTIwVDVXUGRZb0ZTRll2c2VNeGItNUlGZnRZOFNWLVZxYnd3ZU9yTFhuOXZsYnlwMEttaTEzeU9LQ2ViTTBxa3o?oc=5",
-   "published": "2026-11-16T09:04:51+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "XIV Kongres Makroekonomiczny – technologia, energia i kapitał w centrum debaty",
    "source": "Business Centre Club",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDJicDJ6SnozbTlzVWFmcUE1NGRGVEw0T2pXUzZmVXpIc2tIelFrR0ROdGVVMUw0eldiZzA4WEtTaTcyeUY1Rkd5dXhFTU95Zjl4M3VBV0RCMGV4c1JmQy0wV0xzRUxubm1tOGpDOEVfMGJ2SHRmOVVxMUxpS0hpM3VNT3ZmcUp2dUdScDFUYVRiV25jN29vQU5UVWtaeXJV?oc=5",
    "published": "2026-11-16T09:02:58+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Alba Larsen Takes Her Spot on the Podium's Top Step",
-   "source": "Who What Wear",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zaVpxWHVrX0xoa3o2ZnJqWG1aaGFGSVlEbExsaWJTdnZXbUlPdnpsSmZqQmw5SWtFVDlnS3Ezd0JmV3N4V1lwLWE3TTJJR18yTGlCa2R0TFI1X3Q3bTNJZVo2R3puaElJZjhNUUJLU21vTTBvVGRv?oc=5",
-   "published": "2026-11-16T09:00:00+00:00"
   },
   {
    "cat": "*",
@@ -6625,28 +5705,12 @@
    "published": "2026-11-16T09:00:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Packaging designed to use less material may create more waste | Exclusive",
-   "source": "The Augusta Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaWJWSzBmaVREbnAtanFkMGszQno0anV3c2djUzVPNE91OFItM2NCemllSXFuN1hhZDRrVXBmLWxaNTh0MDJtbkdHWTZMTVNQdk12UEJGM2hVaG8xa3RMMlFTRl9fXzlZamxuRk1tR2tzQllOa0R1amtuZFlHYlBNTEJFX2did3VLOEMzRFhmSDBZRXpEck56a2VoYWhCUWx2Q0hDWmRMSUR4NzF5cWhORTE3MFRSRWdqNHB0TkNhLW56N0NSdEtiRDlIZ1NSSHRvX2hnX0RXakl5TVhIQTNzekFVUW1xUQ?oc=5",
-   "published": "2026-11-16T08:57:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "PGE miało wstępnie ok. 3 mld zł zysku netto jedn. dom. w III kw. 2026",
    "source": "Inwestycje.pl",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVRSQ0VOM0xSNHlDUnlTWDBwSEpQclZBXzJCRDZ0Njk0cHNHbmdWV0s1SXBnWURBMWRtYk02NVM2TldnZzQ4Sk9qM3RCX1RXSTlmTUpxWnNFVW1wVUFKdFRNakx0dURvSlQxOEszNE9ObE13bXRMNno5QnhvWmM2NHFjaUpMVEd3SEswd2xPMnFFTWpJMHBBWHZQbw?oc=5",
    "published": "2026-11-16T08:55:55+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "DHL strikes “breakthrough” deal to bring Brazilian workforce under captive EB programme",
-   "source": "Captive International",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGFscjRTa2JidFVuYzNRVGNrbXBFT0k1U2xGalN1ckQtT2NTWjZvcms4bkJSM0ZfeTJaZlNCM3k2Vi0tRUJRemFsRllZa0JkWnZqOHlSSUVtb2ctaUtvdU9YT01qQ0dZOTNFYjJzaEx6bV9teUs1UGpqa3BnMzlJanFmaHNtTlhYSzJBODB4b1pybDh5V19LVnpEdU1nUmRtUEZjTWY4MGdfN0hHdkFyRW5FSTdkOG9UOG5QWnFKbw?oc=5",
-   "published": "2026-11-16T08:55:02+00:00"
   },
   {
    "cat": "militaria",
@@ -6659,10 +5723,10 @@
   {
    "cat": "budownictwo",
    "kind": "news",
-   "title": "Ukraine reportedly strikes Crimean Bridge, forcing temporary traffic halt",
-   "source": "The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzJBN0V5aHRDQVVCc3NoRUVKRU82LUtzQUs0MDVSNkdpYWEyZ0tVQjNHbW1vQTVSNEZ1NndpV0xMZGlDZ29ydWhuQWtvbndLc3FzNWpweUNaZkxNa2Nzc09LTnpGWmVEY0RoY1Npa3lNVlo5aml2WHBrUGJLazBKQXJqZGFScXFTODZ6U3A3VkRqMXQzbG9yOGVGbWJkS2pyaWow?oc=5",
-   "published": "2026-11-16T08:50:35+00:00"
+   "title": "World's tallest skyscraper would reach 2.5 miles into sky – and house 1 million people",
+   "source": "Daily Express",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWd5emJpbkJWUmxwalBVOG5vM1ZGS2Q2QmhYekdtRUVqbWwtRFMwN3Y5VXEzM24zakRNeHdhYUF4aFZsVXNOWGhZOGNTRVJNZTRxTGZucWpMU3paSE8yU1MweC1WZS1taXVnMlF2TnlPQzVnTEZ5czBMQ2UzMGxrSVhtZURJWFI2cHfSAY8BQVVfeXFMTnBfOFlGdnNMa3E2cEZKS2FBRmQ5RmJkWEpuZHY2UlJYS09fZ3QzaEU3SzFZRHVQbU1LSzFoWkZVQjh6MXZXTHd5UGxnNHlULTBWUV9hcXpKRktkNFRzUzhBNTR6OUJsN3VFNHFxZFR6Wjd3aFhpUEVRMVhVZk1LSTA3WDIxQmJ6QVZnY2I4UU0?oc=5",
+   "published": "2026-11-16T08:43:00+00:00"
   },
   {
    "cat": "*",
@@ -6699,10 +5763,10 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "EU–UK Border Breakthrough Could Transform Channel Tunnel Travel as Brussels Tests Drive-Through Biometrics",
-   "source": "EU Today",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0lTM2FvM0MtM3J5ZFBfR3JvY0l1Mm9xeWM3NzROajg1NVU5UXAwYnZPaGI4Y05mVDFmWHJ6dG9YandyOENxSlFLYk0wZUx1OHc1bnpDWW9Ra1NPSjdzV3J0QWQtQTA4Y3plTFlZUUY3OVktR3VjSDlfVUQwcUh2Sw?oc=5",
-   "published": "2026-11-16T08:30:00+00:00"
+   "title": "001358 Forecast — Price Target — Prediction for 2027",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkNDdTT1lKWW8xLWtMSU96RERGa3djbGxibDQtb3JnU01RNXFCSEhNRGEzTjNmd2QtZGRvaVFUblhXV3RraUNFQXQ4TVlMdDFNd3llMURWUHZnSFY0dUhsNnZnTkxlY2dHdF9GaDMtV29QVFRhbDdfU1NB?oc=5",
+   "published": "2026-11-16T08:27:30+00:00"
   },
   {
    "cat": "*",
@@ -6713,12 +5777,20 @@
    "published": "2026-11-16T08:27:24+00:00"
   },
   {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Why does skyscraper-studded Shenzhen draw migratory birds year after year?",
+   "source": "昆明信息港",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iR0RCT1NURWYtakZQR2FKbXlaMVI3cHY4V1RUWHR1cnhFNlVSSEIwOWpSNXNRQjlBakpVUkF1bnFaS3hha1BHZFZxd0NBTDFoeURGMUpDaXJEcFB0M0lPSWJONFg1dw?oc=5",
+   "published": "2026-11-16T08:18:19+00:00"
+  },
+  {
    "cat": "nauka",
    "kind": "news",
-   "title": "Plastic Bottles Travel Up To 120 Miles Upriver Around U.S, Study Finds",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ19KaVZPVWVQOFRTMDlDRDV5SGNYa3lhc2t5RjlhNXYyeERoRVpjNW9BSEJDZ0R1eTdQYWl0eGpOYXVfSTZWRHZWdjFzMmtoTURlLUsyaGRVREpKMGJNSmt6TG4zT2dEQ21VOHdNXzZZQzU5QWlhYnc1c1pubU9kNGRaUWwwdGRvZVZJN2hZQ1V3VzR1UnNqN3ZCZUxjcGdaZFBCY0NoYmMzZG9RaDBlM2J0M2FZc0I3NVBIaTFvdy1ldw?oc=5",
-   "published": "2026-11-16T08:17:31+00:00"
+   "title": "New Frog Species, Discovery, Names, Habitat, Latest News",
+   "source": "Vajiram & Ravi",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTFXclJRZFNtSUNiYm1qbGw4TFpmWnNxZEg3WENNNENnY0JTUk95NzRORC0tVnMyaUoxT3ExaEJBVVpBU2Q5aTUxTzdJUGVlM01PSjJpLUNhWDhEeGFaZUw0TGxqLTVtQ2NPYndKYTcyMXVJcVlTVTEtYzhhd0FIZVRmc2RlQVh1VV8wQWVReGxvS2MzYnRN?oc=5",
+   "published": "2026-11-16T08:11:55+00:00"
   },
   {
    "cat": "*",
@@ -6727,6 +5799,14 @@
    "source": "PR Newswire",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZG9iMmxIMDVEMmdDd3d5S3hoV1ZlYTNNbUhtRE91UHkzYlBsQ1NLMHZwTUJ0OHhsNXQ3ZXFad2szWldQSDJkQWJ4bk05NmF0cmhfMldTYmRCODBhdnFJTDhEYXFUTkJFcGlQVHRYV0FuNEJNLTNBeG1OQV80TXVYRDVIUnpjUlVXa0lHRHNOTE1wRnJwNkFGMzk4QWdtMDVzVVhDRnY4ZmpBQjZfLTV0SkR0dWJYX1ROeGxVT2ZaY0tKWHlvWVYxcW10bkVvTWFCLVdXOEhrN28yclhCWTFQY2VFV0xfZEZ1UF9MbjloX1V6RzVzZW01WFJib0NzOGM?oc=5",
    "published": "2026-11-16T08:10:00+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "BITS Pilani Researchers Develop Dual-Purpose Technology to Convert Seawater into Freshwater While Cooling Air",
+   "source": "RuralVoice",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUZLV3BNenAwZ1cyOU5HWG82TXVZVnN0Z3Y0LWE1UXV4T1Q5ZGVfbU5HQmVSTElXSlAwX25PSm5lcERfSkhfaDFodDJjTzR6R3U4OC1GYjZqUmNDVHZFUWpnNWZOTGN3X3duaEFGWURwMG1JbmoyUDlkU1EtX1JBRmVVWFdDMjNMN0Vrb3VkNmJnMDduUHFkUFYtN3ZJYXItT0pWWU1Jak1INU02Qnl2MHZjN3BZS1V1UVhxckJ4NS04QkJSZjFjcTkwM1RuMTNmUDRxa3ZrTEU4Z3pYT0pvSmc0QdIB6AFBVV95cUxQZHFVMHh5NTVUN2s2bzBvN2FSbm5kV3Mxd3J2ZGhSWDBxcE11ODhYdmVRZHFBZ084OVhZOS1zMWhkTjhmU1VJYnNqSWpoUVFuanBla2hwNHV4Q19mdjBEX2U2WWVQaDVzZ2Ywb0JjRmoxanU3V1dhV1RQUHlrQk1lQ3lqRmNNZmdoVlRSbzMwcXBDVkNUVTJFNDFvdE9hMWlCMnFSbVNTbTZQcnhCTFh2eklFM2lUSGtwVU1HUjg4U0tLb3FpYlZxNjB5OWdQUWI5cGNLMnQ4LW05YWRZcVdPZHh4UDR5QjNf?oc=5",
+   "published": "2026-11-16T08:06:00+00:00"
   },
   {
    "cat": "energetyka",
@@ -6769,30 +5849,6 @@
    "published": "2026-11-16T07:49:57+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds Variable Inflammatory Links to SASP Transcription Across Cancers",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVVXNG9jeEg4czJrck1MWDA4eWpraGV5Uk5oRFpOMmFScGNUMEdsWG90YkxaU01LU1hVZGpLbEZYdmdWVVZBWTcwRFFmVzU2bmJCU1BYZlg0MHFyQmh3ekUxQ05hV0RPWjhfUXB3VnNaaEtVaGxfamExVmJPU1p0WWk4MHl4eTUwa0RNSWdDdFRxXzhMNUNYN0wtZ1J4LUp0WVEw?oc=5",
-   "published": "2026-11-16T07:41:07+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Israeli ambassador accompanies UN envoys into Hamas tunnel in Gaza",
-   "source": "JNS.org",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXVGMUhaa2ZOTWZwRGRWYXpVU1RBUXFQdHpLeVVEM3lvTWJrX3BCT0hDR3VPd0pBb0c3czMzZC1sc1o0TUJPX1Bmcm1tQUpIcnFjNGJOS1NaakJIZDQyTEI0NjlWQWRIZHNRQUM2MW13M2JYbzE3cE5LZ0trM3N4Ri1ZYzlUUlpsYnBFX3pKNXVCUFkxV1F1UGpteVZLLUIxWHZQTlhn?oc=5",
-   "published": "2026-11-16T07:40:35+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Coalition crisis talks resume after weekend without breakthrough",
-   "source": "DutchNews.nl",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjY5WXBreTI1emNrY21fWUFZWGplUFo0NFl4c0NoRHZPU1RobVQ2ak1WakVOTl9RVkpYTWs5SW5OYm9VZXRHbnpSWDhzdFk3aWtFUmJ2Z2psTEhFNFBHTDZEZl9xZ1d5V0ZTVzZRdmh6S24tdkxweU5tWU11S2l3YThiSkI4T1Q3enhXWmV5OTUyOWNSTmQ0SmJrMkhVeE0?oc=5",
-   "published": "2026-11-16T07:34:34+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Space42 Begins Production of ThurayaTwo Satellite Smartphone with South Korea’s Asia Pacific Satellite Inc.",
@@ -6801,28 +5857,12 @@
    "published": "2026-11-16T07:32:52+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Renaissance Pharma Says Co Secured FDA Breakthrough Therapy Designation For Daretabart",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcVQ2bVlLRWtDWkFtejNoVmpxZW4yTFJrMm8zQ0JfV0JXYkZKcTNVS2hIWXFzNGE0S2t2ZWhXTGdMMUhzeXV5ZDRUNlJaQTRULVpDWmN1cTJjVWp1X0hxaUtiSnM1YnROa0p2UUVqS2ZaSWVjOW1uSlpUcl8xOGdfejVFX1hKaUllYVBIMEl2RTN4b2hWQkhpaWRfUlJNZXo2VzcwcVA3QUFSekVVVVEwRUpqOGNEbV9RQ25oR3ZjOHVyVERlTHdsWVFsT0VMU0pIcTd1M1RtQnY2TlR6bWNZcVNrZE1MbGRxR1kzZA?oc=5",
-   "published": "2026-11-16T07:26:00+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Third US aircraft carrier enters Middle East as Trump heads to China for talks with Xi, Putin",
    "source": "The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZ09VamFMbHY3OFRtR25Vb3o5VjBCelYzMkVoUTczYy1vcV83bTJ2ZXdPWXNJZGxkaFUzY2k1Q1NRVEJwd2RyRG1zRERlWS1uTDE5TEhEd3dTOHpy?oc=5",
    "published": "2026-11-16T07:16:41+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine hits bridge linking Russia and Crimea, Kremlin says damage is 'minor'",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEtSYVEzeHNfTmkxeDJMbTVXRWxob25fM2dMU2RBRFBYOGxSV2Y2TGMyUldFeVdlMWFMc21sV2gyTWdFOFZnelItcklxdDdPaU5QQ0hJZV9OZE5PaS1rek5ZN3pXdEpURWJSdjlkRWhOSlRsUS1sZXpPN3JBUjgyaWlTNDhIa0tUQU5LQl8wT0J3X3o3d2lIZWpEVUY4NU5WNk9Vd1ZLSWc3M1BJOUxhdA?oc=5",
-   "published": "2026-11-16T07:07:00+00:00"
   },
   {
    "cat": "transport",
@@ -6873,36 +5913,12 @@
    "published": "2026-11-16T06:36:50+00:00"
   },
   {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Ukraine attacked the Crimean Bridge on 16 November",
-   "source": "UkrMedia News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbk5neU4wVWxSaTFfZWx1MXhfQktnNTVNa0VHdXN5VzFBUGpRcVdNbjhlMDVkYUptd05odkphWDhuSkJ3dFVlTmhZQ0pQcXoxeHNJXzk2Q2hKbExIbTZOZmh3amx1czV5cE5GU1lYQ1dMcElpbF9V?oc=5",
-   "published": "2026-11-16T06:32:13+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Russian occupiers report strike on Crimean Bridge and set up emergency response headquarters",
-   "source": "Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcUR5WHVnYjFkZ0tNdE9OcXEyY2hpSFhCN0llS2Z0MnFwRjVnWXlGRW1vbnJzZF9nbEZUbHZwcmZpNXd6WFVEXzNjVl9hS2RtcTU2R1RUem5wcHNoWVhZNGtWSGfSAXBBVV95cUxOOEQtakxIWXdWbnpqdUp3cTk1UDhDUWJhbWtoVVF1MWE2bVZqR0xHR1JIeVU1cm9UTndtcGpjblBYOU1ZLXBaUnZ4OGx5N0J6aURFY285SHJoRURFb2ZCRWFtZEFaQTE2Z3dhdVJPLTdm?oc=5",
-   "published": "2026-11-16T06:28:00+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Technologia budowlana: Nie tylko się chwal, rozwiązuj rzeczywiste problemy.",
    "source": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWstQVJVWW5xSkFiNC1tU0FfMGhZcDlPZTF1SU1QR0ltanVzSlFneWZEWllhYkVxTWJFZVoxMklheDFEdmN3MXo1MU54NXlmTkVkbEJVa3A0Y0dzMjhuUkpuNnJZR0hRdE5RYmJhUjhRS1dMUnNwTDBYa1dtUUZXY1ZKMU82aFhpYUt3Ynp4eVE1aER0WjNHaUkzNVJJNjY4TU04Q2EtZmVoNzg?oc=5",
    "published": "2026-11-16T06:23:21+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Study Finds Respiratory Symptoms in Cats Fail to Predict Detected Pathogens",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDAyck5WYVRZTjAxMUtjckRJX3piUzV5d3RBa2JYeGs5S0lnM0l2VEV0Wjh5c1J4ajJ2aHJhd25NNk1tNWtialFQU3U0UVpYQkhzNERiOUdVbVAxb2x3YXpQaTkwVnBXcGZ0UnRsdFhaUVByNWE5bXprS3BGQmxsd0ZLdnZsZHdZbFBPa2JvdG50cmRGSVAwUUJNSllwZ1FYVFE?oc=5",
-   "published": "2026-11-16T06:16:05+00:00"
   },
   {
    "cat": "*",
@@ -6937,22 +5953,6 @@
    "published": "2026-11-16T05:52:19+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Iran Announces New Breakthrough in Nuclear Fusion Technology",
-   "source": "Caspian Post",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGpQYzF5ay1sbkVFVWptV2hxTFVlUDJlSTVTbUdER0Qwb19ZMFM5R3F3aU01S21wQkpXRzZTMEszSTRzcFFTLWxHYlF5SkxETFhJYnVuWGQxQWVMWXZNTXIxZ1lveWE1cXFJVVZ5TUpSZlYtZF9KcFE3dUhyNHYzcVhRY1JmcXRjeVBSWkFhSHE5S2s?oc=5",
-   "published": "2026-11-16T05:49:08+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Internships, co-ops linked to higher college completion among KY college students, new CPE study finds",
-   "source": "NKyTribune",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdFNGQll1djUxMlZwNDBybUFyNERqSVVZaFdLczNVN0ZqN1J0djh6dHQxdkZEYmZqcVF4S1RDRVlHYW5yTkNYamp1MEtYOEdSanN3X1Y1TERYOUk3Y0cyWGVBbjJjYXd6R2d5UU9TOElVc2ZtVlYyVVYzMC14ZjU3RXRBZ3gySHNnLS1PTzNGNWctYnJzel9tZ0g2QXV5alV0TldUdy1TV0M2elR2RUE3LVNybTNjQmNQN0s0SjNzWl9Uc3YtcnpGNE84RXE?oc=5",
-   "published": "2026-11-16T05:36:31+00:00"
-  },
-  {
    "cat": "*",
    "kind": "pl",
    "title": "Badanie EY: Technologia w cenach transferowych wciąż na początku drogi",
@@ -6969,12 +5969,12 @@
    "published": "2026-11-16T05:24:26+00:00"
   },
   {
-   "cat": "nauka",
+   "cat": "budownictwo",
    "kind": "news",
-   "title": "As butterflies sweep Sri Lanka, global study finds expanding ranges linked to climate change",
-   "source": "news - Mongabay",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHltSWN3QlBncjI0UTNnVXVjUWI3bXBIRVR0WVpRUnFGV3ZPZ1BGczdhZmc4dGQ5elhTLUo2bzlUS1JiOHMtTUMwc1lySGVjczg5THg4ckotR09ZRUljMHhDMXZRcHJIUjMwRThfRjFNZVZoajhpcFdxVDJRNXkwYlhmbEJSOFpTajExX0kzYV84NVZZc1NEdmFrVHNEQ05mTmY2bm1FaEdjVzhjbmpvQXJfTHk0MnM2LVRWR0lLczZMbms1bk5jZGlB0gHKAUFVX3lxTFB4eW1JY3dCUGdyMjRRM2dVdWNRYjdtcEhFVHRZWlFScUZXdk9nUEZzN2FmZzh0ZDl6WFMtSjZvOVRLUmI4cy1NQzBzWXJIZWNzODlMeDhySi1HT1lFSWMweEMxdlFwckhSMzBFOF9GMU1lVmhqOGlwV3FUMlE1eTBiWGZsQlI4WlNqMTFfSTNhXzg1VllzU0R2YWtUc0RDTmZOZjZubUVoR2NXOGNuam9Bcl9MeTQyczYtVFZHSUtzNkxuazVuTmNkaUE?oc=5",
-   "published": "2026-11-16T05:19:51+00:00"
+   "title": "Vietnamese businesses are gradually mastering the technology for bridge construction, tunnel excavation, and material production.",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzF4aTd4NTV0RWdhdm85LVA2eTh5Ym1PR3hoNHFtVUVwbmQ0Ry1raG5id1VSVUZ2T3Zva3E5V0NsNTN1R0dja3NwdE1UclVaN1AwcVVoaF95RWdXVVhtRng0Ni15LWVCdVIxTnhuZUFoU0ROVzNTNTVoWVdOQjN3ODBQQTlTb2NpYUVnclVqdDh2X3VNaDEwaUhJdWFBR3hnUUNhRV9tYVE?oc=5",
+   "published": "2026-11-16T05:22:50+00:00"
   },
   {
    "cat": "transport",
@@ -6983,14 +5983,6 @@
    "source": "Arab News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXZRaXVEclBFQjBJM1pyTWw3MU9iYlBmWkVlQUJUNTEwMktLNFlvQlkwb2V2STN1bXR4WUhkd1FxQUdrUXhPMlBtV2xRX2N0VGxvYXNzbkRKcDRrSklWNjVJaGZBRW9MWGowd3ZZZ3g4SEk3Slg4VEpWTWFOYWpHRmFyVndCLWNZSHoxc05ja3BqLUR4ZlVScnRva1FiMGxpc242UzdR?oc=5",
    "published": "2026-11-16T05:12:42+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Scholars fear beauty and art being replaced by power and politics in humanities, study finds",
-   "source": "The College Fix",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndIakp4U1B5eEMxZHhGNU9Nb3MxeW5kcXJmZ1A5bEJrdDIyRTNXVXZjLW1vM3ROT294LUwxS05zMWdFZThrYmhtSmd6bURaSmFNaS1TQXcwRDhZd0RoNnRrVWhWbkFUS3dXb0c2Z0VzLUw1WEhKZU5GRjFmSmR3OXJYMzVXUDdCb2xHWlgwZGt5Qkx1anRPLS03clVmWTZ2dW1JbGFsWjhmNTVHTUlOSXRQaXA?oc=5",
-   "published": "2026-11-16T05:07:24+00:00"
   },
   {
    "cat": "kosmos",
@@ -7017,14 +6009,6 @@
    "published": "2026-11-16T05:00:00+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "BREAKTHROUGH: Boston College RALLIES Without Money Williams, Ernest Shelton IGNITES 3-Point Surge",
-   "source": "KHOU",
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcWo3SEtKYnlhRkU0SFZaS3RERGF3OTlxWnJ5Z05FQXotcDRmQ2pGVE9YRHFoQmdIWnRqVWNOVVNaVHg2QnZwdWk1XzlvV3UyNDJRRW12MG1ESWtkVHdkaWRWQmlXU0RJblV1UlN4QnYtOHpYaFdNYVFTU3IzNTdjQTZPZ0k1elZNQ2txUEUza195LUd2N0IyQk5pRkwyb0V4WWR2dnNwVDF5UEVyaHI5X2dfTGRGZnJJSTBtRUExb00tZ29FZWJiN09VVDdWd2NNaWFvQkdDTkl6ZHZHYXI0MlR4VUtrc1B4R1Q2SUFqd2ctbmY4V3FybGtlY0xiVE9HTGJWbVkyZ2F1dG9ROEVGMGQzRjZ3UGxlRGpjMHI3MEFrM2kxUHFVVEk1LVh0SWFyS08zUjk3NF9ReS15ZUFicV9ENVM?oc=5",
-   "published": "2026-11-16T04:36:26+00:00"
-  },
-  {
    "cat": "transport",
    "kind": "news",
    "title": "Train hits car on Sullivan Street in Madison",
@@ -7049,14 +6033,6 @@
    "published": "2026-11-16T04:29:41+00:00"
   },
   {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "East Asian Genetic Study Finds GLP1R Agonism Lowers Diabetes Risk Without Weight Loss",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVZuNzRuLVFCVDhhd2p4RHE5X3ZPQ0pwWDBpamE0TmhIN2ZzX0dRYnFUM1BIeVZBUDFDOUZISFdrTzV6X3NyY3ZTLTZ3Rk1SOUl6VWlhSW9vWFFhSEd6ZjA2eEZQQWVlNklDYWlHRV9sQWNvSU1Ga2dCaUdQX3FYX1RMQ2FCM0t3NkRtNGhsRFhBOGNKQ29Ca3c5MFhpRWlmX05rd216alpic05BRnFn?oc=5",
-   "published": "2026-11-16T04:21:04+00:00"
-  },
-  {
    "cat": "*",
    "kind": "komunikat",
    "title": "Ampace to Bring PU100 Fire Safety Evidence and Standards Expertise to RE+ 2026",
@@ -7067,10 +6043,18 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "The questions to ask before trying a ‘breakthrough’ skin treatment",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0lWMWFVVG0yeXBoc19wMmd6aFNicS1hUjBRWkpDd2NQYlZhY3RtRXJxNWc0TGxJc09sTjNCZEZNUUkxRjNRMEtsdFc0T0xFajRfY0pkUjgyMWVWN2Q3MGwxdEFYUko5ZjA1QXNNUGJyMnA5aTNTMGppclliMVViMWtya21PMDBPeUtSbkR2Qm9zRy0xaUVNdHNYNTNmalJ2aWlz0gGjAUFVX3lxTE8wVXdDdXMwNHJBMmtENHhLek9MYW1KNEZQaXFsY3dEblBOSFNzRXB3dHpnUDBienI0bllodWo0MENjc2RvMHFuQXF0RlgwazJoWUxoZFRSeUc5RXFOVUJET3lnc1dxYUo0dTYwb1RHLXB2TGphODYycnNhZDhCVHdlVjVnV05vY2JBbTBHYm5kbDJqZFlXblpPQnlDMThza1VlWVE?oc=5",
-   "published": "2026-11-16T03:30:05+00:00"
+   "title": "Zhuzhou Times New Material Technology Co., Ltd. (600458.SS) Seasonal returns chart",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45TDlYLTZSQTZFdGF5NVNFWDZ1Zk9FRFZ1V0phMWpTWUtmZERiRnRfeGtFZUZpUm1UZXJfUEE2X0VOczBpUGxoQ1BNblB6eW82QXJDYnVBS3ZWb0RRRTVKaWcxQkZodm10?oc=5",
+   "published": "2026-11-16T03:52:18+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Terrifying moment teens scale skyscraper",
+   "source": "News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRGV2ZlpOaUVsaXdpMDNpM3liSERaNFkyU2sybjA4TUdJTUI2LVN6NlF2dlpOSVJpY1VIai1uVjJzMXpzR0J2WE44T2hlRjdOSHB5eG5zX256RGhCSk1uOGR6RWJhZ2xyNXBtcFA3MmZiX3Nja1NIcS00Sm1fTkhQSTRWbVdRb3V5Skc1S3EybTFJbkViUFZtYjQ3b212Z3otdkxYV0RJQ01MVEV4WEdIQXMzQWVfNHVNVi1xcmdLcXoyeUplNzl4R0VFYU9PLWhVdmdhNWxHV2lfcHRpVTNCUUpoT3dMMTJWdU1hOG56R0RQSDliaEdxUzljbHkzSU1YRGwzLUhyY2wyVjMwT1pWQtIBlgJBVV95cUxQMUQySVJ0RkhPaGxXUUlEVHFlRDBfMVhNa3hQQXltSmkxa3BWVUs5LTRPZndqZGxjMGxUSzZsa0tRSDZRZmxTZVo2MVpGQUw2MnUxYmMwZXJtREw3QThXNnE2N2t5cmYtYkVENmhiWTBmOVR4aF9kdzJFTVNHMHdWMXZCZEhJZUs0d2FzM2M1OUxKa3FCYnpGc2Y3M1Q2R0ptS3hPOHlvMzBXQUUxRGNXQzFhTmpVeERFUlRmOXh4NjhOdVpUVFlCM0NIRkpuaGk3Yk9xYmFpbnNNQUhGbFhKOXBOa3FCWFdaN1R2YVZiNEpBM3JyOFJibnUzMHZBUS1BT1RKdUR5bGRmdnVMWXVsdkNiZnRrdw?oc=5",
+   "published": "2026-11-16T03:35:06+00:00"
   },
   {
    "cat": "nauka",
@@ -7081,12 +6065,36 @@
    "published": "2026-11-16T03:02:15+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+   "source": "Science Daily",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5",
+   "published": "2026-11-16T02:57:40+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Anti-shrapnel curtains instead of a \"bunker\"? What do they protect against, how much do they cost, and what do physicists say?",
+   "source": "LIGA.net",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOTdjUFdiVWlMWmlEdXpuZEYxdlNzdFU2SGpoWllNTTF5cDJfaUFMb2Zjblg3ei1Ial95UzVJZmVRQjB1MDBLcFRoYnpuMGRxbkZOcmVYSmZjTHAtcWZQRVFYcXFTQ05xSVktS2tWbFNMVHk0VFRvVjV1QTM1NmNWUG5fWEpLTHhVNm9wT1AwRG1ENjFoOUJUaXNkVEVBVTNGTFRaV3VEVER4eHlvNlFoZ3BtcnZvUHZEcW1KREJadE5xdmx0b3REYXNUR2ozZXdZYUNYSVlfU3lZd9IB3wFBVV95cUxOOU9od2wwR1ZYY0J4dW5pQ2M0LWpySFlKV0Z0MU4xcEhkVVlLRExzWjhVeWk2MlFKemdTT3ZzaU0wY3dnaDBRQ25RdGtxS29wMzBSZHQ0UElFOGEzU1N6bHMxclN0bkJGVWUzem9rNGt6RmFuTmJqQm9EcUhpLTBnQnBCcm50eWg4UGpPTmFuWVF2RHhrTTZjdU45MWVJTHZfVDh0TWxzdEM5MDA3NF9DM3VNeVk5REtEVVpEZExDX3hjTW5PUXpUeHRjTHdmMU1rVUIwaUdlYnJEOHA4LTEw?oc=5",
+   "published": "2026-11-16T02:45:46+00:00"
+  },
+  {
    "cat": "*",
    "kind": "pl",
    "title": "Technologia towarzyszy rolnikom.",
    "source": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNQlFIRU9MSGtlaDdoRmh0Mkl5OEpxM0FscUhSZUNiRW5PMTVTb1pjYzdwNXFYaGFDeV9BRHhZai1pYW1IY2VkT2x5UV9IVDl4NnA5ZG5JdzlwTGdDam9Ea0NESnlxSE9uZUJJ?oc=5",
    "published": "2026-11-16T02:29:54+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Chemists Weave Molecules Into a Powerful New Material That Traps Toxic Chemicals",
+   "source": "SciTechDaily",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmJydG11V0IybnB3UkV3Rk51UFpKcXowd1BUZ0pDc3dwM1R0NkNfNXlLaF9JUXJZcEJpUlZpeDM1YnJsblN0X3hNWXlWZXJvUWR6azY3R3hqaWMxUEMxeUI4ZzZqcU1qS09OX25Nb2xKNVRxS3JuQk03amlXamhMWjYtSXpiUUFjem5UcDZCc0ZrMl9hdV8zU1k5NnNEUG5xLUFOSzNIc3VhZw?oc=5",
+   "published": "2026-11-16T02:09:29+00:00"
   },
   {
    "cat": "transport",
@@ -7103,14 +6111,6 @@
    "source": "Science Daily",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5",
    "published": "2026-11-16T01:41:45+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "news",
-   "title": "Person jumps from Luling Bridge; sheriff’s office investigating as missing-person case, officials say",
-   "source": "FOX 8 Live WVUE",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFFJYUFncHdudjJQVThDamdjWGVyUnZQdFh4Skd6SnBHV1JJN0dOTzdDNDAxTWFsSHpPNzRUV3k1bWxhV3lSWVptbHB2emQ0ZFA3c29OYm43NE9nX1Y1QTZXUFBOUmlqLXlQWG5KX0VnS3o3cmx0Nzd3MVhqRDlhdmpLVlE3cTVMdWZOcmI3U1k3NGNmUFdCTFNuS0FnbDBPdTZUdXQ3LUwzLXd3bDd5YUp0R2YtaGViLThyU2tnZnE2Zjdib0E?oc=5",
-   "published": "2026-11-16T01:00:00+00:00"
   },
   {
    "cat": "*",
@@ -7131,10 +6131,18 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "Tottenham must push for Prestianni despite Benfica contract breakthrough – here’s why",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemI0cXZEdkVJS3dBUldIT2lVT1lNaXZYOWtDZXhHMm5xVkwtSnFhNGZBUzFnM1RhdmF6VFlLX29RVDZxWTFabW14NVVjbElBeTNXZE5TeWIwTENmQ3VrZUc2MGRHRzdlV2poOW5oVThpT0d0SEtyckhzNk5naC1JNjgwNHRIbjYtQUplc1FXUkc?oc=5",
-   "published": "2026-11-16T00:00:00+00:00"
+   "title": "Scientists discover star system sending strange radio signals every eight minutes from deep space",
+   "source": "FOX Weather",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSThkbklnMVcyeFpseVU1VmNsWTh1YzdpUEZJVmJMUXhyN1BqMG12bHN0RnhpT284YkNHcnhYeHhwb0JxWFl3VzhLV1R3Vktybll4eFhKemgwN0ZqLU9yRlJYTEo3ZkRIOWhmOV9wYXEtZlQ5VnF4eHlFSy16aUFNTFpZTTVDdWlhSmREZXRQdEhSZFROOG5adFQzQ2k3THZsa01sLXpZNWd4OXozdmlLR01meWjSAboBQVVfeXFMTnQ2aHkzaEZsUDk0dVhoTVQ3dmVEQlhyQVUxYlM5NlNUUk1kdVpwVW8taFVPSE1TbTZxaVZweTZLekkxbmk5LTIzWHZRWUFHYlVqU3lZbGx1TkE5RWFUazZIYVlQRWZFWnZobzJsczlTWUh4UDdrbXI4OWlqbzd4eEttM29qVGlpdWVIVHE3QmxJeUJoemhhUmdUU1VsWm93M1BsTm11Xy1hWlhBd1hMNTl4SG9OYlMxRi13?oc=5",
+   "published": "2026-11-15T23:48:00+00:00"
+  },
+  {
+   "cat": "transport",
+   "kind": "news",
+   "title": "One person dead after train hits two pedestrians near Slidell",
+   "source": "WDSU",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWJ0TlI4SnU3eVppYXgtN0NJam5fWmVyQjNlbUJkSjdBSjMwdUNxNHotbXI1SFMwaFN0MlI5Ync5ZTdwWjdSLXlzRG9BVVBfY2lFZ0ZGMXBMRFRqdXhxVW9nVE95Vi1ZUmRsUE1HN1puX0ZyRk8zdi1NT3FGd2FBZHQ4WGR3NDUtajlR?oc=5",
+   "published": "2026-11-15T23:43:00+00:00"
   },
   {
    "cat": "transport",
@@ -7151,6 +6159,14 @@
    "source": "Gazeta Prawna",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWxyYzZvazduM1pYRml0N2JqOS1YeDZpT3dGRXJ6N196VEtyZnFDTDVPMmx3dXBhRlY2dS03UmxnaURxaDdMcXh1S1B2RzBockJBWXVWWUYxQ1lWYjVsZERLUU4tWjdXZzBHWWVVZk5yVkdyQ2pnN0RSSU1MOGpiWGNNSElNc082RDVETVIxYVlLMVhUM3llSURFb1k5NGpqbjc4VEU0ME01d3l3R2VqLURMQTRSUlNWUGlvd3BmSFhGZnllTjVyQV9Gcl8xNEZKX1E?oc=5",
    "published": "2026-11-15T22:45:43+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Solar Researchers Develop Plan to Reduce Silver Use",
+   "source": "Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0JGSks2MzdKeVE4NDduendBQk9faUJ2VEQ0dXBYdTAxQ1l0MDFuNDlTcm0zRFBDZ0FPa2ZUVFFHTG9rWHZ2M3NwR3BqcW84d2tDbS1sVjB5ZU1STzJVMDV3bE56cU5yWUxQUTk1Z1hOVkx2QjZBT2RIQ181bkh2ckx0ODAtY2tnbjE0?oc=5",
+   "published": "2026-11-15T22:44:00+00:00"
   },
   {
    "cat": "nauka",
@@ -7179,18 +6195,18 @@
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "St. Paul’s Tommy Brennan may have had his Adam Sandler-style breakthrough on ‘SNL’",
-   "source": "Pioneer Press",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ05weWlsSkNmSXdUT1NUSkxiSDNpN3VSTDVnLUdoVDFTamtVQ1Q1OWxpQ29ySUwxbDY5Zmg5ekxJY1VtTDVYRDJxOC1VWTNrTEptRGdRLWVVejlCd01Ed1V1TTY0OW1YQkx6c3hPTUlLLVhsWXY0Y1Y4ZWFUUHRyTWVZajNVU3Z4WVpHWktHdURNTkFRcmlrcXpkem5XQU1yTjd1WEgteW5lT2FYajg1ZWRaZUdwdHli?oc=5",
-   "published": "2026-11-15T21:48:19+00:00"
+   "title": "NYU physicists made gears with no teeth: spinning cylinders in a liquid pass motion to each other without ever touching",
+   "source": "Futura, le média qui explore le monde",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa242VTFaOGR0czFLOEdlV1k5aUNyNW1IdVpuSkNPRmMwNzhZa2o1ZWY0ZGNaUmQwcTNWVDE3QXZnbG1jYjRlQ2ZjYXhXNnRZSnVob3Bua01XYU94akhiZE5ZVzZpTjI4azN6U3FCazVrQ21uUE0tR1o2TGtfSDV6NFp5TVB2T1c4U2x2SFhwblZYX2JpWm8wNXlXSDVWRGV1SHc1dFVraS1kb3lkR3J6MW1QdVAzQURKSGV1Zkd6ODVIblVxdFdHU2ZpQkxadjhiTWM4aHRHMzBiNERKUUtpRmdoOGFtOHpHdWhlZDJSWFdRaWs?oc=5",
+   "published": "2026-11-15T22:11:57+00:00"
   },
   {
    "cat": "nauka",
    "kind": "news",
-   "title": "Breakthrough to Make Bones Stronger Has The Potential to Reverse Osteoporosis",
-   "source": "ScienceAlert",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3JLTHRjVUI3dnZrYWlLcVpLSzNxdmhwVDBBZHhPX0Vna1lhcm9hNEVRNWRjRW1veXdmckZkVDluVW16SlVfYVlXOU9FcTkzQWpMZWpUWVFpYnk0NVU2a3owRE5vYWxJTGEzbTZOcVJWV2N6UlJFZWRET2V1V0hEcTBSTE5WcktiWlByYWpsMVAyaVgzM0lVZnQ2XzE4b0htSXc0NmxuTU9yQQ?oc=5",
-   "published": "2026-11-15T21:02:23+00:00"
+   "title": "Researchers Develop Nine Item Betel Nut Screening Tool for Primary Care",
+   "source": "Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3g5WXdHV1RCbnZEalpRcnFkdEkzaUdpUmNsUUhucXFYU2ZCUGlsMnBNZEpobGQ2OVlvSDRyRG9qdTZHZHA4b3RQNUkybm1EQVFETjU2VkdjOU1QSHluUS1XTU81a0dOT09UR3pJMGNpLWpwX2lMTnRENDF2RUEtNmdaRmIzdmJ6WVAtQTVNZXVNTW9FcjdsZmxySzc?oc=5",
+   "published": "2026-11-15T21:45:40+00:00"
   },
   {
    "cat": "*",
@@ -7199,6 +6215,14 @@
    "source": "Sądeczanin.info",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0pUY3h3ZVMydl9XUVU5YWlybUs4SWEtb3lmdllmMl9EN1VyWmdSSmlVdVFPOVJyR0lHM296dHM4aVdHV2JxUkR2anUxbUdFMnoyMFA5ZDkyV0VHTXM4NnkyeE5Jc0JTaU1RQ1dnVUQxT0VoVGVTSlhIVVIzd3NxMU1ENHV1LUxQSGVrcXhoTXpVc01jZFBvLVZfNFl4NGFTTTdpckNVNW5OaEVpX0VjYTVyaFVxNVNuU3l1THNnSmNfNVE?oc=5",
    "published": "2026-11-15T20:45:00+00:00"
+  },
+  {
+   "cat": "budownictwo",
+   "kind": "news",
+   "title": "Canada's Tallest Building: What's The Weather Like Up There? Alycia Parks (h8WDQQmn9C)",
+   "source": "Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2VXNGtoN2NwM2xUNGpGQ19MOUt6QTBwN3g3RTZTRVVHVDNSby1ycjJsajJybENRZ0F5WEZzNV9oYjVKclItWVE0NUtKM1BTNGZjNE9KWWU2OVVJYlR5Wno4bWIyU1ZObGliamJhV1dqTEdXWUVfVW9TQTc1bUppaHR3?oc=5",
+   "published": "2026-11-15T20:05:51+00:00"
   },
   {
    "cat": "*",
