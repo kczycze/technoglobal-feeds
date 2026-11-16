@@ -1,0 +1,22 @@
+name: feeds
+on:
+  schedule:
+    - cron: '40 5 * * *'   # 6:40 czasu polskiego zimą (UTC+1) — przed researchem 7:21
+    - cron: '10 14 * * *'  # 15:10 (zima) - przed researchem 15:51
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python fetch_feeds.py
+      - run: |
+          git config user.name "technoglobal-feeds"
+          git config user.email "actions@users.noreply.github.com"
+          git add feeds/latest.json
+          git diff --cached --quiet || git commit -m "feeds $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
