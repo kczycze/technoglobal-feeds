@@ -10,9 +10,9 @@ CATS = {
     'transport': 'aircraft OR "electric plane" OR "high-speed rail" OR train OR ship OR "electric vehicle" OR "EV battery"',
     'kosmos': 'rocket OR spacecraft OR satellite OR NASA OR ESA OR SpaceX OR "space station"',
     'ai-it': '"AI model" OR supercomputer OR "quantum computer" OR "data center" OR semiconductor OR chip',
-    'budownictwo': 'bridge OR tunnel OR skyscraper OR dam OR megaproject OR "tallest building"',
+    'budownictwo': '"bridge construction" OR "longest bridge" OR "tunnel boring" OR "tallest building" OR skyscraper OR megaproject OR "dam construction"',
     'militaria': 'drone OR "fighter jet" OR "missile defense" OR warship OR "military technology"',
-    'nauka': '"scientists discover" OR "researchers develop" OR "study finds" OR breakthrough',
+    'nauka': '"published in Nature" OR "published in Science" OR "scientists discover" OR "researchers develop" OR physicists OR "new material"',
 }
 WIRES = '(site:businesswire.com OR site:prnewswire.com OR site:globenewswire.com) (reactor OR battery OR aircraft OR rocket OR satellite OR robot OR chip OR bridge OR drone)'
 PL = 'technologia OR energetyka OR kosmos OR elektrownia OR robot OR satelita'
