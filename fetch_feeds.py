@@ -50,19 +50,40 @@ def main():
         except Exception as e:
             status[key] = 'blad: %s' % e
         time.sleep(2)
-    fresh, seen = [], set()
+    # PULA (17.11): dopisujemy do poprzedniego pliku zamiast go nadpisywac — nic z doby nie przepada,
+    # nawet gdy Google News przestanie zwracac starsza pozycje. "seen" = kiedy pierwszy raz ja zobaczylismy.
+    prev = []
+    try:
+        old = json.load(open('feeds/latest.json', encoding='utf-8'))
+        for x in old.get('items', []):
+            x.setdefault('seen', old.get('generated'))
+            prev.append(x)
+    except Exception:
+        pass
+    nowiso = now.isoformat()
+    key = lambda x: re.sub(r'\W+', ' ', x['title'].lower())[:80]
+    pool = {}
+    for x in prev:
+        pool.setdefault(key(x), x)
     for x in items:
-        if x['published']:
-            age = (now - datetime.datetime.fromisoformat(x['published'])).total_seconds() / 3600
-            if age > MAX_AGE_H: continue
-        k = re.sub(r'\W+', ' ', x['title'].lower())[:80]
-        if k in seen: continue
-        seen.add(k); fresh.append(x)
-    fresh.sort(key=lambda x: x['published'] or '', reverse=True)
+        k = key(x)
+        if k not in pool:
+            x['seen'] = nowiso; pool[k] = x
+    fresh = []
+    for x in pool.values():
+        ts = x.get('published') or x.get('seen')
+        if ts and (now - datetime.datetime.fromisoformat(ts)).total_seconds() / 3600 > MAX_AGE_H:
+            continue
+        fresh.append(x)
+    fresh.sort(key=lambda x: x.get('published') or x.get('seen') or '', reverse=True)
+    if prev and set(map(key, fresh)) == set(map(key, prev)):
+        print(json.dumps({'count': len(fresh), 'zmiany': 0, 'status': status}, ensure_ascii=False))
+        return  # bez zmian: nie zapisujemy pliku (brak commita)
+    added = sum(1 for x in fresh if x.get('seen') == nowiso)
     os.makedirs('feeds', exist_ok=True)
-    json.dump({'generated': now.isoformat(), 'max_age_h': MAX_AGE_H, 'status': status, 'count': len(fresh), 'items': fresh},
+    json.dump({'generated': nowiso, 'max_age_h': MAX_AGE_H, 'status': status, 'count': len(fresh), 'added': added, 'items': fresh},
               open('feeds/latest.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    print(json.dumps({'count': len(fresh), 'status': status}, ensure_ascii=False))
+    print(json.dumps({'count': len(fresh), 'added': added, 'status': status}, ensure_ascii=False))
 
 if __name__ == '__main__':
     main()

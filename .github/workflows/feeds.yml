@@ -1,8 +1,7 @@
 name: feeds
 on:
   schedule:
-    - cron: '40 5 * * *'   # 6:40 czasu polskiego zimą (UTC+1) — przed researchem 7:21
-    - cron: '10 14 * * *'  # 15:10 (zima) - przed researchem 15:51
+    - cron: '17 1-23/2 * * *'  # co 2 h (nieparzyste godziny UTC); GitHub bywa spozniony, wiec research zawsze ma plik sprzed 2-3 h
   workflow_dispatch: {}
 permissions:
   contents: write
