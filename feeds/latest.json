@@ -1,14 +1,14 @@
 {
  "v": 2,
- "generated": "2026-11-18T19:13:38.431491+00:00",
+ "generated": "2026-11-18T19:16:03.497547+00:00",
  "max_age_h": 30,
  "status": {
   "energetyka/news": 58,
   "przemysl/news": 82,
   "transport/news": 51,
-  "kosmos/news": 100,
+  "kosmos/news": "blad: HTTP Error 429: Too Many Requests",
   "ai-it/news": 86,
-  "budownictwo/news": 30,
+  "budownictwo/news": 74,
   "militaria/news": 100,
   "nauka/news": 100,
   "*/redakcja#8": 100,
@@ -18,7 +18,7 @@
   "*/pl": 100,
   "rss:nasa": 10,
   "rss:eso": 10,
-  "rss:esa": "blad: HTTP Error 404: Not Found",
+  "rss:esa": 15,
   "rss:nvidia": 20,
   "rss:deepmind": 100,
   "rss:openai": 1410,
@@ -43,8 +43,8 @@
   "rss:wnn": 51,
   "rss:constr-dive": 10
  },
- "count": 746,
- "added": 604,
+ "count": 759,
+ "added": 15,
  "items": [
   {
    "cat": "nauka",
@@ -155,6 +155,16 @@
    "published": "2026-11-18T19:00:00+00:00",
    "tier": "T2",
    "seen": "2026-11-18T19:13:38.431491+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "rss:nasa",
+   "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+   "source": "nasa",
+   "link": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+   "published": "2026-11-18T18:58:27+00:00",
+   "tier": "T1",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
   },
   {
    "cat": "energetyka",
@@ -1946,6 +1956,15 @@
    "seen": "2026-11-18T19:13:38.431491+00:00"
   },
   {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Naukowcy odkryli na Księżycu dziwny rodzaj żelaza. Nie powinno go tam być",
+   "source": "ANDROID.COM.PL",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXhLQVI3ZVNTOGVUNklzNFppMVY1QVBkXzc2dl9JVDBVR1ZFMnVvc05FbFhUT2ZlMEt6blFUOU40Z185S3ZZeDZLNk9wdzE2eksybGN6bnNCTXdFT3RjV29obng1Ynp6QmdXMjR2UWVpSnJ6QXpzTHlHN3NLTWk0bA?oc=5",
+   "published": "2026-11-18T14:04:00+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "przemysl",
    "kind": "komunikat",
    "title": "Dreame Technology Announces Massive Black Friday and Cyber Monday Robot Vacuum Savings Across Its Category-Leading Lineup",
@@ -1982,6 +2001,15 @@
    "published": "2026-11-18T14:00:31+00:00",
    "tier": "T1",
    "seen": "2026-11-18T19:13:38.431491+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Biedronka rusza z Black Week! Robot planetarny Tefal za 249 zł i świąteczne hity w niskich cenach",
+   "source": "Papilot.pl",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2JxTUlrYzBEVS1abk00eWpPdDRpWS1XY1phaTVZWUxFRktUZU9kX0lndzdVeUliU2Q3ZDNNT2pkcWxwemF4QjNVT0lKeUFQQnVqX0p3TmpaVWFWNnkxZVdtengteGZIWW9tcGFtRDJYM3U4RW5Ydks2UFROQkg3SDBQd25EVDZqbWstX0dSUjdZc29WSDh0STFLWHVqclN4ZjhVRTNmWnFpQVdLcDlabDctNkRCcWU0LS1BTHlZX2Z6WlBQcjU0?oc=5",
+   "published": "2026-11-18T14:00:19+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
   },
   {
    "cat": "nauka",
@@ -2155,6 +2183,15 @@
    "seen": "2026-11-18T19:13:38.431491+00:00"
   },
   {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Chemioterapia ratuje życie w raku piersi, ale ma ukryty koszt. Naukowcy odkryli, jak wpływa na wiek biologiczny komórek!",
+   "source": "CoNowego.pl",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY0gydlg4V1VBRDB6ZDRrZzJ0ZWRWTUtBcWtpUmlhWFBSMnJnR0g3c2J1TlBmOG51UElkRkw0bkdkeU1jUjNocEtwZWZUeFpMaHJXZlU0UkNKemRXbjJ4NmxoLV9XUTZWYUxMZW9qWlpYUXVudlAtRWdhTTNVWUsydElOME40MDU0X3QtTUpCbkRJRWVrMHNFa2toaGtMR2VkWDB2Z3BhYko5Rk0wa2ZQZnNmNWFpbWptcW0yQTlPT1RxUmtLckVvVWpFRnRiaWlrQVROd1hrRWFTQmJ1MEJtWERsaHZTaV9teEVR?oc=5",
+   "published": "2026-11-18T13:39:38+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "militaria",
    "kind": "news",
    "title": "Rajnath Singh checks out Mogami frigate as India, Japan explore joint warship building",
@@ -2201,6 +2238,15 @@
    "published": "2026-11-18T13:30:00+00:00",
    "tier": "T2",
    "seen": "2026-11-18T19:13:38.431491+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Można mieć rodzinę i nadal być samotnym. Naukowcy odkryli związek z demencją",
+   "source": "PoradnikZdrowie.pl",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPelkxVmxNVi1mS2w4RHZ3aGpzYVNnVTBDUzY3LUpzQ2JXSEFiZ2FhQ0FXNmhpMlZmSmRmc2hGNk5CLU1XOXdwRHZDc1gxbnZqVU9OTlg1VUxIRk9JRDdDcVBIMUFteS0tdzlyLXNPSFJ1U1Z6RXJmUHNMSEM4a1I1Nk5STzVVN0FrQmdreDJOOEQyMGY1eHBVZk52RlFSdjRpMFdhbkk0eDA0Y2FkYzFFYmI0dWJmbG1rQlJRLWRRWDN5MVpTcGZfUUNOVXgzVmRZWWpJRWNLRUdIZF9nUFNrWQ?oc=5",
+   "published": "2026-11-18T13:28:00+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
   },
   {
    "cat": "nauka",
@@ -2486,6 +2532,15 @@
    "seen": "2026-11-18T19:13:38.431491+00:00"
   },
   {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Magazyn energii z dotacją 2026/2027 w Nowym Targu i na Podhalu - jak zyskać do 19 000 zł i zabezpieczyć swój dom?",
+   "source": "podhale24.pl - Podhalański Portal Informacyjny",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWnFxLUlRNEVnVC1aX1BUczEyODR3aXV1Y183OE13dFUxQXFMeHZRbGpSdl9vRXk3SkdkVGpnOWVXalVNVXREajl0cl94VkJmNjNMMEx2dVJVb2ROazZ2Z1pITlF2Y1JlVnpJYWhJWWQxXzBSbWlFOVpzOXkyeU9idlpOdUFSaHYzdHpvX0MyUG9UcmZqbzVDWjJ6aEkyclBSQ2VucDVTTExRN3puWkdTajFsaW1WUTlTSl9JUHV2UXBwblB1MUpuVlltOTBUNFZwaVhsU29ETkJUZEpGblR2Z3ZxdkFtT1hpS2pZbzJIZzZ4NVdMMHBQRWpoZ2tfOTlWN0MzcA?oc=5",
+   "published": "2026-11-18T12:28:00+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "energetyka",
    "kind": "rss:sciencedaily",
    "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
@@ -2512,6 +2567,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMy0xYW0tN3cwTGVjOERpSGlING5vSEE1NlliOFgtZWtrN0tmeHBwQTZRU2R1cDNhZWZaNVpHdUN2MG1LUHJTYXFldll6b05vSV96SmN1V1NHbzE0MWZyOEU4SlpOZ0IyaV9UNDNrUkJwclhDUVRTUkFPYVB6S21ZaFdvQ1gycnJOQWc3WC1vM1BDLS1ubE8za245WlpSMUNOUnZfUnRvMm1BakRwVnh0NzJ3?oc=5",
    "published": "2026-11-18T12:22:55+00:00",
    "seen": "2026-11-18T19:13:38.431491+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Szczepionka a alzheimer. Naukowcy odkryli zaskakującą zależność",
+   "source": "WP abcZdrowie",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1NvaEw4TzN4Q1JHWkJxQ1E0YUluNU5Cc1JFd2hKUm1JMnpRX3ppWUQ0NHBCN25FNW1NZWFteDJLdHJiTFZZZHU4dlIyTVpRTkxLSlVubHY2SHgtdG1fcEtCeUE4OVpVLVBmV0R0cjNIcVdDdzFYYWZqb3RXd0pMVUJXb2JBdHlDdHZmSWFQMFFnUGdGeG03Z2hvaDJXTmlGTDFIeWVIc3AtMnlSMlE?oc=5",
+   "published": "2026-11-18T12:21:50+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
   },
   {
    "cat": "nauka",
@@ -2807,6 +2871,16 @@
   },
   {
    "cat": "kosmos",
+   "kind": "rss:esa",
+   "title": "First thermal images from Sentinel-3C radiometer",
+   "source": "esa",
+   "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-3/first-thermal-images-from-sentinel-3c-radiometer",
+   "published": "2026-11-18T11:00:00+00:00",
+   "tier": "T1",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
+   "cat": "kosmos",
    "kind": "news",
    "title": "Update: FAA Says It is Investigating Vulcan Rocket Launch Mishap",
    "source": "Aero-News Network",
@@ -3013,6 +3087,16 @@
    "seen": "2026-11-18T19:13:38.431491+00:00"
   },
   {
+   "cat": "kosmos",
+   "kind": "rss:esa",
+   "title": "In the shadow of volcanic giants",
+   "source": "esa",
+   "link": "https://www.esa.int/articles/about-us/directorates/science/mars-express/in-the-shadow-of-volcanic-giants",
+   "published": "2026-11-18T10:00:00+00:00",
+   "tier": "T1",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "*",
    "kind": "pl",
    "title": "Robot za grubą kasę ma zbierać jajka. Czy naukowcy nie przesadzili?",
@@ -3058,6 +3142,15 @@
    "seen": "2026-11-18T11:38:32.007433+00:00"
   },
   {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Odkryli nowy gatunek latającej żaby. Naukowców zaskoczyło, gdzie składa jaja",
+   "source": "Zero.pl",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2g5Z2RhZTJUNWlpaDI4OUNIS0VVXzhrVndCOFM3RkZyYldnRmZ5TW0tbjFGT1hpZkFFdkc2TWNaWW9pMi14VGk2cU5vNzFHaE9ldkpMQS1ZcUZ2dXdNTXFyVHZjWmVjZmxTRmxQTmhsbHlBZmxMdGtRYlFhNFBtajBOR25LYTR3ci1JemhTMVlVSC1KTnRrRTNwOEVHR3A0ZXJN?oc=5",
+   "published": "2026-11-18T09:43:40+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "militaria",
    "kind": "rss:techxplore",
    "title": "Classified communications network at the National Security Agency goes down, defense official says",
@@ -3066,6 +3159,15 @@
    "published": "2026-11-18T09:40:01+00:00",
    "tier": "T2",
    "seen": "2026-11-18T19:13:38.431491+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Linia nr 170 w Łaziskach Górnych. RDOŚ analizuje raport",
+   "source": "Laziska.com.pl",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTklIYTVCbnltQ3EtV1NCY1Fqb0UzTmplbzNCUzZCNUZacDcxRDk5eXQ4NjljSFRLcUhZamY0RExLTEVCcHFWbWk0SzYxajBheGRHMk8zOE5MUzRpb3VQdVRBdXoyVVZadlpmbXJMV2dWY3ZCSU4zNU80MHh6TUYybXR4UUZvMHFpSV9fUThEZWNDa0swcGJnUjNTR3FyQ2kzQkE?oc=5",
+   "published": "2026-11-18T09:36:48+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
   },
   {
    "cat": "*",
@@ -5006,6 +5108,15 @@
    "seen": "2026-11-18T02:53:15.151938+00:00"
   },
   {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Ta sama piosenka, podobne wspomnienia. Naukowcy odkryli niezwykłą siłę muzyki",
+   "source": "Well.pl",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHdnTDU2bTFNZHI5cFh1UjJmdlh5WFduaTFMVTBrZGEzNmNXLUtTSU1yMVRMMDNndEZCc1VBRG1ETXNFSFM4d1RfazIyNjdwcjRtSk43b01XZWJ0clN5R1JsQTdPTm04WDBDODlPd2xSdF8teEtYYktIbEpWV0JWbHoyNWZVZlpwT0twUzVNTGlCenNzNkR5MU9HdGRWR0dwRmFPUkJIUUFFQUVyUnVGajF4aHJpdw?oc=5",
+   "published": "2026-11-17T21:31:00+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
    "cat": "nauka",
    "kind": "redakcja",
    "title": "Waymo halts highway operation nationwide after CA DMV pause",
@@ -6480,6 +6591,15 @@
   },
   {
    "cat": "*",
+   "kind": "pl",
+   "title": "Nie tylko słodzi i wspiera odporność. Naukowcy odkryli nowe właściwości miodu",
+   "source": "SadyOgrody",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1JfcXFISk95YTIzUEtSR0Vxd3hlQy1jdjlxeUlGS2hVOVhrLVh0NGl5anNTV2NHT2VWaVpzZWg4WGlkUWtHRmtJdV9GMzlvRmU5T09aNTBVMl84bDJ2Sks2c2gxTG9KRG51TzBndlc3UUJSREc0VlJJRmhNUHhaLWdDVkhlaFNnYXMzNnc0RjY3UXR5cDBxRmpSMk5HNjVmc0JuclQ5YnQzQ3VtVkhiOVVJenZjRFByaVhSU2Y0T1lONnZXUEY2VVBvN1o1MjQ?oc=5",
+   "published": "2026-11-17T14:55:00+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
+   "cat": "*",
    "kind": "komunikat",
    "title": "Public Safety Drones - Global Strategic Business Report",
    "source": "GlobeNewswire",
@@ -6948,6 +7068,15 @@
   },
   {
    "cat": "*",
+   "kind": "pl",
+   "title": "Elektrownia jądrowa. Będzie lepsza ochrona podwykonawców",
+   "source": "Inżynier Budownictwa",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0swcTRELVVsdlE0YlVvVXZ0VlFYUWM5UHA2c2JycGQ4ZU5nb2pEVlFOOXdMVjBQWWR0YUxKU2ZNSk5qc2tjdnBvalBJM2lrVE9zamp2S0o0YW9qNF9JUTdmeTJESld6RHVCX1JVVXZNN3FmUzA2TVZacHFPWWd5eDBXRDBrUWFWM2pWT3QtTWs?oc=5",
+   "published": "2026-11-17T13:47:06+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
+   "cat": "*",
    "kind": "komunikat",
    "title": "Primech Holdings (Nasdaq: PMEC) Advances HYTRON",
    "source": "GlobeNewswire",
@@ -7085,6 +7214,15 @@
   {
    "cat": "*",
    "kind": "pl",
+   "title": "Badacze odkryli zaskakujące działanie miodu. Ludzkość żyła w nieświadomości przez ponad 10 tys. lat",
+   "source": "Rzeczpospolita",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdG1wSEZpS1lFN1g3ZkJ2VnFGQmRMOFFVZ1JLbTZPNnJla2R1S1BfUGtadmlibk1FVk1Lb2o1blN3cFd4UDRwNlU3dkZSSXRRbDFrMTY1Vlg2MmFXc3FvYldLLVkzUXR4NDdyc0tnQURZRFhHU0ZrNEprMGVUQUQzUFdqUWVLTHZidlJtMC16V0ZQY1N5eWx5blZaVGVnM0E4enZjd1NRalBLUUFUQ1puM2w2SmdEUWJXeVE?oc=5",
+   "published": "2026-11-17T13:24:41+00:00",
+   "seen": "2026-11-18T19:16:03.497547+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
    "title": "Hakerzy zaatakowali strony internetowe Zoom, CNN, IKEA i innych firm — podaje agencja Reuters",
    "source": "UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2xzQnNGUlhCaWdsUV9MbDdONWg2anJ2Y01BUEFGNkV6eFlfMzc3R2pxUE5RSzhKU282VWNLNnAyaFEwa3VfM3pxUTRxYnFwTnBra2hUQnJxVFNvUGZvR0xiWFZscFAtZERKd05UNWpuRzRTV2pDcm5CNVRuZk95T2pmNFFUV0JLXzZ5bmxMcmFHblgzbmota1ZOWFd1Zw?oc=5",
@@ -7099,24 +7237,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnZrWTRTN2VZM3M3M25oXzNHVVQ3T2FSYXlOR28tNkQwWUdwdDJqc1RnaUNabVBuejRORUVCaWVtdnEyRElmOW90dlpBN19Ba0lma3FqZFBuTGdyUHFRc2hPdjJKVkVXRjRvQXBRckJBYWQxVTRUVGpRVnZFdGd0WHRJMXczMG1PRXJ4YUo5eVN0Q3loNlhvOG9OS05vWkNrYU1vSVkzS0diY2haWHoySzFEbTg?oc=5",
    "published": "2026-11-17T13:19:21+00:00",
    "seen": "2026-11-18T19:13:38.431491+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "komunikat",
-   "title": "Turbo Energy Announces Proposed Acquisition To Expand Its",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOM09YVW9KNW5tSXdSQ29mTzBLR2VmM29FbmV0emVnRm81MkdiaHo3b0NDYjFyZGU5cmF4NXp5RWJ6V0tiSDZtUHVIcDdPbVJWMVRwMVptRnBDVXZ0QUVxaVF4SXR1dk1IM2tPa2Y0WGt0QThFelBZRFMyX1pCeEJVd29rRHhEMUoxTnhia3J1bng2RmdPOV8zREFlUVRTQng1a0dRemNrZUMwVjBSVFJXUjAwSzI3MEExZzNVN2FoTkdHNEx3UEhUSkx4d3FjQUxHMTVDSnFhSkR4S0ZUcTlZcHBNYUhPd3NndnBJYUpFVHpDN0pnVmhJMU9UX21aZ3NIR2lIWGJBSHNpMWIyMFF1TVdfSQ?oc=5",
-   "published": "2026-11-17T13:15:00+00:00",
-   "seen": "2026-11-17T14:53:11.950571+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "komunikat",
-   "title": "Mobilicom Secures $863,000 in Follow-On Orders for U.S. DoW",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMnRYR3BKQVIxMnQ4VW0xem45bTFOWmpJWEJvVlJtX1V2M3ZTOFBrc0NnTkZHWkZFaERXSnY4MDAyUmVWU0V3TXcwR3dJOHFLVGg2Z1g1b3RGR291VjRYOXk4TnFSTDlfS0QtT0pNQnJwQ3VGbmI4eDc2V0VXSTE3WWh6MDMtSGtqSkdEUmxRRHpWWTI5eHVSSjFldkV5Um9LaHJ4VzdfX1prYUVMMEYzdWlpa3JKaDNIX2o5RjQ5dm1LSXd6TzFOd0ZrVWM1WjNZSEtqdVpmVFNGWEY5V0MtRmFwMXZEcmJjaW1pbjU0RzJMRm55MkhNM1drT1NpczE4cWotVVNhQzRDWE9BdlFSTFFJR3lTcDQxWnBETk1Kckl1R05hNFpuRmZvdnNNVUFpUkJNa3liYUFBN1lkOWJFVXRB?oc=5",
-   "published": "2026-11-17T13:15:00+00:00",
-   "seen": "2026-11-18T02:53:15.151938+00:00"
   }
  ]
 }
