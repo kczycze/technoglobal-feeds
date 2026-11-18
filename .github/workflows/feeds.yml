@@ -1,7 +1,7 @@
 name: feeds
 on:
   schedule:
-    - cron: '17 1-23/2 * * *'  # co 2 h (nieparzyste godziny UTC); GitHub bywa spozniony, wiec research zawsze ma plik sprzed 2-3 h
+    - cron: '17 * * * *'  # co godzine (18.11): GitHub pomija czesc uruchomien, wiecej okazji = swiezszy plik
   workflow_dispatch: {}
 permissions:
   contents: write
