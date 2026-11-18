@@ -23,17 +23,17 @@ TRUSTED = [
     ['twz.com', 'breakingdefense.com', 'defensenews.com', 'world-nuclear-news.org', 'canarymedia.com', 'powermag.com', 'newcivilengineer.com', 'globalconstructionreview.com'],
 ]
 WIRES = '(site:businesswire.com OR site:prnewswire.com OR site:globenewswire.com) (reactor OR battery OR aircraft OR rocket OR satellite OR robot OR chip OR bridge OR drone) -"market size" -"market report" -appoints -"board of directors" -acquisition -earnings -dividend -webinar'
-PL = '("polscy naukowcy" OR "naukowcy z" OR "polska firma" OR "polski satelita" OR "elektrownia jądrowa" OR robot OR rakieta OR odkrycie OR CPK OR "magazyn energii") -wernisaż -wystawa -koncert -horoskop -promocja'
+PL = '("polscy naukowcy" OR "naukowcy odkryli" OR "polska firma" OR "polski satelita" OR "elektrownia jądrowa" OR robot OR rakieta OR CPK OR "magazyn energii" OR "nowa technologia") -wernisaż -wystawa -koncert -horoskop -promocja -makabryczne -prokuratura -policja -zwłoki'
 # Kanaly RSS: (id, tier, kategoria albo '*' = klasyfikator, url)
 RSS = [
     ('nasa', 'T1', 'kosmos', 'https://www.nasa.gov/news-release/feed/'),
     ('eso', 'T1', 'kosmos', 'https://www.eso.org/public/news/feed/'),
-    ('esa', 'T1', 'kosmos', 'https://www.esa.int/rssfeed/Our_Activities'),
+    ('esa', 'T1', 'kosmos', 'https://www.esa.int/rssfeed/TopNews|https://www.esa.int/rssfeed/Our_Activities/Space_Science|https://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology'),
     ('nvidia', 'T1', 'ai-it', 'https://nvidianews.nvidia.com/releases.xml'),
     ('deepmind', 'T1', 'ai-it', 'https://deepmind.google/blog/rss.xml'),
     ('openai', 'T1', 'ai-it', 'https://openai.com/news/rss.xml'),
     ('nature', 'T1', 'nauka', 'https://www.nature.com/nature.rss'),
-    ('eurekalert', 'T1', '*', 'https://www.eurekalert.org/rss/technology_engineering.xml'),
+    ('eurekalert', 'T1', '*', 'https://www.eurekalert.org/rss.xml|https://www.eurekalert.org/rss/all.xml|https://www.eurekalert.org/rss/technology_engineering.xml'),
     ('mit', 'T1', '*', 'https://news.mit.edu/rss/research'),
     ('sciencedaily', 'T2', '*', 'https://www.sciencedaily.com/rss/top/technology.xml'),
     ('phys-org', 'T2', '*', 'https://phys.org/rss-feed/'),
@@ -55,13 +55,13 @@ RSS = [
 ]
 # Klasyfikator kategorii dla pozycji '*' (pierwsze trafienie wygrywa).
 CLASS = [
-    ('kosmos', r'\b(space|rocket|satellite|orbit|nasa|esa|spacex|telescope|asteroid|lunar|moon|mars|astronaut|galaxy|planet|launch)'),
-    ('militaria', r'\b(military|defen[cs]e|drone|missile|army|navy|air force|fighter|warship|weapon|pentagon|hypersonic)'),
-    ('ai-it', r'\b(ai\b|artificial intelligence|machine learning|neural|quantum|chip|semiconductor|supercomputer|algorithm|computer|software|llm)'),
+    ('militaria', r'\b(military|defen[cs]e|missile|army|navy|air force|fighter jet|warship|weapon|pentagon|hypersonic|submarine|artillery|anti-drone)'),
+    ('kosmos', r'\b(space\b|spacecraft|rocket|satellite|orbit|nasa|esa\b|spacex|telescope|asteroid|lunar|moon\b|mars\b|astronaut|galaxy|planet|star\b|stars\b)'),
+    ('ai-it', r'\b(ai\b|artificial intelligence|machine learning|neural|quantum|chip|semiconductor|supercomputer|algorithm|computer|software|llm|humanoid)'),
+    ('transport', r'\b(aircraft|plane|aviation|airline|train|rail|ship|vessel|car\b|cars\b|vehicle|ev\b|evs\b|evtol|truck|bus\b|e-bike|robotaxi)'),
     ('energetyka', r'\b(energy|solar|wind|nuclear|reactor|fusion|battery|batteries|grid|hydrogen|power plant|geothermal|photovoltaic)'),
-    ('transport', r'\b(aircraft|plane|aviation|train|rail|ship|vessel|car\b|cars\b|vehicle|ev\b|evtol|autonomous driving|truck)'),
     ('budownictwo', r'\b(bridge|tunnel|building|skyscraper|construction|concrete|cement|dam\b|architecture)'),
-    ('przemysl', r'\b(robot|factory|manufactur|industrial|3d print|steel|automation)'),
+    ('przemysl', r'\b(robot|factory|manufactur|industrial|3d print|steel|automation|drone)'),
 ]
 MAX_AGE_H = 30
 
@@ -113,7 +113,12 @@ def main():
     for n, (cat, kind, url, tier) in enumerate(jobs):
         key = (cat + '/' if not kind.startswith('rss') else '') + kind + ('#%d' % n if kind == 'redakcja' else '')
         try:
-            got = parse(get(url), cat, kind, tier)
+            err = None
+            for u in url.split('|'):  # kilka adresow zapasowych kanalu
+                try: xml = get(u); err = None; break
+                except Exception as e: err = e
+            if err: raise err
+            got = parse(xml, cat, kind, tier)
             if kind == 'pl':
                 for x in got: x['cat'] = '*'
             if kind == 'komunikat':

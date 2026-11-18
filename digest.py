@@ -6,7 +6,7 @@ NOISE = re.compile(r"\b(stock|stocks|shares|investor|earnings|dividend|price tar
                    r"forecast to \d{4}|forecast \d{4}|cagr|market report|market research|market analysis|global\b.*\bmarket|business report|outlook report|analysis report|development report|report \d{4}|"
                    r"\bmarket \d{4}|nutritionist|dietitian|webinar|podcast|appoints|board of directors|"
                    r"concert|recipe|horoscope|obituary|lottery|nfl|nba|grand prix|mortgage|coupon|deal of the day|"
-                   r"notowania|kurs akcji|dywidend|wernisaż|horoskop)\b", re.I)
+                   r"reports? (first|second|third|fourth) quarter|quarterly results|fiscal \d{4}|notowania|kurs akcji|dywidend|wernisaż|horoskop|makabryczn\w*|prokurat\w*|zwłok\w*|zabójstw\w*|policj\w*)\b", re.I)
 PLUS = re.compile(r"\b(first|record|unveil\w*|breakthrough|world'?s|largest|fastest|smallest|tallest|longest|discover\w*|new type|prototype|"
                   r"maiden|milestone|launch\w*|lands?|landing|images?|reveals?|develop\w*|invent\w*|demonstrat\w*|achiev\w*|"
                   r"pierwsz\w*|rekord\w*|odkry\w*|przełom\w*)", re.I)
