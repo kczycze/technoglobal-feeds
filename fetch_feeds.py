@@ -33,7 +33,6 @@ RSS = [
     ('deepmind', 'T1', 'ai-it', 'https://deepmind.google/blog/rss.xml'),
     ('openai', 'T1', 'ai-it', 'https://openai.com/news/rss.xml'),
     ('nature', 'T1', 'nauka', 'https://www.nature.com/nature.rss'),
-    ('eurekalert', 'T1', '*', 'https://www.eurekalert.org/rss.xml|https://www.eurekalert.org/rss/all.xml|https://www.eurekalert.org/rss/technology_engineering.xml'),
     ('mit', 'T1', '*', 'https://news.mit.edu/rss/research'),
     ('sciencedaily', 'T2', '*', 'https://www.sciencedaily.com/rss/top/technology.xml'),
     ('phys-org', 'T2', '*', 'https://phys.org/rss-feed/'),
@@ -132,6 +131,7 @@ def main():
         old = json.load(open('feeds/latest.json', encoding='utf-8'))
         for x in old.get('items', []):
             if old.get('v', 1) < 2 and x.get('kind') == 'news': continue  # jednorazowo: stare, zbyt ogolne zapytania
+            if old.get('v', 1) < 3 and x.get('kind') == 'pl': continue  # jednorazowo: stare zapytanie PL
             x.setdefault('seen', old.get('generated')); prev.append(x)
     except Exception:
         pass
@@ -145,6 +145,9 @@ def main():
             x['seen'] = nowiso; pool[k] = x
         elif x['kind'].startswith(('rss', 'redakcja')) and not pool[k]['kind'].startswith(('rss', 'redakcja')):
             x['seen'] = pool[k].get('seen', nowiso); pool[k] = x  # lepsze zrodlo tego samego naglowka
+    star = {'rss:' + i for i, t, c, u in RSS if c == '*'}
+    for x in pool.values():  # klasyfikacja zawsze aktualnymi regulami
+        if x['kind'] in star or x['kind'] in ('redakcja', 'komunikat'): x['cat'] = classify(x['title'], '*')
     fresh = []
     for x in pool.values():
         ts = x.get('published') or x.get('seen')
@@ -155,7 +158,7 @@ def main():
         print(json.dumps({'count': len(fresh), 'zmiany': 0, 'status': status}, ensure_ascii=False)); return
     added = sum(1 for x in fresh if x.get('seen') == nowiso)
     os.makedirs('feeds', exist_ok=True)
-    json.dump({'v': 2, 'generated': nowiso, 'max_age_h': MAX_AGE_H, 'status': status, 'count': len(fresh), 'added': added, 'items': fresh},
+    json.dump({'v': 3, 'generated': nowiso, 'max_age_h': MAX_AGE_H, 'status': status, 'count': len(fresh), 'added': added, 'items': fresh},
               open('feeds/latest.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(json.dumps({'count': len(fresh), 'added': added, 'status': status}, ensure_ascii=False))
 
