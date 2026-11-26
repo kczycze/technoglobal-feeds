@@ -1,18 +1,18 @@
 {
  "v": 3,
- "generated": "2026-11-25T22:36:49.552804+00:00",
+ "generated": "2026-11-26T05:09:04.933687+00:00",
  "max_age_h": 30,
  "status": {
   "energetyka/news": 100,
-  "przemysl/news": 100,
-  "transport/news": 44,
+  "przemysl/news": 86,
+  "transport/news": 100,
   "kosmos/news": 100,
-  "ai-it/news": 72,
-  "budownictwo/news": 78,
+  "ai-it/news": 68,
+  "budownictwo/news": 34,
   "militaria/news": 100,
   "nauka/news": 100,
   "*/redakcja#8": 100,
-  "*/redakcja#9": 82,
+  "*/redakcja#9": 80,
   "*/redakcja#10": 100,
   "*/komunikat": 100,
   "*/pl": 100,
@@ -42,9 +42,670 @@
   "rss:wnn": 50,
   "rss:constr-dive": 10
  },
- "count": 754,
- "added": 328,
+ "count": 668,
+ "added": 92,
  "items": [
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Polski robot bojowy waży cztery tony i pluje ogniem. Teraz jest jeszcze groźniejszy",
+   "source": "Spider's Web",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mRng4RERhZ3FjTEczOUFlRnVPQm42ODVtUjc3Qk1TZVloeGVQWWFUN1hFY0FWRDFybWRydE9fZzdYU0tjRjc2OGtHU1VTR3ZVdTRBWkQ5NHI1a3FMbE5USEFESGd0X3c?oc=5",
+   "published": "2026-11-26T05:02:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Robot znalazł cel, a AI przekazała go dalej. Wojskowi przyspieszyli atak 10-krotnie",
+   "source": "chip.pl",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4UzhvRDNWcUtfZ3ZEcExiN3pWb2NpSXlCQTJMWWNaUGcxUXlOM0NWTERIZWhLYnNjUHRWWGJYLWtnd2ZaZk8xSjhwNnlKQ09ZSU5EOWdzdFFhMWRQN1FyeTlQblYwdzVIeGVtQlhycXZuSFNkblNj?oc=5",
+   "published": "2026-11-26T05:01:40+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:phys-org",
+   "title": "World's fastest animal could nearly double its livable territory by 2080 in the UK due to climate change",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-world-fastest-animal-livable-territory.html",
+   "published": "2026-11-26T05:00:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "news",
+   "title": "Harrison.ai unveils unified radiology AI model",
+   "source": "Health Services Daily",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDNSV3pzUjhUMndUTjZxVlktc014ME9NVHJjRk9wMDM4bU44RWF5Z09VdDlCLVEwQnBzTTdZd01Bd3ZGX0lSWk91Zko4bjJGZGR0cTNjRmVSR25pMDJveXlrcXFWRzloM2V1QVY1cE03cllTTnJDY3Y0NWVNbk84OVFocWNzZE8tYV9tRlNMakFfUTJHd0E?oc=5",
+   "published": "2026-11-26T04:48:12+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "rss:phys-org",
+   "title": "Sending an Australian astronaut to space is expensive. How do we work out if it's worth it?",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-australian-astronaut-space-expensive-worth.html",
+   "published": "2026-11-26T04:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Pakistani astronaut reaches for the stars",
+   "source": "chinadailyhk",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iRmRyMWlkc2F1UHFKTjRSOUVFRHhJUGxBMVRVZXhGLXREbklYbGMzVXJPdGM0TUNyR3BXVmFvcHVEa3VRSE92cDdUMUN0Nk5tdUY5MHJoVEw?oc=5",
+   "published": "2026-11-26T04:35:12+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "*",
+   "kind": "pl",
+   "title": "Nowy SUV na rynku. To japońska rakieta dla rodziny. Ile kosztuje?",
+   "source": "Dziennik.pl",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFViSEgtWW5XR3ZZZGZ6WEdjeGhxQzEwbThKZEdKZGtoMzVfSEd4TmJYb0xSdjRQbkVpVFBLR0lnRW1leG05blNlLXE0ZDNFTHFqa2NGTTlidUtuNFU0a2tJZnpYajh6MDRZMEVfY2FIMFIxYzJKM2c3OHp5Zi0xZlI0YUZ3ZWhzRGFRSXVJUEJfQkZzUC02ZG9LRkxjaE05bFhyajdzVm9GbXByZC1pZmdFQWxKSWxYTE54dklKYw?oc=5",
+   "published": "2026-11-26T04:29:14+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Shocking Breakthrough: OpenAI Cracks Matrix Multiplication Exponent to 9/4, Consecutively Solving 8 Major Century-Old Unsolved Mathematical Mysteries",
+   "source": "eu.36kr.com",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JR2szMkNpN2lIMXBZTHQ0R2ktbWFibC1QbF9Tb0pzSVZ3V2Z0TS1pOFpfQ1dnam5rdkYxTTE0TnJNX1JzTzdaUlJTeU5wVENYSEJr?oc=5",
+   "published": "2026-11-26T04:23:47+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "’Runners Close Breakthrough Season in Big West Championship First Round",
+   "source": "CSU Bakersfield Athletics",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUkxTnhWaURkNUt6bER4bUIxdkFIVExPS29nV3RmUFdwaWdmYmJQNkZKWDcxZFdCaVowTzFWbkEwM09CTFlDX2tuSVRPRDlZdG0xaW93VzFoMGdSUGFnbGl4R1J6aDR5OHY1R2poMTdXU3R0MlBScnkwYkhwQnVxUDl4ODZHNV9oSzdCTUtWX0RjaTZObU90NUhqal9BYkhMdmh5NWgwRml4YUIzTlNjSGhKTUNsdVlPZFNZTXRwaWJfLWcwRGotbTQwZw?oc=5",
+   "published": "2026-11-26T04:21:28+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "militaria",
+   "kind": "news",
+   "title": "Boulder Emergency Squad adopts AI to help develop new rescue drone software",
+   "source": "KDVR",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1lnNXdEVFYxdGFSdlIxbjlHdDJqQWhnZmNUUHhnZTNpeVdPX2dDM0tOUm5TNThFeVpGd29TZWlLY3EzUGxUeUNRUTZ4Ri1uQlVQclEycC1rclVQTFFfNnJ0aVZPUFNnci1HVGdGMGEyeGVOOXZNdTdFalJFLXR0cm4wanBLTFFXQU5LQm1tb1JKWmE5TUxnaV9mZy00dnVVMzJvTGg4TdIBrAFBVV95cUxQLVI0TkJ4X3VZVVlfNGVRNFlxb3VhVWY1TmpJdXhfUE1JZ0xpamJwQ1BaR195NG5DMGV3LURtTjZhRkx4Rm9KWUx5QjJ2R1FBZUJEWEwycjI3SmxRTkFSbUd6N1ZEblZCY0R0a3pvc203SXV6dXRUY1AtT3ZDM0RpczdEcW9HNkRJMnVEYl9wcFAxcm14YjdGMGJxUEJyYThSZ3d5dXN6ZHNBR0VW?oc=5",
+   "published": "2026-11-26T04:09:56+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "New Images Show Crater Left On Asteroid Hit By NASA’s DART",
+   "source": "tovima.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWNtZnhISXp4a2g4Ti1DOG1OU2VMMTEtaDNUektrbk9MVE9oMWNNV2JoT01hT1JSeXJON29SdEFqR2dUbHlDbWttZkNCUmVEMUI2V3dSLVRoZldRTTFYb1U1RVl1Vzk1SU82bFA0TzdYbWIxb09rVXNIeDBaSlVuOE9fUUI3ODZUa0xoZnVCdnU5enM?oc=5",
+   "published": "2026-11-26T04:03:11+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "Xpeng unveils humanoid robot and robotaxi at AI Day",
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl8xVXEwbllPS0FpNGZvUFQtUHlBTlhmUjFrVDlPQmg0TXhNc3BWMXJGcWl6VkpPQlJteGRuMkVya0VMSXk1aFBNenFMOWpnU1E3UFJjWjdYcXZKaXdsbkpBVmgtQWZvaE1aX19WdTFqZGowQTgzb3NMWTROSU54b2RfVkl1aWRZ0gGcAUFVX3lxTFBOWmtFZFZOdDRRd1NkNGNYY0FTNVpzQXBKQWQ1ZkFvRWVCTXRXNXRMRHZiTFdTX09SLVg3Vjg4NEphMGlnaDJjVGFXaWhMNmZkNHdpdHJvSnYzYU9ZXzUwRjVObTJXQURIRjZmMWVXZmIxcHVJMGgxS05aNW11S2M0VTFBUEx2ZjVuRE5uMGtubHMxMGNvZmotZlY2Rw?oc=5",
+   "published": "2026-11-26T04:00:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Croatia’s first satellite CroCube gets its own postage stamp",
+   "source": "Croatia Week",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRd2J3Z0ZLeVNPRjRXYlh6c0N2UEpqRlptWVE4NW9yaWd5NzBZNVA5YlYweDJGOENyRW5xQ3NocFI4QnFUOHctcmdXTkt3aUxlRW4wbXN1OUtyaUVwWl9aRk5felJreHBmM2NqYWptV3BDVU8wTll5dXBpOGVkdVE?oc=5",
+   "published": "2026-11-26T03:50:07+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Breakthrough tournament title rewarding for unbeaten Mill Creek boys basketball",
+   "source": "Gwinnett Daily Post",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeXAtaW9CSTlQQl9YeDlPWjVRYVJMSU5Ec1FwNkdVRmY0U1FTd3BIVGxNbTdmV2czWlRfNnJlZ0xXZFljRlVNa1E2aFBZdkJLNWNYWUdUSmVXSnFOZ0J1TDNkTHFnSFZ4WVNsWHJIeDA1VFVpSXR0d3FrdjhmcmVSMUpSdTBGMVAzS3FjVUZYOEVkczJ3SWk2SHNDa0ZoYWhxWEk3Q0ljUHg2NzZ4X2xlV3RVeGZLcjNRV3loR09uVHZMZDZhVDFLQl9QYklLODc5aXFSNnBjZEo4bWYwbUpuUzYzQ1dMM0VWWXRWd3NyZmd6SjEyZWc2YVY1Q3gwX094Tkw1SlBB?oc=5",
+   "published": "2026-11-26T03:43:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:ie",
+   "title": "250-nm light-powered nanorobots deliver five times more drugs across brain barrier",
+   "source": "ie",
+   "link": "https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier",
+   "published": "2026-11-26T03:40:49+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:phys-org",
+   "title": "New eyes in the sky make timber harvesting and forest conservation easier and more efficient",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-eyes-sky-timber-harvesting-forest.html",
+   "published": "2026-11-26T03:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Light-powered 250-nm nanobots boost brain drug delivery fivefold",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdqTWVtbU9IZU9pYVF2aVNvejBZRzBLN1JWX29aczdFdDR0ZWVFQ3Z3Zmg4Q0hONWhJbUdTQWpwTEpVM2JaWHY0TXhONWtRQjdGU3V5bkNCcWcxbXU2em1ycXlzTjRvb1FLSlY0YnZubTEyU2RvRWdUMk5maHd2c2xKLW1vVGdyRHlBaTdHQ1BZdnFVbkV3ZnB4OFJiTUE?oc=5",
+   "published": "2026-11-26T03:40:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:newatlas",
+   "title": "Sleeping 9 hours a night could predict your risk of dying from heart disease",
+   "source": "newatlas",
+   "link": "https://newatlas.com/heart-disease/sleep-sign-of-hearts-health/",
+   "published": "2026-11-26T03:30:17+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "redakcja",
+   "title": "New 3D-printed robotic hand uses simple parts to replicate human-like movements",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkJTZWZvbTZPVDQzZ0NjMUl2azYyeXF3RlNqZ1A2Nk5VZHBDcjNfLXQ4VENxQ1c2U19tWFF6c0ZEZEQ0T3Fwek9OX250QzlBNHJDWF9BWDYwLTRTSGRxMHZpbTZVX1VXbnlMWUlpSG1Yc25iQ2RPWlFmVFQwSU9MMjNQazRsekR1R3c?oc=5",
+   "published": "2026-11-26T03:28:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "rss:ie",
+   "title": "New 6-nm niobium phosphide wires offer new path to faster, smaller computer chips",
+   "source": "ie",
+   "link": "https://interestingengineering.com/innovation/stanford-niobium-phosphide-copper-chip-wires",
+   "published": "2026-11-26T03:26:24+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "New 6-nm niobium phosphide wires could replace copper in future chips",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEx2eEFrQ3AzZ3RxeFU5eFZ5YjVkM183a1BKOXhlVE1ndUVvUkpHdWEzWEhlVmhyMEM4V0d3MGcyT3NWQlZIdmhkZUZEYUs3Wlp3Yy1aMjNaNHhSR000ci1VTV9HZTNaeTlvdDFPSnRnaURjRHptaTFVbjJMbDUta2VobTNRNGdBdUU4VW9hWFd3eXFN?oc=5",
+   "published": "2026-11-26T03:26:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Google Unveils 6 Groundbreaking Mathematical Results: 34-Year First Major Breakthrough in Integer Factorization Algorithms",
+   "source": "36Kr",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3eWtrZ01fMEpXNmE1T3NSS2lKb3pmblpKMHZ5dFRmcTR5Zmxta1doNDJVSFRxU2JKT2ExMEtzbVNzVDlJQ1d3eHhsNTVvNFdraDRz?oc=5",
+   "published": "2026-11-26T03:14:37+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "DART Asteroid Crater Spans Struck Face: ESA Hera Images Reveal Dimorphos Tumbling Chaotically",
+   "source": "Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFB4QlF2WDlMOVg4UlRqQnpmeEhUVllHT3JqaE5mU2V2d3ZNWURoZ0tOQW9vZEExajNoUDFWTl80MnN4WWJfYW44VGJQajFVMm1uaUtsb2Q3M2paUG5GTGFYUXNxNW1RNVFYWmRVMWpFN2dkQUdkZjV0eHpJUEs3RHk1MXMtbE1HWnZFZm92SjR4V1F2UEI1V1hHMTkwSHJhRFhwSXNLVTdqVjFQTGtRX0ZFOEt6YlY3aTNuTnk1ZER1ZEhrYi1JQjRKNXNXREsxazZjSFZ0R1phMTd5UVI1Zg?oc=5",
+   "published": "2026-11-26T03:09:12+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "rss:ie",
+   "title": "China’s 1,300-mph J-20 stealth fighter flies alongside autonomous wingman drones",
+   "source": "ie",
+   "link": "https://interestingengineering.com/military/china-1300-mph-j20-fighter-drone-wingmen",
+   "published": "2026-11-26T03:05:15+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "redakcja",
+   "title": "China's 1,300-mph J-20 stealth jet joins forces with combat drones",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2l2WXNtTkpSaVJBOENGUUF5VUx5dlVFV0w3NUs1NnpfTkQ5Q2tQaktTdU9XYzF1ZDEzT0NmdlIyTnhORDl1V05VQTBuU2xnRkhQOERpaXFKa1ZNRDdSdDJnOFRjMldyel9QeWhmbmZIQV9LWDlOSUwxV0RXbVNSUThXRkZuRjVkam82Wg?oc=5",
+   "published": "2026-11-26T03:05:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "EnduroSat Books Two Dedicated New Glenn Rockets, Bundling Satellite Bus With Launch",
+   "source": "Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNGJUc1R6NVVIdkZOQ2NBX1J6dXMxUkU2cGY1dW1odUp2dlB6YUxYZzhEU0lzM1hYbU5XN1JOeTdPanRDTmc1UExhNXlhdHpab0p0dFNQZ0I2dXpaNWdPWDRkQkF4WEkteUxYYVV6Q2lBVXRkcldTWnVvUjhSc1B5c2hZQm5ReldVQ3ZIV2pxV2lGZEM2dUV4ZTFWTUQ5QnRRMzZOQkotbkNzWXNJM0h5VXlVem1BMUo0SFRha25rOUdZbC1sY2ZZcXJ3ZFc?oc=5",
+   "published": "2026-11-26T03:01:16+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Poland Signs AI Firm SATIM for Radar Satellite Images; No Independent Accuracy Tests Are Public",
+   "source": "Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWo0cDJjSzA3TDlWMy1qWWlHcWxTUS1ET1BlYnQ0Ul9heGJ5Y1VFOVZIVGhreTlFZDhaOHlxX0RRM2xiTG9kTHVsMnZNd3JJUWhkLVREazctbEdmNG5oRl9BOFRWM3dvek9CLUpPRHNNZWZYYTctd19keUNUZXRROHlhWlBQNnN5QzR4eEVzTTBya1ptaDdiTFd0SVVOWTR3WTFXNnFqemo2emRZMmZiVVVFcXBoWVVvOC1pNDI2aWJHOXhFSVQzUWw1VkxYakk5azBzbjA4OU11RnM3Vnc?oc=5",
+   "published": "2026-11-26T02:55:07+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "China, Pakistan launch crewed rocket to Chinese space station",
+   "source": "KGW",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTRyYjdjSFc2cGZKNm9PREdvcVFKUlJ3STRxRG9NTTU0QkZZVm5DM29lVzBkT2liNHFYTE95VnAxcThJS0JrSkMyMGVUUVNPV3loU0tNNENQbldQV1UwUUxVd0tJaWpSVENmYmVKTGMwSm05WlBibkR6MlNkbUo4UVlILUV5eTY1Q3JGTVQxWjBtN0tnREhsVlgtOFRNZTJfYzZSMlVOdTMzdW5PNXdhNEtSVWUxZEFPX3dGYzY5N3Q0SEJzREhoSzJ2OThwYmtDRVhCUi1mam4yd3lFQ0E?oc=5",
+   "published": "2026-11-26T02:54:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Sandpoint High School seniors aim for record-breaking rocket launch",
+   "source": "KXLY.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnpCTzBfMUkwaDhFRW1STXJHdGRsTXI4S2trdFQxeDF6Qmgwc1QxS0RxQUVJUzA0MGdTbktEcHFHa1dNSFgwd3ZMVFNGd1pqbnFFX2NKWkE0RjZPX1ItNmdKc3c3RkRNbjBTRjNTZTczanhzU2w5a0dxZ3JXa3Vpd3NoaUhpNjNiZ1hxWk04ejlTbHNJZW5kRzlNMDhoSWxqYkg0Q2g1dmdkaXdxeUVTYjBsTV8ya1BONkFuYmlrSkZMcVlTTGVKc1RKbFFjYkI3SkJHbHJNdThkelk?oc=5",
+   "published": "2026-11-26T02:45:54+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+   "source": "ScienceDaily",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3MkhiWjFZQWhiTWlDODhFVDl3bDg5VEZLSXJCaTllc0hxV3F2cnVIVEFrcjhMZXRTYnRvM09iSDU2dTU3dDdmd2MtVXZvY1NGZ2tEeWtYWU9Gbk1IcmRDdUw4eU1HTkZzYWQ3dHZFSQ?oc=5",
+   "published": "2026-11-26T02:45:37+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "rss:phys-org",
+   "title": "Do we really know more about space than the ocean?",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-space-ocean.html",
+   "published": "2026-11-26T02:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Issue 3623 | Magazine cover date: 25 November 2026",
+   "source": "New Scientist",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMnJpclNUZnNXVng1VG52Q0Y2OUctS2ZDdmYzNmc1RWJTSDZYdTFvZnRyQnVFY3M5M1JNZk1jVXdseVVuNUljamZSeFpXN3dmcVE?oc=5",
+   "published": "2026-11-26T02:36:51+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "QPS forensic scientist honoured for crime scene chemical breakthrough",
+   "source": "Inside State Government",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV09iTGp0WVFTWEdsaVB5TnRGV1B3Y19hRFVSVG9fdGtudENrZjF5aDI0LVpraTBlM3Bvb2NqTE9WUTBGYVRIdmxydXA3cUVUaXF0SVZGT0VUQzhFV3Q2NEVhTE92eHRBamFzdFNEdDRKMllkNkpnVlNUVWhHNFpXQjl1c1RqNTFBMlV4azNTNTBadmJZZUhLVE5HRGNTVkE5NEU0SmRlemhPdHlWOWl0NQ?oc=5",
+   "published": "2026-11-26T02:27:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "rss:ie",
+   "title": "China’s new humanoid robot features 1,500 tactile sensors and 76 degrees of freedom",
+   "source": "ie",
+   "link": "https://interestingengineering.com/ai-robotics/xpeng-iron-humanoid-robot-1500-tactile-sensors",
+   "published": "2026-11-26T02:21:15+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "XPENG unveils humanoid robot with 1,500 tactile sensors in China",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1U3dlNwZDgwSXB3MUEwMGhxZUQ5SXlaOVpBc3VRVmVfaW9yc3BVN1FiRXBmM3FFY3R4MnRxaEQ3bTRoSUhBeVhCa3M3Sk9DUENVdURibEhJbi0wSVBoR3dYZ25BS0RhLVdxODBZZTc4NC0zZFNpd3ZyVWJ1S0ZQV3NLMEpSRWtlbldzTENvUzJKRVgyRzFPZQ?oc=5",
+   "published": "2026-11-26T02:21:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "New roadmap for sustainable UK data centers",
+   "source": "Tech Xplore",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMUVRYb3hTSjJJX1MzUzhOd1JFRnVtRnlKc0dHUTRibzlta1VDWVFoS0NCM0EyeWxneGRhYVc2aUNDdXo2QkE0YXB4a1g0MmFjajFVRGJsSDJUMHBjMHZXOTcxbEZCMmhPbUNmMWU1a2tma3BpZzFwN3VfTQ?oc=5",
+   "published": "2026-11-26T02:20:02+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Blackhawks Face Kraken as Teravainen Targets Offensive Breakthrough",
+   "source": "cwibc.co.id",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00WUl2NGNLTEo0c202bHVVbzdNdGxuWVduRTR0Y2pmYWYtRkxaRWh5S1FCcUJKeURYdXNqYnJlN0V6TXNUSGFUTkhjQ3NHcVdWVXZwWEFjek9CZTNSTTY0V1VZUzc3S3ptcVA3ZTBUcXRBUQ?oc=5",
+   "published": "2026-11-26T02:09:18+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "rss:sciencedaily",
+   "title": "Astronomers may have discovered a black hole born before the first stars",
+   "source": "sciencedaily",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+   "published": "2026-11-26T02:00:33+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "From solving to 'digesting': How mathematicians can adapt to the dramatic changes AI has brought to their field",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2VOejlPVHkyTGpLQnA5QmFpMFlhbHUyRXNON0JGQ3FZcWlPaWwxZEFMWUtkQUJwcUl1MGhFeG84a242eEVNZ2VMT0xtdU1KNzExUFBqT2M5MlN2VDNYLWpTNmZVQ2Q0aXIzUVVCQjVETmpTdU8xNzRBbE1aeUItY1l3?oc=5",
+   "published": "2026-11-26T01:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Aamir Khollam",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WTkdfS2wxR1EzLXlfYno0RE5hc21aLWc2R3N5cTJRTk5VNy1RWEJPY2NQRFpOUWQ2bHhJV2NaWFFkdkdzX3hPY3RsRUFza3N1UURPVC1BQzVPdjQwX0Fwa0xfY0k1MU5qVVRoLWRzSEtFMHBt?oc=5",
+   "published": "2026-11-26T01:37:36+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+   "source": "Spaceflight Now",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTVGcmQwYXo0b3pLS1hFRmxuR2RHaXVSOUJycVJtMnNtd1hSdl9MMHJSMWRpaHYwbmhLbzI0WkFRT1NFdTJEd2pIa3pXN3owZ0RYRC1tX09rTGlHTEtvbG1nVlVPbEZZcllRZUlVdEJfVlhjajBKekxHOG1pbzM2VDFhOXVISDNZQTZtYzdIWUx0MVk5eWpLbEQ2Z0ZXOU16d1NPdGVlZDdYNnR6Z0pZd3FYNE9MNmdsdmhrSw?oc=5",
+   "published": "2026-11-26T01:29:33+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Xi hails China-Pakistan milestone",
+   "source": "chinadailyhk",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvQ29qaEw0ZXdpMTZSSE5fdHhzcEJ2eWp4a3NKejRZb21rcmtNVzNXZG5kYk83SlkyOXU4elNtSm5qLXlXcEtHakdfbnRQNHR5ejk5THBDWUY?oc=5",
+   "published": "2026-11-26T01:18:45+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists discover a massive space hurricane that rains electrons",
+   "source": "starlust.org",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVZmbm4wMkN3UFJfTmFqXzdTU3VQbU9mUFB1OWlYV0Y1WFNocHNOVVd4dm1sU0ZvakQ5Si15clNzcXZJSmZMMDRRWVBXMm00QlZ2Mzg2VktzcFB4SldWSmExSndBZHhXZ01hdzFiNHpleElBcExncTBHWmdqaVVTT3pBTzA0SFpIUk00bUtEelRlSXJGdHNJVTNNU3BmV0ptbkVYRERZZ24?oc=5",
+   "published": "2026-11-26T01:06:58+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "World’s largest trial of robotic knee replacement reveals surprising results",
+   "source": "ScienceDaily",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMXBoZlBCZndwZUxMMWJYdEMxZjU1aGFaY0paTDdzcjMyMnU2bkFlVEVxc3JYdEJ4eS0yd253c2VvQVFrWkxoWVNITkJMSmtQYzRPbjI2MUI3TG83TTVKR0EtR0VkSUZsYmRNNmNQNA?oc=5",
+   "published": "2026-11-26T01:05:49+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "XPeng Sets a 2027 Release for Its IRON Humanoid Robot but Names No Price",
+   "source": "Startup Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2Q4MTg1dWVOZWxEM3VWS3dFakZTVlBzamJRMHdTTkJaUHUwVlRzeUZfRmFnN250NHVDTHRFNzZxWjRfTWctRDBTSEdzeS1rbF9yV2lKTlRUTERZcmRseHhCWXNNSDI1MzZuc2haLWJfWFZ2bC0xMm93bUNJbkE1WURBelpKbFhaTjlUWnBBTzJJRVAtSDBMLThzWWlTeTJWbVE?oc=5",
+   "published": "2026-11-26T00:31:30+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Japan Unveils Lunar Rover Ahead of 2028 Moon Mission",
+   "source": "News On Japan",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85ZDl0NTU2UGRrc3FmS0MyUGdMd3l5bWRFVWdfcERHVHF3eW9wSWw0d1ZtLUZiS1czY1A4Sk9RMEEwNXIxVDhMcDhXXzh4WU56bzZ5Yw?oc=5",
+   "published": "2026-11-26T00:29:44+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "Globe Business powers PH’s first robotic surgery between Luzon and Mindanao",
+   "source": "Bilyonaryo Business",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFVRRGJ0dERWNVoxM1RGcWlwaFpmSnQyWW5fWUpFZXFTTzI4TDZNZ1hsdnBFQ2h6am9QQkM0TC1JSWNDdXBRbURtUTJ6dVhyUW5oUVZEVDZKNGw3TlBHVEpkejVOSGlwcGRwOEtpblZrNHlqQW1sUENHQU1weEkxRDBrZENEWjY2emlpZ3dscmhNRTZONlN0NUdXYlN1V2s?oc=5",
+   "published": "2026-11-26T00:26:30+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "We Shot a Ship Into an Asteroid to See if It Would Move. See the First Images of the Impact",
+   "source": "CNET",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81bGVZRXl5eE1sU3NRZTJ4TTNSU1AxZUNaTmpKeVRFd1c5N3R6anktQWJuRm5LOWQwVEppWm5xZXppN3p6cGtiOHZQTmRScV9Ic3FEUG5CMGc5ckFsZzBXQzQ3ODh3dzFHb1Buc3dCZ1BwMzBVRFE?oc=5",
+   "published": "2026-11-26T00:18:53+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:phys-org",
+   "title": "Dinosaurs likely tore meat like birds of prey",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
+   "published": "2026-11-26T00:10:04+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "rss:phys-org",
+   "title": "Disliking AI doesn't deter its influence",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-ai-doesnt-deter.html",
+   "published": "2026-11-26T00:10:02+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+   "published": "2026-11-26T00:07:51+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "Neuralink wins FDA approval for first pivotal brain-computer implant trial in the US",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2xZTy13U2o1R2gwZ3pncTVrYmNCVU9CVGNlWWd4OWY1c19NVThYMUtVZGFoMThoa2czTmg5eW5QSjVaZnZla0FXbzRkYWJibDBydzIyWFNESHEyWW5za0FvVGVmRHVsc0o0eE92dGtaT181b0NUdE5QXzlFaVdvLTBWaVR4Yjd6ZlVaNmk3eG10RW9uUmlGOWxzVmF6QQ?oc=5",
+   "published": "2026-11-26T00:01:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "militaria",
+   "kind": "news",
+   "title": "Connected and autonomous vehicles - Drone and AV test centre to be founded in Abu Dhabi",
+   "source": "Smart Cities World",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTThPQ3JPSU94Z2FUekdGSkxxVS1fWVc4YjM0UEY5elQ0elZtVVFoMWZnZkdMSjhIdFdFX1dwWDQ3bXhUU0FEQW1hbExYZVlFcEhoMjBWU05jemVubW9OYkNGZVVlT1RKNlBWb3NlNTRkNmZ2dmhfZVhIWWdSNl9FdFJFRVlKdW14X0V6alNGZEluandkNHJINWEyZkVITVpMaWh3dHB2X3VMYjFXaVdNcWpMclpGZl83VS1BR1F3NkNHQQ?oc=5",
+   "published": "2026-11-26T00:00:46+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:phys-org",
+   "title": "Sweden tops global media freedom support rankings as international funding declines",
+   "source": "phys-org",
+   "link": "https://phys.org/news/2026-11-sweden-tops-global-media-freedom.html",
+   "published": "2026-11-26T00:00:13+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Giant deer bones may push human arrival in Ireland back by 1,000 years",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0Ri11aTE4Vk41ZTM4Ny1JNmk0RmJHVXdkR3ZMNDhaYWl3dFRFdGVhSzJRWEdDTWVtdEkyaHhON0xYcFRYZ1pibmhTUzE1ZmVrdENMTVdIMFVCQmVOdC0xV2xmZVBqcFBNdjU4ZmM5TDhFekk?oc=5",
+   "published": "2026-11-26T00:00:06+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Fermented milk may have held ritual power in Neolithic Denmark",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XVUxFOEVNU1NHUU11ZjFCZXI0NWVFNTlicUpNV3dHcHp3c1FRMDJFY2hDZElEMnpuS2Q5R2hkWlJNVU44YVYxM01YeGFfSkNma0NNSEdpVjhBMThMdzYzclVHa2YzQWUwRXEzZUJoM043Zk1QOUZ1WUFNQ0k?oc=5",
+   "published": "2026-11-26T00:00:02+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Samsung AR Glasses Waveguide Breakthrough: Study Explained",
+   "source": "https://virtual.reality.news/",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjdKUUNLdTRQYzNNOTFYdGxNWVVSbEUtMGJTSVYtVjRCMFVCNWg4ZTZURVpzdEp4b21HM21qbjl3VGMwQTdJaTZmNEFEblpmQlJvTmc0ZUMya2J0S1otNF81UnBtZlRJUVZ2V2hZQ3R1elVQSDcyaUtGdnFlSEk1OWpOOGtQa2Vuc2o0NUVkMEZ6UFNHRWNJ?oc=5",
+   "published": "2026-11-25T23:51:59+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVN0NVVlS0dkWm5QdHZyXzE2aWJPY2I1NjFwOVMteHRkbXZBVXpnbUtCUTJpRkpiM2dqWlR3eWM3alFHLUJENllET3o2dV9OMTZGRXpWRW5RNnR2ZnNyTVdCQzYxSExlaWRvRXNjV01zU1BWR2ZrNVFlV2kzaGJ4a2V6UQ?oc=5",
+   "published": "2026-11-25T23:50:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "A NASA mission to deflect an asteroid left a crater. Now we can see it",
+   "source": "SBS",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGtWekZ2S2ZUY3AzVkdJVHV0aW43SG9zQW92RkgtSGZLSUlJTmppYV9ybzZKTXY2NnRxRU5WeExhQkdIQ0M4SV9lQloxQXJjWnFxOW02ME9EODhWa2hJNEgzVXZCZUxNVWFQeDkxcWVRWWhlV0pGd1pueWl5ZnVnM3pMLUtfV2dJa0hsRXZkSVlOay1YR19KLVAxSUVMU1RXWlA4Ulk1N2p2X2pCT19ySExQOUo?oc=5",
+   "published": "2026-11-25T23:46:13+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Jia Yueting Ventures into Robot Development: Education as the Core Breakthrough Point for Commercialization",
+   "source": "36Kr",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KN0oyNXlvdVI3REgwc2xXWUR5T1FZcU1EaXZjMTIwb19nejBZLUVzckRpM0N3LXo1ZE1yR2g5T1NFVjc3T3g4S1U4aWZfdm9HSzdJ?oc=5",
+   "published": "2026-11-25T23:44:14+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "rss:techxplore",
+   "title": "New method improves state estimation for pneumatic artificial muscle–driven joints",
+   "source": "techxplore",
+   "link": "https://techxplore.com/news/2026-11-method-state-pneumatic-artificial-muscledriven.html",
+   "published": "2026-11-25T23:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists discover a surprising twist in how the body burns calories",
+   "source": "ScienceDaily",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94UktHNm51RmJYVnNYT3NXaGt4S2dLVHJMdDFqdWtQTlExQlB0N1YtM2J6YWFOTi01ZEtRMVhFWkJYcjRuTklzV1BMZ2J6cHVpekZJTTAyYlpxVVZ4a3RDc1dXRV85LWZVUXBieGwyNA?oc=5",
+   "published": "2026-11-25T23:39:19+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Scientists Discover 130-Year-Old Fish Still Swimming in an American River",
+   "source": "SciTechDaily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVliUGRxUWVnc211RnFXYWg5WU5FRnZ0M2dxb3ZPT3VBMzZWZl9DTE1WcmFuUXp1LVhkZXhrVlpiTzgyUm54dThWbUxPRVdubS1JYmR0TXZmQ0NOckYzbTl1Uk5pdVZtVDNEbnA3VlZtWHZ1LXpZbWo3STNlU2tpN1ZBTjJILWZ4VGd4M092bVh4OWd4WUVpMUZ5TTd6Unlv?oc=5",
+   "published": "2026-11-25T23:33:37+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Squash’s inclusion in LA Olympics hailed as major breakthrough",
+   "source": "nationwideradiojm.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTF4d2RBVHdNY2R4TE5WcTc0ZndRekRaVTJFbGs0c241ekdwVy1lVnpVWXd6YmVLSWp4SEtHNTF3UW1YRVBpZVZLOG9JX2ZlOHRsajh3WU5vUFFpNXJJYWlnaXZ5M3Y3aDMyNUVKVmJaak5TTXlySjJyMk41MWF6eFNhUDhaX3liNmlSRm5sNWh1RWN1U3BF?oc=5",
+   "published": "2026-11-25T23:28:40+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "militaria",
+   "kind": "news",
+   "title": "A South African father and son 3D-printed a drone in their workshop that averaged 408 mph. Their Peregreen 4 now holds the Guinness record for fastest quadcopter",
+   "source": "Futura, le média qui explore le monde",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdDZLamlib25MLWxKMHJtX1pZRzZGeHJJekNrQllZWWJwMGJ5WS00Q3FQbUg0cFFhdnNTZkZDZEEwa0VlTk84OFRyMUtjR0t5LVdTNjkzaUxUbzU2ckF6TUh2MnliRmc0MkpqZVczZ1NsN0RSeU5Beno3emlpR25SWnNYMHplR3lQNWVINENDTHVxREVZbEtoY0VTb1dwVXhJMVN1UkhrbXIxOUN0RWg1cHRfNm9sSjU2QzU2NnVwdVlFUkJnSkZia1UxYlZJQmhVa2ZPWnpuV0U5QU5GSUFqYlBjdnM3eWxadDhRbDhZMEJzelZ2cmRhQUpaQzQtb3BNMTk1MFZ4VHRlVjFvWW9jTTF6OXVuWnpSeVNFQi1VcUh0YUpicE1aU2h0cw?oc=5",
+   "published": "2026-11-25T23:18:28+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "redakcja",
+   "title": "NASA nuclear propulsion demo mission to make limited use of nuclear propulsion",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5",
+   "published": "2026-11-25T23:06:25+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "transport",
+   "kind": "rss:ie",
+   "title": "Plug-and-play solar carports pair built-in EV chargers with 7,700-lb concrete bases",
+   "source": "ie",
+   "link": "https://interestingengineering.com/energy/solar-carports-pillar-ev-chargers-concrete-bases",
+   "published": "2026-11-25T22:55:36+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "redakcja",
+   "title": "SpaceX wins FCC approval for one million satellites to build data centers in space",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1lFT3JFQVJKcWpBdjUwajl5T21qQ1ktbFN2Y2l3TWdWMFN0NVJUMW5WWENrVklER3hWNUFJZk1nT1l1MTZiT1lTSWZocVRKUnQ1WXBxM2llbVVPREVlZGttWnJ0UkpvYVFGZ1RpTU12SGtpOVh5cWhZR1FweV8xa2VLMlJWQXVRdjRB?oc=5",
+   "published": "2026-11-25T22:47:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Minecraft-like DNA cubes self-assemble into complex 3D nanostructures",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4bFVEamFWai1oaDd3ZU9MSVFkcjk0MWlvVGtLeklMQ3BsSTFaWmpvbTh6THNyMDE4dnhhZm5uY2sycDQxell1elBWQ2t0Nk15eEFaS2J3ZmxRUVF4b2xjeTBPY2JLY2ZDam9SZFJSaEltalU?oc=5",
+   "published": "2026-11-25T22:40:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "redakcja",
+   "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk94ZjJWUjdZaWlQVDQ1dVQxOW9STUthYmJjMVd6b1BNVU9LQWM1UDJHNE8tZkkydEFtS3hkc0RNeTdJNDl2STQ4LTZxcFROLW5LU0x4R0MzZC1RUVU0T1gtc0gtWGFCYUQ2dHRGWFdjTHUtbG1BNlZXTVJ5VmtpMUJGUEhONVZ1dVhsYmtsdWRaN0ZHaGdxT2VHRTVQS1ZZZVI5Zlg4bG5ZU2Nr?oc=5",
+   "published": "2026-11-25T22:36:45+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
   {
    "cat": "nauka",
    "kind": "news",
@@ -53,6 +714,15 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRllnbWJxd3pjYUNHRW43NVkxd3Fsa29GOVFTeC1zYUxaSWRpcG5Fdm5vN2pUQ29aS3R0M3NSTzNVekFlbHBPc0tfTThoMi1wdnI5Z2I2Wm5mMjJHVlB1alp1Mi1TWUlYRHliN2hwbWtFQi11cHhiUXVQM3JzN1NYdnRmbjc0Zw?oc=5",
    "published": "2026-11-25T22:34:27+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "International Space Station expecting post-Black Friday delivery",
+   "source": "Central Florida Public Media",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalFzN3MwdDl5M1dhUDdJQUJVeUo4eGhKMl9fX1hUTHJFc3VfcmlRbFdfZmdzcGxORWg1RnBON1NxLUc5ZWY0SDlRcEgwU2toMi1PRC0xYXVWb2ZRcjNvdTdBUkY3MUxSc0Q1ZGZZVUpvVXFwSmcxbWZBTDlSNFdrU1hPdzVxd0NpUVA5cTMzNEJ1eFdhMUtjLXNqZDZpTktNUndYRmlpNXRnZw?oc=5",
+   "published": "2026-11-25T22:31:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "kosmos",
@@ -94,6 +764,15 @@
    "seen": "2026-11-25T22:36:49.552804+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "news",
+   "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+   "source": "Bitcoin Magazine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFh4blVRUFpDWHZLaGxRRWV4MFpYbjNUMHY0VWJLNlJhdFdhdHVKbXVVMWJqdlhXUVpKVUdvdFpvWmY0aFVHQWxhTlEtMXpqXzdXWVJyS0hNaUVjc2RZRnBwN3VOaHZtcFpLeFZJTWFHUXhHbEdULV9CTFRXWDY4V3lhTDBoYS1NVWJ3WWg4R01kbFNKaTVJYVlaM1dfOGN4eXoxbg?oc=5",
+   "published": "2026-11-25T22:15:26+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "kosmos",
    "kind": "news",
    "title": "NASA blasted an asteroid with a spacecraft to change its course 4 years ago. We just got our first glimpse at the aftermath.",
@@ -119,6 +798,15 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTbHdsMHUwMk94aFdMX2ozZ0hsMk1yTFhoZk1nd0t1Ym9TVjJBT1hSeUN2YzNFb3dEbTVkRnd1MHJmOFJCZ1lMYUVXNFpDdC1XM29rbHpLWXZrZFc4TGotenZYY0dXMktqbUE?oc=5",
    "published": "2026-11-25T22:01:07+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "Satellite imagery reveals fast construction of new underground facility in Iran, purpose unclear",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTbHdsMHUwMk94aFdMX2ozZ0hsMk1yTFhoZk1nd0t1Ym9TVjJBT1hSeUN2YzNFb3dEbTVkRnd1MHJmOFJCZ1lMYUVXNFpDdC1XM29rbHpLWXZrZFc4TGotenZYY0dXMktqbUE?oc=5",
+   "published": "2026-11-25T22:01:07+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "nauka",
@@ -437,6 +1125,15 @@
    "seen": "2026-11-25T22:36:49.552804+00:00"
   },
   {
+   "cat": "militaria",
+   "kind": "news",
+   "title": "Kamikaze drones are a $300m test of whether NZDF really means buy local",
+   "source": "B2B News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVdlUE5WMURVYmJ4SUFLb3M5cnYtTkpnMld1TG1KQVhjcmhIVXJqalFKUThidkFiZ29lalFabkc1YWZTNEZNZm5MYnNEbFZRNmlOeGlWX1lQUlg4VHJsbk83ZVFKRnhPWThUbUZkSTZBQUptMUpjUHZ5b0g1Y2RvWEdEdjBCbDgw?oc=5",
+   "published": "2026-11-25T20:36:57+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "nauka",
    "kind": "rss:newatlas",
    "title": "Slim, skeletal multitool packs like half a Leatherman, in the best way",
@@ -472,15 +1169,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KOWR5OWNEak9HOHBWN3BKMEk0RGh4a19YeEpGQktHbmd0OHJ5S21rM25icXU3OEZSdEdJbXU4amNraG9OVExQa0JfSzU2Z243YnJibllQQmhscTlH?oc=5",
    "published": "2026-11-25T20:30:02+00:00",
    "tier": "T2",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
-   "source": "ESA",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWRGMnFiSWJWY0xTTFl2cjBLSmE2QkJCU3VNdHl6TnVSMWplV3l1TnFqZTdKZ0RlQ0xHWnZ3QU0zMF9jdzJwRGxTOWgxR1c5Y2RGTmJDNmk0ZXhFYlV2bHJuSFY3S1IxVVBKSDBVYm8wRVNXNzZsZ2tJemFvUEZzQnNsM09iMkstRzM1YmhaMk5ha3NnODYxQkRYU2trSGJlNEVQLTdheHllUjRvT3BNMUFqTjNPLXRRRkxUczhkSi1wVzcycUQxMWl1LXo3WFhQV00wc1BmQmVjaTZwLU5qeTV0TDJFUQ?oc=5",
-   "published": "2026-11-25T20:29:38+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
   },
   {
@@ -976,6 +1664,16 @@
    "seen": "2026-11-25T22:36:49.552804+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "- New Scientist",
+   "source": "New Scientist",
+   "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNRW1kNmtwX0ZnRmd5YTVWRlFvaGM4clNTZjVPVk03OUpiWTBvb3c3YV9LaFFZYmtacU9BeFRWbExSRmlIRVNYejJLN3QzdTZtV2Y4MjFfWFhtWkFRSm8yMHdhZ1JVQUc4UFI1R0JwVUZ4c3FNQVJ3SWdtQlR4MFlwRXRkeDR1bWMwTUFuYi1YbzZXS1Z2am9EOHFmUjZsU1lyT3pJdmNIdGVXRV9Mb0xxWXhVbVUxNWxzTU1OYklGWW9fQnNud0RBMTl0LUhhVFEyVEpEdHRzaXAwenZWckp2M3lhc2NaZmZwR05KOFJmWFJveF9vaDNOTk1zRWxGRzFHaFc1Zk51eVhab25TZld6bzJnYmJkYW9sZ01SVFBlLXlQMUNmQXIwTWpXa1JOMmV2NmZvTkt0a0RFX280eGRCSzlUcG9WelE5RExFV1RyTnlQUG5hTVY1cGtzYmxFWDl3YnI1MjNtaFNkUW13SzJicEZGRkJYaDM5dFBDbDdOY0NOZlBOZ2Qyam42d1JrTGhTQzBtZXZyVTNxeDEzQWo2WlpyZ05hNjNBR2JBa1NINnZBLWl0MHZvTU5yczhWbXlWbEtF?oc=5",
+   "published": "2026-11-25T18:52:40+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "kosmos",
    "kind": "news",
    "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
@@ -1243,6 +1941,25 @@
    "published": "2026-11-25T18:00:00+00:00",
    "tier": "T2",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "In 2022 NASA struck an asteroid. Now we are finally seeing the massive impact up close",
+   "source": "Scientific American",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3pKckZ4alpuNWM0eUk2Rm1jTzdFNFM4SjVXSnVIVnpUM1VzOXBoT0E0NXRqQU5jNDQyVFVzTzNucjUzcnBhQkdwQkx5RWw1ZGNyM0NvclA4anhEWEdzcHZFSXAwLTBySU5yMkpXWlFnUFVVR2lvbUhGQjNxS2dCUDd1c2NWdDJQV1hDRG5raE5hZ1JpX0V2a2w0LWh1cGliZTlHRW1JLTNGVlRIeU9aNDJMTjBIbzBMRi1jdFU3M1hGY2xkRDZ5TQ?oc=5",
+   "published": "2026-11-25T18:00:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "redakcja",
+   "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+   "source": "Space",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHpxLU1NR0UteW9vZmR2QzlWT3pLTTBtOExkeWdPZTAtaDRYWWVYeTBheWFkSG5NQkluQmtGcTVNX2NCNzA3S1kta0lORVFQWEhVMFBtYXJxR3NhUmhpcmZ2M0o5eHhCWVVVcTE1dVlaaEl5MDJyMTlaZ0dLWjFoRE9YWHhWRGE4TjhVT1Exdk5NbE5RMVBRU3dSWGJrdGxKdjkzQnlfNA?oc=5",
+   "published": "2026-11-25T18:00:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "kosmos",
@@ -1613,6 +2330,16 @@
   },
   {
    "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "Quantum leap: Computing's next frontier takes shape",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqZElEalktXzV2NGxjVW9NaU90aEtOS1dIUGtSQXhzMDlyS0VkMFR2Y1M2NDhGS1V2UzZUOHcxT1BXWXVnelpoNjYtS2ZicEt6YnFtUDJ6NkhkS0R0WmJ3cg?oc=5",
+   "published": "2026-11-25T16:40:03+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "ai-it",
    "kind": "rss:techxplore",
    "title": "EU plans 50-billion-euro investment in AI, quantum computing",
    "source": "techxplore",
@@ -1786,6 +2513,16 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ETzBGOS1nemxGWXQtTDRoNXo1MEZDZU5IejhXV3B0VnRBb3hsVFdfMzFqX1JHUnh5UkxRR2xZTVF3MTNqcGpSQXFUbkg5ZGNCY291YXBicldrdTB1NXJWSjF2cmxjNzdWWEtLZGY1RFNjZw?oc=5",
    "published": "2026-11-25T16:02:17+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "How a brainless single-celled slime mold solves problems using the laws of physics",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GMFI3bWQxSTFIRktQVF9xelVFejdQOVA1cy1NUEVJQUZaSDBRd0lRd2ZtLUxvUWtJWWpCWVlNUWNiSFFTLTZKQW9xSXZrQUdPUzJEQU1jS3pxd05QMEtQUFNnc3phNDkzR04yNlZVNlBseWdkeVBOZjBFWQ?oc=5",
+   "published": "2026-11-25T16:00:18+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "nauka",
@@ -2083,6 +2820,15 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbHBMM1hQOU10Tk1YLWtRdEFCQkE4QWUtQ1dNVzUyNjNLX3lJU25fb29PZjQyem5SdklpMG9EMWZYWS1Wc0FfSnlRWjRRTnk4UGVPZURjWHEyZXp2d3NwbDhQdGphYU4xdHViZkNBX1pFTzRwX040VktXUlBwdjBOYnBpNXRSTWRnajhhb1BxM3NWMHJfcnE4YzFkUjF2eWUwUFJLS3ZqVjgtWEZEODFZd0w2dDJ4SVdJQUhLb0FtemEzTnZ4TkhTdXBYRXp0RDhxcFpIVi1wMHc2Ulh4TTBsX1FRa0lTSVZzdi1RamZwNG9KRG1reGtHZGxOSVl5S2c?oc=5",
    "published": "2026-11-25T15:00:00+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "komunikat",
+   "title": "E.F. Hutton & Co. Serves as Exclusive Financial Advisor to",
+   "source": "GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbmdsU0NCaTdzdmUySk9zZkFUbnBDbXg2ZmVQZExqY3hLcGVKdDlvM1RJZG93UTVQQjNEVG9iYmUxVnE4ZDVEY01MbjFpR1pCOF9DRmdiX2pYWVlyRmJVNnVmbzJmbFhyN18tWFdDQWFGM1c2QXZ2QXBUaElGRkRjN1huRHVtV0RmOWVucUdrMUFWTl9pQ3dkR0J1QW5VUXpOX0tjcV9aQ29MOUlCb1pjX1FzQkdZVktrWVVZcUFMZy1Pb2kyaEJpdEZ4Vk9IUkhLX0tZMHF0V2ZUQXdQY3E1UTU3RU1uLUVDLTNaVnNOYWlJN2Q5enpXSjRsUlJLMlZKY2RJQ2EzWkNUMTFycENF?oc=5",
+   "published": "2026-11-25T14:58:45+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "militaria",
@@ -2439,6 +3185,16 @@
   },
   {
    "cat": "militaria",
+   "kind": "redakcja",
+   "title": "US Navy moves new submarine-launched nuclear missile closer to testing",
+   "source": "Interesting Engineering",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjUk14QWJMYVhQMThwWmZjMFBRYmYyZVR6ZlF3eHFyS3BXNWFCRHVCZV9YdWFxRXlIMjlsZ0tPZ3FDYlk3VjBLSWMyMlNEaVVsUFdMZkhVSXFZcnpLYUxsMlI3ZDMzOEhLcHFFc2owTmNia19KMHc?oc=5",
+   "published": "2026-11-25T13:30:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
+   "cat": "militaria",
    "kind": "news",
    "title": "First Hydrogen Unveils Completed UGV Drone Prototype for Showcase",
    "source": "Fuel Cells Works",
@@ -2457,6 +3213,16 @@
    "seen": "2026-11-25T22:36:49.552804+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Most precise measurement of coherent elastic neutrino–nucleus scattering to date tightens limits on new forces",
+   "source": "Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS3NLU2xTckZ2akVmVzBOMGJDcDhISElSOTdIZXJUTHpycWxwTUl0MEs0cWQweUhPOFRSUDlvVW1STTJpY0MtRXVzbU85ems2MFNxNV9RcTdhQ0ZrU2pvc29YRGM5elBocFQzY19YZnpxV0lfVHdWa1FhY2tBZ1lDaTZfX2ZrSWc?oc=5",
+   "published": "2026-11-25T13:20:01+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "przemysl",
    "kind": "news",
    "title": "YYForce launches humanoid robot 'Six Seven' for hotel concierge service at Novotel Singapore",
@@ -2464,6 +3230,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzRlT25RUzJwNEV5di1kWi1TZ3M0WlRzRW9ZUVNybkFuc1RWS2hrbC1vem1vdWNZWU5SSm5JcEQ4ZlpzN0Zia01kamRzZk1lMVFaLVdNVG05LU9MVGpRVktPeDF2STRyZkxXWFgyaDBmU0FPWHJYd1pZcUl1c0lxSk1wYkV0eC0wNjdUSDRGUFBmaEI4VDVDdks3V09xVWxNbVVuQ212Zzg2QkU?oc=5",
    "published": "2026-11-25T13:17:04+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "YYForce launches humanoid robot concierge 'Six Seven' at Novotel Singapore using NVIDIA AI tech",
+   "source": "Pluang",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFFTTm16Nmxjckg2SDFibFpwb2tBWUJwMmUwVVJyUHIxVnF2X01VeFNKaXZ6WkdRVVJ2RG5wWl9OUG5qaU5fRG52S2IzZTZldzlXWUZXNDhzQkpuU2czb1Bhd2NzR1pvNTRmbGFfZGdtUURKYWk5LVc5OHNIY0t5ZFJycUo1anRXOXdrc2xZaGxmMmE0ZnNJeVA4VEwzN0IyYUxGX0d3?oc=5",
+   "published": "2026-11-25T13:17:04+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "militaria",
@@ -2683,6 +3458,15 @@
    "published": "2026-11-25T12:40:01+00:00",
    "tier": "T2",
    "seen": "2026-11-25T13:07:29.538657+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "news",
+   "title": "JAXA Shows Test Run of Lunar Rover for Project with India",
+   "source": "Nippon.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTdUxMRm1GcWFTWERwYnFvNXVzU1pCYXdSRU9US05kVTVFN0VRWVJqUHA0OHJ6MXdpNFhsaEFQdTVfdFEzUVByQ3ZCQWJ3UVRqdmdCSg?oc=5",
+   "published": "2026-11-25T12:32:45+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "nauka",
@@ -2914,6 +3698,16 @@
    "seen": "2026-11-25T13:07:29.538657+00:00"
   },
   {
+   "cat": "ai-it",
+   "kind": "redakcja",
+   "title": "NeuralSat Archives",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CYVNYb0xONjIyeWFYbEtBTVQ4X3RwMjhFT0cyMEJuNDZnT0xYdU83RmhKbkVUU2RVanR4cU43am5EUVM0Z2lFM1ppbUo?oc=5",
+   "published": "2026-11-25T11:41:07+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "nauka",
    "kind": "redakcja",
    "title": "Ant rivalry temporarily protects native ants until one invader takes over",
@@ -3115,6 +3909,26 @@
    "seen": "2026-11-25T13:07:29.538657+00:00"
   },
   {
+   "cat": "kosmos",
+   "kind": "rss:esa",
+   "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+   "source": "esa",
+   "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact",
+   "published": "2026-11-25T11:02:51+00:00",
+   "tier": "T1",
+   "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "kosmos",
+   "kind": "redakcja",
+   "title": "Satellite maker EnduroSat books two dedicated New Glenn launches",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjJha3pGWk5kdkJZa2Y4Q3ZsN0VaOWJ4bjBVMVNZZHpkaXM4aGYxazl2cnppVzZOTnVSZHIxOHZyVTQ3RmtPd3dTX3BjbXdSRHkwbXNmbHJkM3JaUWU1RlpWVmM3UlVQd3Bta09aYXRfOHhhaDF4dEwyN1Y1aUF5OHlWM3pnSy1paFE2ZWUwYUk?oc=5",
+   "published": "2026-11-25T11:00:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "przemysl",
    "kind": "news",
    "title": "2,321 km apart, connected by a robot: Chennai surgeon performs live telesurgery on patient in Uttar Pradesh",
@@ -3275,6 +4089,16 @@
    "seen": "2026-11-25T13:07:29.538657+00:00"
   },
   {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "18 brilliant and surprising gifts for science lovers this Christmas",
+   "source": "New Scientist",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWVyZXZFUzJKVl8ybEUtQUFPdXhxYmFoTVl4VnEwcjFHWmdkbFE1YTVuMzJVU19CTy00SFFfR0tPX1dTVm5RbmM2UWZXZHF2cEtVVHI3bUxDc283dEdNSS1GZG54dkNZZTB5MndMc291Sm9aTnJRWlFNSU8wU2lfVHFacWxHa0UydHZXQkE3aU9mNzRBMTNqNElCcGdVSEE1NFRmWDlXWGhUekpBeklHTlJ4QQ?oc=5",
+   "published": "2026-11-25T10:15:49+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "transport",
    "kind": "redakcja",
    "title": "Iveco Bus introduces new battery generation",
@@ -3310,6 +4134,16 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUV95dHd1dE0wb3RPbmdnbXpaZ1R6eDhKNzhSWmFoUmRvMVM4MjdfVG16eHlGeHFjYUJJcGZHNFpGQWtMZGgxT3hYOFRWbFFqck1WMGxJc1NreVllTGZfRXl6ekV6SjZBV2sxNlVsdUk2NTlGdFFXUW9yTkpCdGx6Wkc3N3lyUF8wb0RVczA0a0tyTWU0QnpYU2pBcmVUYjRnLXY0SXNvS1ZtNGxqQnpzLU5YZDhuZnRRdGNaUmM4ZEUtd3NCaUVHUmNHc1E0c3hUTDY5V0lIUFRMM00?oc=5",
    "published": "2026-11-25T10:10:24+00:00",
    "seen": "2026-11-25T13:07:29.538657+00:00"
+  },
+  {
+   "cat": "nauka",
+   "kind": "redakcja",
+   "title": "Super El Niño is making the global omega-3 shortage much worse",
+   "source": "New Scientist",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBPb3o4SGVVai1DQnRwV2gxLUNNd0Q1WDBTVzU3YzdHbWdGT2pPU3R6MDVoY1d6NTc1bjBtdHlyQnh1Y2laSmpNNlhsbXVxYWJEazhqbWJfeDNaMkR5RVY5Q2xRMFNoaTFhVjBjZXB4ajFDaEszT0VNdExKbDNwcWNJM3BINElCT1I1R3NabTlJaEZkZ0J5ZEYzS2otZTBiR3B2dUo1MDlMak9V?oc=5",
+   "published": "2026-11-25T10:07:30+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "nauka",
@@ -3588,6 +4422,16 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVhIMFFLSkVWQ3FQVUJZYl83OTF4N3BxR2pReVpwal9iMzg5a1VFQnVqQnNRTVJZZ0I0RWVMMHpZZ0pvclJoN25tSzhwSjRzaXNWdFJRQVlpZm9xSVl2YW40STZiSTdFVmJTbmlXVkN5eUV2a1FfNkRaLXZMSjFDY2RhZHNsNUowdkpQUzFMREl1b0NQdmczQUpXZHJQb0VNb01meGFUb3d2b1I0Z2VwVVpiVQ?oc=5",
    "published": "2026-11-25T08:30:46+00:00",
    "seen": "2026-11-25T22:36:49.552804+00:00"
+  },
+  {
+   "cat": "transport",
+   "kind": "redakcja",
+   "title": "Uber drivers are flocking to EVs amid high gas prices",
+   "source": "Canary Media",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmw5a3lhUlJ1OGUzblZsaWZmS2dubU9VbGFoc3JnN2JPUXNrSWNQTUJncmdYM3ZUdDJjMFFvaTc5RW1LX3ZmQzlTNGJHcFQ0OGVKZEFUYXZFd19CdG4tenJnbmUxTjVPTWsyWE5jZjdRN3pWRGlKZnBWNC1tMEszU3pEWHZkZ29hREtF?oc=5",
+   "published": "2026-11-25T08:30:00+00:00",
+   "tier": "T2",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "kosmos",
@@ -4006,6 +4850,15 @@
    "published": "2026-11-25T05:00:00+00:00",
    "tier": "T1",
    "seen": "2026-11-25T13:07:29.538657+00:00"
+  },
+  {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "Russia launches humanoid robot to ISS (VIDEO)",
+   "source": "Big News Network.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVk0bmRSRkNmVTZ0bHI2aFdRRHFBQ2YxWUl3bFJ3Q1JacG1oYzRzVTVzMlRDTDFKcVlFRVd2WDZmUzBuMmoyU2dIMmRIdHJwU3c2VlJmVGx4bFV6VVhEbkU4YmlnX2Jrejh5V0VnX1BOcFhWOHM4NXY4WTdpSE5aeEtwYWdocFNfU0VUZGlQVHlodTg?oc=5",
+   "published": "2026-11-25T04:50:00+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "kosmos",
@@ -4863,6 +5716,15 @@
    "seen": "2026-11-25T02:34:27.125977+00:00"
   },
   {
+   "cat": "przemysl",
+   "kind": "news",
+   "title": "YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
+   "source": "riauone.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeklBWEdERHlRcmxKaXZoaFpQeWk5WTRKU1ZVZjJzODZmZmNJc1o1Ry1DcUZGSkpxdS1wbmhLX1IwNE04UGdXTnRZRmxGZUI4TmhFSWlxOU1ldF9NeGdIWjJVWXZkTVIyX1pKTWlkbU1NVkw0QndnSDMyaHBKMDdwOTg0VnlfQW15MklNSkNMRm1NblVidENrbjRHQ0RUcXY0Q1BseENNaWs1WEhRRnFIakg4M2lsVlVhajRYbEE0N0Y2alowSkk4a3JuWUc0TUJIaVQ0N1lDMEVLUG16WFJJYg?oc=5",
+   "published": "2026-11-25T00:16:25+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
+  },
+  {
    "cat": "kosmos",
    "kind": "news",
    "title": "Shenzhou-24 crewed spacecraft ready for launch",
@@ -4880,6 +5742,15 @@
    "published": "2026-11-25T00:10:01+00:00",
    "tier": "T2",
    "seen": "2026-11-25T02:34:27.125977+00:00"
+  },
+  {
+   "cat": "militaria",
+   "kind": "news",
+   "title": "New digital number plates to help police crackdown on criminal drone use",
+   "source": "GOV.UK",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEhrTGtfVE95TWFOM0o0aFdqOWhQeGNLaDlOdl9rYzJxOWlHNkVxSERqeGhKVVlseWJSTFBHV3JYU2Y0UWJJVDhDX041X3VPQjFDQ1BmVmdpRmpBb3hRa2pWNU1fWG81bzZlR3RpRWtqaFFWS1RlY1lQRHJMMEIzU1RxRXhEMFd0X3oxdUNESXRRcGJ5REM1bjd0M3Z1QWJYbWNBdkFleWFBZ2c?oc=5",
+   "published": "2026-11-25T00:07:49+00:00",
+   "seen": "2026-11-26T05:09:04.933687+00:00"
   },
   {
    "cat": "przemysl",
@@ -5541,1721 +6412,6 @@
    "published": "2026-11-24T23:10:02+00:00",
    "tier": "T2",
    "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Foundayo: 5 Big Facts on Australia’s Breakthrough GLP-1 Pill",
-   "source": "NewsCop",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVC1PMmlfcVEwdmY2VFlCTTZfX2hHTlVFTnFKWlZVZ0ZHVHVQLWpTNGYtNjkyaFRYVW1KTjhkeXRnUzZodWlGRFFsUWxIQjNRMFVWWEx6X1hQNkhSYWZUcWVISHFUTHB2V0Jfc1lNSGNEWVBR?oc=5",
-   "published": "2026-11-24T23:00:38+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Self-assembling nanocarriers show promise for delivering CRISPR to tumors and slowing growth",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
-   "published": "2026-11-24T23:00:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Possible new dwarf planet that is roughly 930 miles wide had gone unnoticed in telescope images since 2016",
-   "source": "Earth.com",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjVuSC11TlpXTFJrV0E3bzJkNDJnbG5vOVowTXBkS284UEpQUVpkb2swbEVka2EwNndNZzVYZ1h4U1pCR3hscjVHVG93bEJmSmlOS0tCZ2R2UWVNVVdNMjhValU4VmJWUFhZYzlqc01rQjBIRjFqQkkzME1kOEh4ODZ2WDVTdlBQUnpfMXZzRU1pWHpGR29YejhDUmx3RWNHU1BsRnhtb0c0QzM1MEZRcWdRTXRWWXdtUWtQOHJXZkJZOHdjMHg4cGJQQzZEUQ?oc=5",
-   "published": "2026-11-24T23:00:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "Half of NASA’s aging Mars fleet knocked offline by technical issues",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFRGQWFGeUlESnFzbjc2a3VGeVVsMFNUd2hVZmRwMU1EdDlHX0Q1cDdTTkVudTEzbE52aWh0aFdRNnFfWmEtbG1sblF4NFBmNzZHUkQ3VE9vNHh3YXU1OW9vTTZlVDlHUkEzRFRvbHI2WXBVOVdkZlB6Zl9nRGZ6bC1SYW54N2xpMFZfM1p0bnowOVppU284QzJJRUN0R3hUaVpEdEtaY2g?oc=5",
-   "published": "2026-11-24T22:50:11+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Named 'Maria,' a new species of amphibian pays tribute to the world's most popular name",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KWERnQTlxWXNCUV94WlRzZTFsVTQ5b0QtdE0yc085Z3M3ZFlYakxGWTFXQTN3WVRkd2RzeTlIb2pzdnFZdkJCcXg2RzAwLUl4TV9KVDdkaUltYmt6V3ZTM2ktRlF1Q3A4V0t2N2lpdmxoTjlILTZJS0JUMA?oc=5",
-   "published": "2026-11-24T22:50:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "The enjoy-able effect: Why fun makes us feel more skilled than we are",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-enjoy-effect-fun-skilled.html",
-   "published": "2026-11-24T22:40:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:twz",
-   "title": "Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission",
-   "source": "twz",
-   "link": "https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
-   "published": "2026-11-24T22:39:54+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-   "source": "Space",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc2tac1I2ZjNiTVpaV1N3Q1pYaXNoWElya3VZcEprcUcyeHpEcEtDVm1mdzVkQS10TUlSSWpDOFdZNXdfbWRrY21wNzRKcXVITTBSamRJX0JrQlFNdnE3bEc0eHFhZjNOSkpMQlMyUDRqVHBSVUtrVXhMaUsyR0tmQmRSek5yMV9RczlyYjNmVUtfV1A5RlBvaGJ0VmdGMVpsV2RaSHpPRzE2cFd5MGpOZmU1TGVEQWpjby01clR5dmpQNGI2V1JQckJ5ZnBKcmFVaUVscUcySjc?oc=5",
-   "published": "2026-11-24T22:37:19+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Microsoft’s historic cloud outage exposed an engineering “fog of war”",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5",
-   "published": "2026-11-24T22:36:28+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Peter Johnson",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbDVzVWpEc1NOckFYeWctaUp3STZTMHJKYUhVTUVEQzBtejgtZ3IwZW5sRHVkWnpKOThQZjJncEpCZHBtQkhLZk1MT1AycFR4LXc?oc=5",
-   "published": "2026-11-24T22:36:13+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "rss:phys-org",
-   "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
-   "published": "2026-11-24T22:30:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:mit",
-   "title": "3 Questions: Tackling energy challenges in a changing world",
-   "source": "mit",
-   "link": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124",
-   "published": "2026-11-24T22:25:00+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Fabregas Praises Como Players Amid Champions League Breakthrough",
-   "source": "Demokratis.co.id",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRmwwc2RMNGpwbDZMX0lHYjRSSnBWeWZXY3QxYjZEOTJ2Uk1NZGo5bko1TUdEbE00Q016UXRKU2ZYNUNXWUZGLVFYdlpyS2pJMzQtNmVzblFvSnhkM2pTbTdheWlDTm5mcjktbW1vRmZ0UlBkajlpNDV3NA?oc=5",
-   "published": "2026-11-24T22:24:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Too much to do, but too little time? 5 tips to tackle your to-do list",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-tackle.html",
-   "published": "2026-11-24T22:20:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Flowers in Renaissance sculpture may reveal political ambitions of Florence's ruler",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-renaissance-sculpture-reveal-political-ambitions.html",
-   "published": "2026-11-24T22:20:07+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "redakcja",
-   "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dCNjZ0WTV1RmR1WjVxRGdVZXVmcmlJcW51Um91SEowNWI0alJtYXpEb0pkaVRGMGkxbFRSX0hoMVlQMm9XM0REQnI0R3UzY0E5ODdVdmlWYXUwdmJPSGxFR2gyZW1KODF2YjVieGJZS0dvZUFPNW1Ma3NXZ3g4MG1LS01jWVdDdE4xVHh3?oc=5",
-   "published": "2026-11-24T22:20:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "The mystery of sub-Neptunes – the planets we thought shouldn’t exist",
-   "source": "New Scientist",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUlEckFXNVVpNHR0YWpoVTVNc1h4WHhnRWdpQWJ6M2hsenpWb1UwTm95ei00ejF0UG04M3R6TWMzdWMzZmk5WUpCZENPd0I4R24zcDJtZEdKS3J6YklhQlNocy0xNlZiWjVxYWNNOHFQeVpMSDFIMFhsSVlPTGpVcnJFa2tQVUdTWGdBUks3bzY5QWxfWWstQ3gxaXdZT1JCSGhfSkc2TUN4eFBCRHBpUw?oc=5",
-   "published": "2026-11-24T22:16:12+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:ie",
-   "title": "Seashells inspire US model that could unlock ultra-tough nanocomposite materials",
-   "source": "ie",
-   "link": "https://interestingengineering.com/science/seashells-inspire-predictive-us-model",
-   "published": "2026-11-24T22:15:36+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Seashell-inspired predictive model to result in tougher US materials",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajJvMUhWa01BaVZlejVWMTNmeGhsR0FXeUZuX2w2aFFiaFZnaVJJR2JxUXpjSDZOY090dTdDNUR2TnNLRC13LU1BcWdMSkJJUGNCUlp3RGJCV0tFaGhuMFltYm5kY1FWX1A2MWFDdjRVREZxNzNRVFBGLWhYYWlyZ1IwYW93cEU?oc=5",
-   "published": "2026-11-24T22:15:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:ie",
-   "title": "Chinese giant Huawei found guilty of stealing US trade secrets in espionage case",
-   "source": "ie",
-   "link": "https://interestingengineering.com/culture/chinese-giant-huawei-guilty-us-trade-secrets",
-   "published": "2026-11-24T22:12:38+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Chinese giant Huawei guilty of stealing US trade secrets in corporate espionage case",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX29DVDlPVWZRSnRrWXZVV1RwMHhUZFBEVTlFY1BfclJEQzRTTkNYTHA4T3NWeTFGZ0tITmNFWjdoYWcwVDd3cm4wWlB5QVBiaHowbFFFdkkwT09MWk1JcGRjRjAyVE8tZkdxczNNb3dyLWlYOEZDR196VlkzdmNCdm0wc0xkM2hvZi1SUWRxS3c?oc=5",
-   "published": "2026-11-24T22:12:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Worcester’s Eascra Biotech set to launch next-gen medicine to space station",
-   "source": "Worcester Business Journal",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmFuc3dDSzdHYzZraWRIUGFFWkRkVjQ5MGNqRjVlZUwxR2NXUE53cHZybUNFM2JjeThwSHVOUFI4Mm1VTVlvYlg2bTd3cWsxdThPWWQzVmtxazhaTTVET0tfWkhGdW94N1dUVDVhMmtUaHpWZG5KaWhEb0pCQXpkb2tGSUlnM3ZwakdDcjhZcFpZazVDbmhHQkJMYXVkZFlDRWY1Unk0Szk?oc=5",
-   "published": "2026-11-24T22:11:10+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Polscy naukowcy to sprawdzili. AI ma poważny wpływ na nas i to co robimy!",
-   "source": "CoNowego.pl",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGszcDRCTW5VX2RjcUhwU29zQ2RFXy1FZFcyZkR1R3o2bXNPUndGalA3SHJ2bEVwcHowOFktU3RuVVhNamFjTm5QS3k3d2hROFZhUmRlOGk3cHlrWXBnMTZZWmZmOFQtRHVQS2ZtaGR6dXpwaTZoNURiVGF0MDI4dTVZWDkwaXQtNDJWUUQtZzFTckZEMVJuUmhUN0NURTUtck9ObGxRNE9rUms?oc=5",
-   "published": "2026-11-24T22:11:00+00:00",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:phys-org",
-   "title": "Why mega-constellations have a hidden space junk blind spot",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-mega-constellations-hidden-space-junk.html",
-   "published": "2026-11-24T22:10:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Riggs Happy Hour: Chase Mason's progress, Yotes' mammoth win, Huskers' breakthrough, Vikings' clunker",
-   "source": "Sioux Falls Live",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVRMbXBEZ0sySzJTZHp2NjUydWdBcHJHTF94QmRPRmd6ZEF3ZzI5X3czNTROLVJMSmpadnA2VlVSLXFsR283am1OYmF5ek1RYVJMbjRwSTIwMUhFaEs1cjRkS3lsYk1KTEFEY0t2UTV0ems1dUR4MDJzb0RqRXpObUtmSG5uV2JUSlFnTmp5eGduZjZWcnVsYS1YTV9faVNjT2R6S254YThsVnhScXZTZHpsdGEwNVUzTjlGd0RRN0dYTzVZdWQxQ21UQQ?oc=5",
-   "published": "2026-11-24T22:09:54+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "NASA Issues Final RFP To Develop, Test First Lunar Nuclear Reactor",
-   "source": "Aviation Week",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHBFOHlIZGhwQjNyVi1ZNmtsVm4zZVRiZ2tZT19EVndaX24xOG5EMjM4V2Fjc1R3b1Job3ZkbFpVV0pGdkswM2otVlZ2QUQ2SERaWU40NlNkbE93YkxGWTVmSF9henVmbjUxY3h0T3RqRmVLU1ppSEg5ZElvNVVLenVTNVFUZVJQN1NvbjNqVk9laS05WWlZeFFWeXhmcGhmS21yOWFoenFUblNCRll0Qw?oc=5",
-   "published": "2026-11-24T22:02:05+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "A new reason for magic numbers: Scientists discover the secret behind an unusually stable molecular cluster",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPam5IdjZVWXpleTktOEN2Rl9RSVpmR3ZRYzctby1VYXJ1WkNFRzVVT2hJbUpBdk91TUQtWF8xWjN1Y2F0SHNXVnh4WDlaVC1mSHRvY3FRM2NObDR3alcxTk1kZG8zYVgxQWxlT0ZNcHdHQ0huaFRhaVo5SnVCYjRPMQ?oc=5",
-   "published": "2026-11-24T22:00:08+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "komunikat",
-   "title": "Rocket Doctor AI Announces Resignation of Chief Financial Officer",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVNKVlpNN2JvM0NxRG8yTmtSQ211Zlc5MXc2dDBQd0JJRTIxMmNBWjYwT3V0aE1fSG9zZGhGbU5wdDk4ZUN2eFV6YkhlaDdQQ0JxYjB2V0JyakE0VUJmQ2dGMDZFMWd4MXplb3Q0emlHaXJRM2lCNl94ZTV1QVZmYVFxdndNSUtiVVp4UDY4V1Naei16NUVoMlRoY1puZDhQZGJ4dnE0bU5Hal9Jb2lBYzlMMTFiaVBzeUhubFFFU0lEVGlqRnhsNkxUWnYxOHJkMVpJ?oc=5",
-   "published": "2026-11-24T22:00:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "VIDEO: Amazon delivery drone slams into Michigan roof",
-   "source": "FOX 5 New York",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEZ3Tk1FUVB4WUc2ZnBQZkVQZlZobVdHcnMySmZSMXpVSFNueExZNF9RVlFHSWc5ZE9FZnptWFR3bjVoZW02VFhuVmlSVF9MRWxKR2RXLXZxUmhNMnpoMnI2ajNQLU1La3d6cmpZbVljMy1KOFd5dGRieFltbEZ0eVl4MGVhYjQxZHV4bQ?oc=5",
-   "published": "2026-11-24T21:53:59+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "rss:phys-org",
-   "title": "Mindfulness training may bring out the worst in some employees",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-mindfulness-worst-employees.html",
-   "published": "2026-11-24T21:50:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Psyche Mission Overview",
-   "source": "NASA Science (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vQmFQbmhlRmkzZTlPQUZhcVF3dXpBQjRPZXhmVWM2SmYzTzBGMXVHQTFlOWdjWWtlLUU2YmphWTVVRkFqa1JnZHFhMzVSN2wzSWtrY1dyTTJPUXVhODlNbUl4R3RZSVc0?oc=5",
-   "published": "2026-11-24T21:49:44+00:00",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "NASA solicits lunar reactor proposals",
-   "source": "American Nuclear Society",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUpiU0NJYUd2LVZBRFZ6M3Z2U1hPblFVS0d0SFpGR2NEc1VZSUxIS1VHTHNaaTk4R1FsaHM3RE5ESEF4a0VtR0FtLXFVODkyU2M5RzJ1NXF5NXJoNmVtVllyOGQ4T2QwQ3lTNXVUNEVEaXlBdy1EV0JQTkllN2c1Zm1R?oc=5",
-   "published": "2026-11-24T21:49:16+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Falcon 9 Launch Adds to NRO Proliferated Constellation",
-   "source": "ExecutiveGov",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmJFckRXSTlXSnFnUy1oQXRxd1BkbFd1XzI2VXRFUVJ5YzJJcW5ERDItTzkxQ3BmN2Zqa0hUbXd4dm5HQ3IwSzFLMko5dVVoWlNRaW1FemdORHNEWXhfeFdvTzROUHJja21sczItd1N5aHRZQTI2eEp3aHBtTHk2UnYzUkI4MWN0bEpF?oc=5",
-   "published": "2026-11-24T21:47:40+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "redakcja",
-   "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
-   "source": "Space",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1ZDUjUybElfZU9yWkFHQi1KMDYxS3BtWHZsR1hhS0pzR2NpU2Zmc2dZRmtsNE5Xem5mbHkwV2hIbS1UR2M0dEZmUGVKRDNLYVpUSmVpZ3lHaWI2SGZpVVl5ODQ5Ym9KZ2lHZHlLc09ILVdFXzlqVkxtTWNOdTljSzBHaw?oc=5",
-   "published": "2026-11-24T21:47:34+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Russia’s push for nuclear weapons in space is shrouded in secrecy",
-   "source": "Scientific American",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1VIWk4tdmp1dzFNS3AyTlNXYmdhMmNnZDBoeEJqaTB2d01XNjJXU21Qc050c1hUMWtMM1RLOTJjMXRkMzkxMmFhQkZ4Q25wRndDUXRkTGZINGhEaTlMLUE0eGZyQ0sxaDZYU0tPVEZDdjlpNWRySDRINm5tQno0LW9sc25yMlFSYVVvSzI2Q3dpc1NCamtieUZyb3VlUTlRcFNiMWpR?oc=5",
-   "published": "2026-11-24T21:45:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "Amazon Delivery Drone Crashes Onto Michigan Garage After Snagging Wire",
-   "source": "Dayton’s New Country 103.9",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHk3RkRPN1doNTI4S3RmRVk3bGNuVFFDU180dU4zaExCY2VtRXRfcUV0SHRMdklKeTZheVlHTE5TWDR3LVhPSi1pQ2hZWk1wSGM4dE9WZnJrRGRvWVJQRHJRWExQQ0hkMzlWaGVXMFkteVM0VlVPbEJQYzRJakZNVlNEejRqVVdiQ293enRhNWtRNFpxc1E5WWljbXo0cEFiXzc1WFFsWFZvRk8wSkpuUFJEOEo4ajRuUzZDUF84Rm14Z3dk?oc=5",
-   "published": "2026-11-24T21:45:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Volkswagen rolls out all-new camper van model with familiar name",
-   "source": "New Atlas",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjN093NG5rYWpUZGtKNWpoQlotc29nOHhLNHE3Z19RS1VhRkZnTWlQU2YyYW1pYThZMjdZWHN2LTNFNlVaVk5LNURHcTVBdnNaLThuemZWakRxdUlmMjRnbWxraFctZ1czaWw0d0FUdEU0UQ?oc=5",
-   "published": "2026-11-24T21:40:17+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:phys-org",
-   "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
-   "published": "2026-11-24T21:40:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:phys-org",
-   "title": "DNA at nuclear edges forms protective UV shield in developing roundworm embryos",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-dna-nuclear-edges-uv-shield.html",
-   "published": "2026-11-24T21:40:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Physicists Map Supergravity Truncations Across Dimensions",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzVrWERRdGptQUlPbGw4U2NpQmE0QzhjQmJrSm5sUk1Hd1B6OEN5ZVRSaHp2TUtJWTIzekUwb3kxNmQyLS1ua3E4Mnd0YUJ3RXFkMlpUWlF3TGJxSTNEcmtUa01ndFZEd0RLcmItWHBjUDJVazRwOEZsYkRLZy1TWUdRMGJtekZfZkE?oc=5",
-   "published": "2026-11-24T21:33:32+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:newatlas",
-   "title": "Volkswagen's brand-new Beach camper van pulls best kind of all-nighter",
-   "source": "newatlas",
-   "link": "https://newatlas.com/campervans/volkswagen-id-buzz-beach-camper/",
-   "published": "2026-11-24T21:33:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:newatlas",
-   "title": "Legendary VW camper van name slapped on new style of mini-RV",
-   "source": "newatlas",
-   "link": "https://newatlas.com/campervans/volkswagen-id-buzz-beach-camper/",
-   "published": "2026-11-24T21:33:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "redakcja",
-   "title": "Ford in talks with the Pentagon to supply military vehicles",
-   "source": "Defense News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXJFZF94cVJvcG5sR09Qb1pJYU56Y082aTVPSlE3dUpMcU5zcVphTUdyaHppMWZ0UVJnSG96UU83OUFFYWZLY1ZGNnNkaVpKc3M1UVNqVU84QmVrcU9KZ1l2bEl5bm54M1Rpa0xQejJGNHQ3SXE5SnZwY2pRVjk4akZoS3N6S0xxMmhxX1QyUkxGU29KNkVXYlZ4SWcxR3Z1aEVsYU84dmRsNkVt?oc=5",
-   "published": "2026-11-24T21:30:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:twz",
-   "title": "Seoul Scrambles F-15Ks As Russian Warplanes Come Within Seconds Of Crossing Into South Korean Airspace",
-   "source": "twz",
-   "link": "https://www.twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
-   "published": "2026-11-24T21:24:50+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Microsoft declares Code Red after historic 24-hour outage exposes system flaws",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFh6dU1vdkFLVk9fM2ZWMmVTazIxTEZWYjR0alhGTnZWYjhmUmcwQTFOek9Rckh4b3BRZ25ZQUR6ZHVzWF9ZMXI2OGRCNGktOFA2dGNZbUdfYWdIVng3LTFoN0NEd3VRSV8wZ1NyNHU4NU5WVGNUbUx2MC03VkRURzJONTMtTjR0bEVsd1dXeFF2UmEyX2E1N1ZzWWtvZw?oc=5",
-   "published": "2026-11-24T21:22:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Microsoft launches Code Red after historic cloud services outage",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFh6dU1vdkFLVk9fM2ZWMmVTazIxTEZWYjR0alhGTnZWYjhmUmcwQTFOek9Rckh4b3BRZ25ZQUR6ZHVzWF9ZMXI2OGRCNGktOFA2dGNZbUdfYWdIVng3LTFoN0NEd3VRSV8wZ1NyNHU4NU5WVGNUbUx2MC03VkRURzJONTMtTjR0bEVsd1dXeFF2UmEyX2E1N1ZzWWtvZw?oc=5",
-   "published": "2026-11-24T21:22:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:techxplore",
-   "title": "Georgia Waffle House cuts cooling energy use by 40% with new salt-based AC system",
-   "source": "techxplore",
-   "link": "https://techxplore.com/news/2026-11-georgia-waffle-house-cooling-energy.html",
-   "published": "2026-11-24T21:20:16+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Why disaster risks are systemic and co-evolutionary",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-disaster-evolutionary.html",
-   "published": "2026-11-24T21:20:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:phys-org",
-   "title": "The two ways rings are carved around a newborn star",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-ways-newborn-star.html",
-   "published": "2026-11-24T21:20:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "SPYS intercepts new Russian Geran-5 K5-K drone in Ukraine",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjh0ZE5ZTlBFQU04c1lkYU5KSmFuR2duYXY3dERKNEl2TVFuSlpXWVYwZUJrNkxkd2t2ZzM2YU1JWG9IUzFzSHFEOWZyRWdVMHd4UmNHUExDRXZHTnZneWphcEtiREl4cnBDV1hnV3NrU1ZxNG9IQWl4ZlJibGdSMmR3MjJXU0pCQzFqLVU2emJ5N2UtVi1aNWZsb1k4NFMyZnVKag?oc=5",
-   "published": "2026-11-24T21:17:59+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Ancient DNA traces origins of English, German and Scandinavian languages",
-   "source": "Science X",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2o2dlFrdmdUZ2RnekFVNlVIZ0tidzlLR0xXNnpyRTFWTnRaWGxZRXdPSUU4YVNGNEtfc1JDaEZpOEhERTh0TlVxQjQtYkw5OGJVYVVtTHdma2NEbkdWNEN5emt1SFFFYkZqMzFONzhjQW9GYUx0NldnaFZNckZkQmlVWFY4Ui01N1HSAYoBQVVfeXFMUHdqNnZRa3ZnVGdkZ3pBVTZVSGdLYnc5S0dMVzZ6ckUxVk50WlhsWUV3T0lFOGFTRjRLX3NSQ2hGaThIREU4dE5VcUI0LWJMOThiVWFVbUx3ZmtjRG5HVjRDeXprdUhRRWJGajMxTjc4Y0FvRmFMdDZXZ2hWTXJGZEJpVVhWOFItNTdR?oc=5",
-   "published": "2026-11-24T21:17:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "LIVE: China launches the first foreign astronaut to board its space station",
-   "source": "Shoreline Media Group",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWG5aS2E1VEZBa1MwU1lDOE9ESFB2VmlzQ0k0Mlk1dHNsMWxTTHNTclVKSDhvaDMwWDhmSXVqdUtOZnFWWnVuMXZSS2VEcHhSYnN4Z00zWGV3d0U0SnY3YWhnWWF3QXBDaXpKX19IQTdTTXhpREV4TXdXODRrbkJqdzZPVFNYM0NlX05scHlhTkRneU9ZbW1ENEljNFZqT0U3T3k2cnA1UDU5MEtHVlBVOTZ6YTJha2NzaXhYT2FJREszdTdFWmxtNm10SzFTS0cybWpObVQ0Y3JLR3E2Y29pOWJpQ1phVjFyaFpaU2JQZEwyRjJpLTdRRWd1Y2RHeXZTWEIwQmZsbkpXejY2UGc?oc=5",
-   "published": "2026-11-24T21:14:36+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-   "source": "nasa",
-   "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-   "published": "2026-11-24T21:14:36+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "A common language for pistachio growth: Researchers develop a crop-monitoring scale",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04SDc3UzR6UzZZOGZGMDBKeGd1VVlPcklhZmJKQmV0UHRxakI3eEFobUJRVklCajlhUXpndDZKcm12RWVXU1F5cDBGb3NlX3hHQTFELUlUMWlTUVJMc01VZ0UtNkI3WWNqNnNOTUJWQXZaT18xVUdwalhiZ0o?oc=5",
-   "published": "2026-11-24T21:10:04+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa292aWFQSGcwNEhxbW9sTlRoLXhGaTJUVzNMaVFXTm0xUTNtUnJXU1pGM2dxQVZSc0tETjJQNENWc0FQY1pjWTBBZmZKbjdPWUVxc1FlTDdnVXFLeGlvMy1kakNkMm54QnJKZnp1SmdOZTZkUDdGbWRxZzAxS0s1VGIzTGR4MnljQUJTcw?oc=5",
-   "published": "2026-11-24T21:10:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-   "source": "nasa",
-   "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-   "published": "2026-11-24T21:04:32+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "TikTok hit by major outage as over 25,000 users report missing videos, blank profiles",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RzWEhJMGsxTzcxak9wRm9uM1M5M3VJNlFaYkVvempfS1hLUEhxejlDa294aHhjemNScWtmaUgyRGlYamFhMWZqNDhFc0U5ODV0VkIwd2ZJYTY1MUZLVnVxdm96MmdXaEdQVzhNS2JTR0YxcWlYSW1hYWkxSWhqSmZPcFlDdw?oc=5",
-   "published": "2026-11-24T21:02:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Evolution keeps returning to simple leaves",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54MEtVOUZaTHo1SXZxeU91Q2lnS1J0VkxZVUpBcGRGanJuRWpEbVVpU1VHbjhsZkNsbm14UUZ5Sm5KRkhBOUlDa1k5bS1jOXlYV0ltYjUta3NKS1Nxd05hZA?oc=5",
-   "published": "2026-11-24T21:00:12+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
-   "source": "Space",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcXhwa3R4dHNCdWlubUE2NzMtV1RZdlFQaEdyT3dSZ2hpR0k4NjZlRGl0LW1kbWtjZWpZSE9kcmJDUTl1TmRfWVFvNmduSmhac1NNUXhMN3VZMVhlWlItd3RkUDEwRThic2pSTVZienBZNDBoNzVPZGRMbzIwRmE4T1VsR1M3Z0tOdGRoTUZ5OWFRdWtPZjU5YVdSRldiYzhKT09CZktOWHNHdUlTZ0dBX2NNRUVZLTNjWVYzbEdRU3luMDRxT3V1ZVMzT3B3ZUxjRGNJUThnNlJBQmtuYldodnY0SVFmVndBNVpnMXNkczlkbUFFcTF0N2NIemg4QkFQNVVSZQ?oc=5",
-   "published": "2026-11-24T21:00:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:sciencedaily",
-   "title": "A black hole the size of an atom could destroy an entire star",
-   "source": "sciencedaily",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
-   "published": "2026-11-24T20:58:15+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "2027 Harley-Davidson Lunar Divide Factory Custom Paint First Look",
-   "source": "Ultimate Motorcycling",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX1ptaTVnaE9NRFdxWjhCMnRGLVJBRVd2dlcxclpiajh4V2w5RVpzcFhXclpBd21Bb1l0eXN4NEZvT2NmUHU4dWhQS0ZSRm9GeHZUdUJnTVMwa0dpdlJ0R21vWE5vdngtZEdVTFdHemNOb3lJTlB3dV93VHg1eHhoWjZkZWFsU2NObnhfWDBnMTliMXE0X2czaFdqY2kwbHls?oc=5",
-   "published": "2026-11-24T20:50:10+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Live: Special coverage of China's Shenzhou-24 crewed spacecraft launch",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52LUZ6VVJGQUlxRXhxR0s3NzE0c19EV2VHZkN1QU1RVHd3dzFJNEZzTkY5cTgxc2R0R1FKdFBaWDZ2bkdobU9BaS1wN0ZuYktrMmFfc2xLZzhHTzdnSFFIc9IBXEFVX3lxTE5MMy0tRVFyU1JIRkJ0Tm1iLWJLamZWUlRuaVI3U2tma1pWS2VUTnhRTE1Nb3kxeW42THRSTHhqT1drWFpnZHNHRjNoYXZTX2xiTXIyMTNMRk5hWWxV?oc=5",
-   "published": "2026-11-24T20:50:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Arianespace Mission Takes Amazon Leo to More than 400 Satellites",
-   "source": "Via Satellite",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWhUWGV4OE9RZVZDWVoxM01sMlFMY01EMzhoUzRpbEoyLUFpQ09SWVRMdUhyUTFFUDVwdE1mdkh6SmxwNGJiTExNQTFfM0k1bjdZNHBEOUd0am1zaDNVOVBLS2pKLU94bjZTNHMwX1MyemhGUDV4cExtS0RkR1dCQlVxUHhTOV9WRVJRb2tmWkU1dzRBY3RDNmNIQlJuR3BEUGY1R3VaREdfRU9QeE9pZHI3b0o?oc=5",
-   "published": "2026-11-24T20:44:25+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "SpaceX Launches Falcon 9 Rocket For Classified Space Force Mission",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEpKTnNkb3Q0ZV82cG1FMDBONloycmlvUFFCTHRFYm1LeERLX0hDdEhkOS1NcHN6RmVNQkhjRWR4ZWNiVy04VHZ2bW8yOXVuYkRkQnRhemVqT19GNVUzcHV0SGtURWgwb0UyVXFwWmtoMUtYdXd2S1hSSUVhaVdvdi12SnhqZlU?oc=5",
-   "published": "2026-11-24T20:40:44+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nsf",
-   "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-   "source": "nsf",
-   "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-   "published": "2026-11-24T20:38:54+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "redakcja",
-   "title": "Stepped-roof masterpiece hailed as world's best new building",
-   "source": "New Atlas",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRzlsb3lwcEN2WmVuYVJtQVRfU0RpSjhmaF9CMlA5NGNaY182ZXRyRWNxbVJXLVg0M2U4S2drV00wLWQtMVBuWmtfdV92cml0Wkt4SlpPRWZ0YjhNSnJnTnZTekVneTlQaHZ5U21fZFA?oc=5",
-   "published": "2026-11-24T20:36:17+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "What’s going on with the Riemann hypothesis?",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDVYSU4taWVWWXlzeFZzM19JWEpGa09NUlhmdmhLRzVQZVpoNHdkVUFzQVZhQmY5TDU4YlczZ2pYWUJFWmNxM2NFcWtaWlJQTGxwcnJGX1hlVkNFdTBDZ3V2ZWkwTk5IR0RUeVJGeWMwTC1xRnJXX2o3dVFXOWotNlhiOS0?oc=5",
-   "published": "2026-11-24T20:34:53+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "redakcja",
-   "title": "Robotics Summit 2027 opens call for speakers",
-   "source": "The Robot Report",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1FOTlZUS2EwSTF5MGdBTUJCSmFCdFdvbHVMdTJ5d2syM2RkYTdGVGo5c3gzbDJCeUtCYWRSZFZudmJyc2FKYXlhQkJheUtUUGNKUTBFX3BRczl2ODA1U19jNXo5R1p4ZnhrdUJkZ0NJOXotdk5QeHFkclFNX295V2hn?oc=5",
-   "published": "2026-11-24T20:32:46+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "redakcja",
-   "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVMVV9CWm5ldTZWUDJMVWE1Q3B0VFNvUDZjTHVSNmxHRjBrV2d2TXU3QW94R3NmUjVFMXNvV2hnSXpsQTVITzhaQzY2NXlrSHBhVUN1d0x3Mm53ZlNsOHd2c0dGeENscGRGdE1Yc0lvZWpaRkdCY2VFTWktX1F4emJxNEd1cUt4elhWbGU0Q2k0THQ1eU1SWlZlaw?oc=5",
-   "published": "2026-11-24T20:28:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "rss:constr-dive",
-   "title": "Jacobs posts revenue boost from life sciences, advanced manufacturing",
-   "source": "constr-dive",
-   "link": "https://www.constructiondive.com/news/jacobs-fiscal-q4-2026-life-sciences-advanced-manufacturing/875661/",
-   "published": "2026-11-24T20:20:41+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "rss:techxplore",
-   "title": "Think you're anonymous online? AI can blow your cover",
-   "source": "techxplore",
-   "link": "https://techxplore.com/news/2026-11-youre-anonymous-online-ai.html",
-   "published": "2026-11-24T20:20:13+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Anthony Vetro: From Video Coding Lab to Global R&D Leader At MERL",
-   "source": "IEEE Spectrum",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoRmF5VkE4RVk1LTdWZmFuVlc4d3E3VGxIZzc3UlhoZ3pMN3JHelM2NExNSU5OdGxOZlZwX2pFRlpJcFpGblp4c3MtTkczR0hqa1hyVmJiWnRtV2J0QVdDTVlfU2piUGFHUFNvTl9HYw?oc=5",
-   "published": "2026-11-24T20:18:48+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Moscow Considers Deploying Nuclear Weapons in Space",
-   "source": "Foreign Policy Research Institute",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVpaZ0p6ckxPOWxTY054dnp4R2FxbF9JelJpTGZ2TWxST193WV9ZX2ZfNXRGRGF1cXNFSjd1aE9DcFlwMXFBQm5BYkh4OGJ5dHlGWklCLXpNLTZaSlVfWkFQUWc0eDA0MzV5ZXRTdlNRelMyU2lzY09CdkdZcVFOUXdvR0pSeWU2cllnazJYaC0xRms?oc=5",
-   "published": "2026-11-24T20:11:37+00:00",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "‘The Lowdown’ Finale: Ethan Hawke & Boss Tease Lee’s Father-Son Breakthrough",
-   "source": "IMDb",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FRzJNMVVrNV9BVlBiMzhlSUJaV0FrSnFRdUJMb21DWDc4RkxpQm5UYlQtMVRBSm51Sk50XzAzT3BjVExRQ3FxNC1WOUV1elM1SGxaa2dOZXlsQVpnWWlrVGhyNVRtUQ?oc=5",
-   "published": "2026-11-24T20:09:36+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "redakcja",
-   "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeXlBXzREVTBnSE1QbXU5LWZpWTd0MmVuR0hZYnJEdXpiX0JrLU9WTG5wcHBpUlBDdVRXS2YwR29zUXBXcmdMUWw2bkdHRWlQWi1VQVBBQ1BJNE1tRS1oVGNoREtIMVpzaEVJY205VV84eTJ3SWtGZWJRblAybEJOLTIycG5JZw?oc=5",
-   "published": "2026-11-24T20:07:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "Amateur astronomers use OpenAI to hunt down 49 potential planets in public NASA data",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWZGY2YySHhoNlRnUXRrczk3dThDc0NybGgxMDBaZnE2bmVCWDRob1VSZmhvN0t3SjVlcHIwMmNmbFkyUFc1Z3FRWWdHZ3M1OC1WeGE0YnFrdjVJUlhzUHpPWlJ3b2o2OHhtZi16VUU5SW1Wb21PaEpIWDhYa29pV0cxR0ZLSUtwY0JMUnVHc3VwemNVMk5faktR?oc=5",
-   "published": "2026-11-24T20:06:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "Amateur astronomers use OpenAI to spot 49 hidden planet candidates",
-   "source": "Interesting Engineering",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWZGY2YySHhoNlRnUXRrczk3dThDc0NybGgxMDBaZnE2bmVCWDRob1VSZmhvN0t3SjVlcHIwMmNmbFkyUFc1Z3FRWWdHZ3M1OC1WeGE0YnFrdjVJUlhzUHpPWlJ3b2o2OHhtZi16VUU5SW1Wb21PaEpIWDhYa29pV0cxR0ZLSUtwY0JMUnVHc3VwemNVMk5faktR?oc=5",
-   "published": "2026-11-24T20:06:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Rakieta przekroczy 100 km. Polska i Wielka Brytania ją opracują",
-   "source": "Money.pl",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0t5MEQwTEVGMnN6QlB0QlNRdDhHUmExSG96Q3JRQ0dKY3ZkaDY3QS1fWmtQUlpnLTJldEZBdmc2MnpFeFNWTGFtblNqUkVBb1g0b0c4UEVTU2N4Wm5Ib3dHRWxGSml4OU01clBvV21qS1U4NmtlQ1NURl9MQXN1TlZadUR3U0lVNERyb1ptdkxKSlpHX2Q0cEpUZUFmM2Ff?oc=5",
-   "published": "2026-11-24T20:05:26+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
-   "published": "2026-11-24T20:00:18+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Planktonic hyperiidean amphipod confirmed in the Aegean Sea, and a new study shows how to identify subadult males",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemdvOGNfZTlpNlk0ZFd2eWNDcXFqcXdHdHVFWnJVWlg5alZ4LXVDWTJNT1A3THYwZFIzZnZsSkRfTEJaYUpGMnBwSDAySkhsd3NVdjJUTmFRNi1DYzlwZWEyOC14NV9ZTkl0NkxqNlVrTE96SFpEYUhyWUMwZUZ1ai1rWQ?oc=5",
-   "published": "2026-11-24T20:00:14+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "A Medical Breakthrough 20 Years in the Making",
-   "source": "Targeted Onc",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2tSOVVCNHRWa2lubEhIU0tFVV9YVldOdlR2YnRBOVpBX2lTaTBKWEJDUHpMTWhvMEJhTjRxeUxoZzFxc2FjYnJLTE5oNEh3cVljT0NFYXNPbWZVZ21TNFJ6blBscXBTM1ptMlcya2V3ZDdzNTlmSDBHNXRHc25EOVdmVklaLTg?oc=5",
-   "published": "2026-11-24T20:00:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "komunikat",
-   "title": "Manhattan Bridge Capital, Inc. Announces Increase of its Existing Buy-Back of up to 500,000 of its Common Shares",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTko1MTUzUGJRR01EYUs4ZGk4NE1IZUpXN0ZzWEhUekk0NTlheUY0OVBOUldSVi1YZjZnZmlBcXRmNjFMa2k5N0RmVVNtcjBUM0MycElPSjFvMy1wQXdiY2VhaWV2QmxieFU3TnFQQkdTMjlBN2JZVW93YlVNWDNFbWZWOWN2T1czejY3V2lLYmdLNnFXcFVRa1RQMVkzd2d1dm1GT1gtZFFuMzRjSmhleVFxVFJnV0dGclR1ckN6MGlzNFpHc3FIRWhEbVpaczc2RHEyc2JfcnZrdkJSVW91N3lCV0l4MGZMVXFkUzJWTlkxd1YyM0FtdnR2RXJzMjlWZVZzS0ZZNndidUFrTktrWVJUMA?oc=5",
-   "published": "2026-11-24T20:00:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "news",
-   "title": "Suffolk County’s First MAKO Spinal Fusion Performed At South Shore",
-   "source": "DailyVoice.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1NnejdvNkZjX3RielpFMGlXMENkTUlITTN0MjY1TFhlR0F6MGNrU3VZRTUxRlFJRzZ3MExTYVNCOWlwVjZCVUY2SzFkUHRqV3dmbHF1bWdLb0FpTlNWdFhzUm1fMjBnRTQ2Z2o2Y1NnanNCbnFXSGx6Q3FuRnB6Mkh3UWJxUTBManlLZTd0VmU4el9vemthTWFvbmRfdw?oc=5",
-   "published": "2026-11-24T19:58:13+00:00",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:ie",
-   "title": "NASA’s Webb telescope finds evidence of star’s internal mixing before supernova blast",
-   "source": "ie",
-   "link": "https://interestingengineering.com/space/nasa-webb-turbulence-star-explosion",
-   "published": "2026-11-24T19:57:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Panic buying? Gradual stockpiling makes for better 'prepping' without emptying supermarket shelves",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaG5fTmozckdDanMtOVFSME1NNFR0b1FZazFnR2pDZnZYR2N1ZVNlbmJhOTNrOW9oUlBvaVFuNXhhWTY2T2dOSF9vSkhvZi1jcGxwYzFQMGU2WVM5aDZ6MWRPT1lEMk8tQlJ5UDc4eDZaMVNsdUFKdTVCMHp0QjJSSGNR?oc=5",
-   "published": "2026-11-24T19:50:04+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "komunikat",
-   "title": "Casino $150 No Deposit Bonus Codes 2026 Launch By BitStarz",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNOWRYS3pzanVRR1h3bW4wc3pxanpvOTIxZkxUR21JNWIzMmJkMkt5d25qcTE1THFPaGhhM2J0SHVFUk1wMG5mOTNxS1NReHo0OTFrVkJ1bDJQWjBWbGJnY1FiLVlmRlRwMk1sQUpGbVVvZFRtbmxRZzE0ZGlPNi1uM1o0LXlYeENYclZac1prSDU2d2hPcDRHLTk3dl9uQTVmQURyaTlETm5HcVNiUUtfbzF3ckxnTEtiUlNPemozNGpCc2tWNkZzcUpwUHJqbmoyMnh3SjFGZVdGR2RNN2tfM1l5SlVMZnA3VjNiYmZVdVI3bGVzcTl3YlJiN2lLU01nS0hJdzdYTHBuMFl6LXJCZU5VMDA2WFBpRXEtNzUxNjRkVHBOZGdqZzBybURuS1k3MVBRdlRPTHYzR1Q0TkRKNVQ4VlI1WE5hSXpxTTlhSQ?oc=5",
-   "published": "2026-11-24T19:50:03+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:techxplore",
-   "title": "Greece's data center boom angers locals near Athens",
-   "source": "techxplore",
-   "link": "https://techxplore.com/news/2026-11-greece-center-boom-angers-locals.html",
-   "published": "2026-11-24T19:43:52+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISUZVVTJVU2E4ak9oRUptVHdCT0p2WDE5U2F3RFNXVkN0ckQwWEF0c251Wi1fRGdPV2J6NkotS1JaX1hVbW5NYkVrakJ6d20xU0VSR2QzbUowUWdmZUpIMUJqZVp2Qmh6UDBzaGEtZHRYbk1RSDFKd2hTYWRqZw?oc=5",
-   "published": "2026-11-24T19:40:04+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Nowy pocisk dla Polski. Rząd podpisał umowę z Wielką Brytanią",
-   "source": "Business Insider Polska",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2Vmd2NQcHp2NVM1S3A3UjI0YjJoLWMwS1N1bUg5M3ZsRXVEeDVDZXhybXRYdjZnWVJ1T2NLaGV0dk02MEF1ZXd6aWlsMHp4Z3RjVEhucW1qZy1ROEV5bS0xMV9YTWVCcHNWM0kzQmtFc3lHNE5OXzlrUi1DUDNod1FORDhCWC11T000YjRUdFgyRGZkQV95WmktSF83bjl4NTNoNVZrX3Y5Q3N1LW5aT0t6VVRoWWVRQ2p1cUEzNFdyNk1vMWQtMg?oc=5",
-   "published": "2026-11-24T19:40:04+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "komunikat",
-   "title": "Alkegen Successfully Emerges from Chapter 11 with Strengthened Balance Sheet and Enhanced Financial Flexibility",
-   "source": "Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVNSLUdUTUdlWGdlU3h5X0RwU2gwRU42cUJGX0JubjRPcW9ZTWV3X3BGeTVnbDB0c3loMVEzWWVRekVuVDBZdnppSW9pVUEzWTJlSi15NnJnQ2lsV0pFdUZ6cU5kemU0b29oYm9LQTdrMFkxTTQ2ZGZzS3BzMFhRM3R4aWVjQVlnMThrRzN1Qm5Jb0o1TnNzTkpnUUNqRHhNUndYSjBrYUFLTkRQYlRndDZwNlhKcDhOWjhJWEljUWdURUdsT0NFa3hNaW04SGlMTGxuWDVfYlAtQnlwbVcySkQ4Zk5pQ3NaVUdIY0EwMi1BWnd0Y0hFckN2T1o?oc=5",
-   "published": "2026-11-24T19:38:00+00:00",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "'The Lowdown's Ethan Hawke Teases Lee's Finale Breakthrough",
-   "source": "TV Insider",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDdyZWxtcU03cWtNX0FyQWduQlkxZXluYjE4ZXctYWRxUUhTaWhfTlJFb3VXaEhHN1d1WFRXMDdKTURwQU5qZXR5bDJoNHZTTnM1ZUxPUzJDR0pSd2dmSUV1eHQzcG1DczgycDhvWWFHODREZ3JHNXBIMWV3cGNQSmdhV0g5X0lXaEN6c0ZydkIzSk52RDhTVUF2Q0M?oc=5",
-   "published": "2026-11-24T19:35:20+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:mit",
-   "title": "Agentic system personalizes physical controls to help users “DJ their art”",
-   "source": "mit",
-   "link": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
-   "published": "2026-11-24T19:30:00+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "redakcja",
-   "title": "UK’s MI5 warns local defense firms of Russian sabotage risk",
-   "source": "Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFlwTC1LbEZzQmdMcExTMU5Hc094STh4bkdNTEtHeFUyQ0pmNkNQRzhxUjRDbFAtV2tDTFd2Ni1nZzJ1ZzBYRlp0TE5HaVFybFJNUEhOWnlWNEpVWjRzdkxLNkVuSlhXMk1PYjZ1RmxhLWVJc09BNEYxM2tzaHlUc1dXRkNoRHVBZVRRQ1NrU2VGNWRjd3g2Z2xNVQ?oc=5",
-   "published": "2026-11-24T19:29:41+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:ie",
-   "title": "US Navy eyes 79 lightweight 4,800-ton FF(X) frigates to expand fleet by 2056",
-   "source": "ie",
-   "link": "https://interestingengineering.com/military/us-navy-fleet-79-ffx-frigates",
-   "published": "2026-11-24T19:20:48+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-   "source": "nasa",
-   "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
-   "published": "2026-11-24T19:19:52+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "redakcja",
-   "title": "FireAnt Mini Uncrewed Ground Vehicles Deploy Drone Detection Sensors In U.S. Army Test",
-   "source": "TWZ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHFhbXNLOWtVMU9DRDZyR29lNkNidjZYWUhLUlNRX0xKa243WHNLYVhMQ2RlNm4yYlRfSjR1S2hWOUMxU01rdWRLV01NZklzUDA4X094YzhQYkl5cHZZYll5b244eHZNQ2dsVTV0SWpZRHhzc19pSTBkdHFEaVBFaHB0bm9tdkEwNTlZSnBWVVdlREhhdXNHa2loX2laNHdZUkdPdzlCRHNVcUNkZjNB?oc=5",
-   "published": "2026-11-24T19:19:27+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Genesis unveils liquid-cooled next-gen hybrids with 500 miles of range",
-   "source": "New Atlas",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NSHNvZWQwbVRESXdQc2ZNSmtCR3p4Y1ZHNkpEdDJza0p2TnlvbzhmQk41Q2VWaFpGS0Ffb0I4c0RiY2l5b1J6Q2xvd25ZcjNJVjU4RzNzUTQ1QVgxN3lkMmRKMFNqbERocjdXdHpxT0VDRlJHdlliaWtkMUN1dw?oc=5",
-   "published": "2026-11-24T19:12:17+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-   "source": "nasa",
-   "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
-   "published": "2026-11-24T19:09:16+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Scientists discover quasar formed within 630 million years of Big Bang",
-   "source": "WFTV",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEgtMy1IQkhveF9YWUJVcXpjbmdiX3Jld210QXlZYXRwdW1LY1luNS01Y0VFd25BakE2eVV1aXBPclY2SzZrQjFiQVNCTi1ObFhDTEhsLXlCNFZySDRGV3huQ1V4aWdtVmxoVDV6bmsweWxOa0lJXzUtVVVMeE1xUHMzZFczcERzWHFIYUJxVjhpU2RLZUtuTUg4QS1rQUtfVzJZbU5HZ3hKUXp2TXVLa2JNcVRsanlFb0JvMHlueFBXLS1PLTFBcFZB0gHeAUFVX3lxTE9aai1aS1hXVlFCallfQm9admE1RjlZQng1a1plT040c0UzbFA1X1BpRTF2NVA2ZkxnVS1QTHlaVEo2YTBQdlRMeTgtSDNyZnFuLTktSnlWdk9WSkRXajNLU1p4Q2xIRGJfMHFzR2U0bUkwTkdXeU10MFh1QzFzTUE0anZZRko4SUNaZU1yODFSSW9GTzZTNzFvNnh5WmdnRWFFTUh2anBYaTJxWTNicW5kaWNGS2c5d0k0T1l3R28zRG9IaG9HeTg1Z3FSdnp4cmZqZlBNamRvcl9LV1l6Zw?oc=5",
-   "published": "2026-11-24T19:00:30+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:ieee-spectrum",
-   "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
-   "source": "ieee-spectrum",
-   "link": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
-   "published": "2026-11-24T19:00:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "redakcja",
-   "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
-   "source": "Space",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamQyRW9UOGNIRDRkRGJQWGJ5ZFR6RDhISHo4VVlLODNMemhGVzBTZ3FwT3p3dnA5eDRYVDdFbUFPdFZZUklkekh0c1dac1kyTV8yTkhtT0tSUWlZOEhDQTBwVDZUUXZzYnhPZjNaRWFUUUZQSjVDTTVHNl8ybmZZYUQzWDVFU3RKNGtTSXVwYjRUTENYRmlGOG5lX2RRWDZXd0tZSVVIUU5tbi15YWRMel9PeUU2Um9FdERQcDhtNTVYSjh1SVlDUnAtMzFyMFM4TEZidWFYNnJMZThoUzlVMUZEano3QQ?oc=5",
-   "published": "2026-11-24T19:00:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "redakcja",
-   "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1ZuNXdURGhTRVpmZldDcUwyN3l6WHNneHFJVEpFSWs5d3lWRHFQZHFURG8yQTRxYlVVYTdKbF9JZXR6RlhUQ2twY0dVMElQeXluR2trMDF3ekI0V2ZfUm00RE5LYjFrbkRpckVMSlBSVTFpc3ZzQ1ZTTzRPdy15dlEyNm1qYjJhU0hodmRYSUthWE42VUlmZmFlUGVRZ3lKaVBUa2cwd2QtWmxVVkNaY2tqbw?oc=5",
-   "published": "2026-11-24T19:00:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "Moab Celebrates the Holiday Season with Bridge Lighting and Brand-New Drone Show",
-   "source": "StreetInsider",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXpZdEFZZEpaamVXSGFEalNadTVTSEJDbG1XUFF4RzE3OXJydmZsSHFzcE9VTGx6NGNTdUlYUS1FY3V5aThQLTFoUm1vaEl5c3BqV0laaHNZME84TEVRajBXM3hMZ2JEM0ozX3NXWlFWMXNOOU5sN184MElja01WVVdUTTRnOHBCdk1WR1FYRzd4bkI5MXR5NHlPbjl2UHhNQWt6RnpiVVlJNkxqTEtKTGtzUTNndC0wcWdDNl9KUGlCTU5ydjJoc2ZyYmw1Wkp6?oc=5",
-   "published": "2026-11-24T18:57:50+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:ie",
-   "title": "Zero-electricity wind sprayer cools solar panels by 48°F and boosts output 18.6%",
-   "source": "ie",
-   "link": "https://interestingengineering.com/energy/wind-driven-spray-system-cools-cleans-solar-panels",
-   "published": "2026-11-24T18:57:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "AGU Hyperwall Schedule",
-   "source": "nasa",
-   "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-   "published": "2026-11-24T18:55:42+00:00",
-   "tier": "T1",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Scientists Discover the Human Ear May Work Very Differently Than We Thought",
-   "source": "SciTechDaily",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGs0VzJtXzV4SXktZVVLR0VUWEZfX3BHbVdxbzR6cW05c0hjOVhZMVBXcTdNRVhoYXM0VlJ2a3J4Q0E0dk1QaThRRFBjSXlwZ3FrdEtHTUZhRUVqdTM2SVVLYmJCRGN5NEl0dEg2blZHdkk1MG5Da1ZnSlBCX0xzX2gzT0pEXzhIajJuSEpCMmwtYVQ3WncyMDl4WlZSSWRTNE9n?oc=5",
-   "published": "2026-11-24T18:54:24+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Shenzhou-24 crew forges bonds before first foreign astronaut visits China's space station",
-   "source": "巴士的報",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGl5aGZza2NMSWdDM0hCMlVLeUxmeXNUWU52elp6NVhlSXVONEhMVmRrbmdCZnJGeDJkTkp2TEZob0xjMW1aZ2pZOERtS2ExMGsxUVBZQUl2X0I4YURDSFZDVXM3OFA2Y3d4VlZFLVE3aEJzRFBCYnJLbmVCNXFxZGVpMXUwQXVPU1JERGJOOGh6eDhuU1NEVTBZWUVadDRSdWUwcm5iWjFDWEpqcTRFMDdMYXhnNTZCLUdTZUlWTmFQekRzV0JxcEVtb3AxaWZRMUNtMDNhaw?oc=5",
-   "published": "2026-11-24T18:54:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Effort can deepen understanding without making learning more enjoyable, study suggests",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTEZJT1JuSzZicFZ2WHp3U1pTU1hfMGxQMkZuUF94N2VPNUQ3NzBOX1FvRXFvd2J2N2ZYcVd5V3JsUjJxQ3Z1dDloMEJKWXVqRFV1TDdnN2FmbWl5NFBlMk9jeHY0TE8zeWc?oc=5",
-   "published": "2026-11-24T18:50:04+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "NASA's ESCAPADE Twins Capture Moody Earth Farewell Images After Powered Flybys Toward Mars",
-   "source": "TechEBlog -",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Vd1VKQ0tmRHBBMldCUDc3NHBKd1BoU3RfMFZ2bV9vSEZ2WkMtbVo0T0Q4YllsNUFiNTlPQ2ZvVEpRZDFjNTZjNm52dE16QXNaMlRnTTRNU3lUUjFvRU1PSFliUXE5X3d2OHVpMTRXc0ZXYzMta2lF?oc=5",
-   "published": "2026-11-24T18:49:20+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "New seals and glazing could withstand hypersonic flight at speeds above Mach 5",
-   "source": "Yahoo Tech",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnM4Rmw3VnN4QmYtUDkwZkN4bG1KejlfdGtfS2EzV21ndF9TYm1mWHZFbDI4SjRXdkdmdGVUWGlPVzIzaW5yR202S3lzbkZpdWI0MFR0N01VRE9NVUJNMEFMbWZGNFpyNnFSbG9BOGNGeVAycDBkRWw0aWNqb2JyYjlBVmwyQlF2S21POHhCRHkxcEpTR0pOZnhaWQ?oc=5",
-   "published": "2026-11-24T18:48:27+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "When a pig's kidney gives a human a second chance: The medical breakthrough that could change millions of lives",
-   "source": "Education News",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSkFhTDdSZ2NUN192c0ZYSmN4U3NGb0NXbEVCX29ZZFprWWFFM2hMQmhJcEdTRnRpeXgyOHBYX01xbkxaSWF1ejhGcVdVeFVlc2RlTmpBbmxna2pSUjJVSnZkQWpjVTB2dnNzWnNBM2tpdGpFVm92VU1keFdzLV9sQmhoVWhnUWYtSGlDNVZpXzFhYTBydHRwMkxGS3RsaWJ2MS04RkJIWXBKSjI2anBLN1gyQzlvRHRRRDRhdm1qeFBHYXVjcUtnMkc0dWVyOXVCTDBDYnZsWWpvZw?oc=5",
-   "published": "2026-11-24T18:44:37+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Tottenham tie down teenage sensation after dream Premier League breakthrough",
-   "source": "SABC Sport",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdNR0hvQ0Q2eHdJSmpZeTlqVkF5TC05NzlROTVrRHFtU2Z5cXEzR1lkOWFQcmRCVVBrYnloaUxZQ1Y5d3VreHQxMVc3RmJiOEpCdnU2WXQ0bkhHNm9YeWFmQ2NYTjNGbTRNcVkxbnN2UU9fcjNWbVU3TjhfZFFCdTlJX1ZRcWdQRWlEZWRXMGtqV3g2YmFndlpfZVRjcE9ZOWN2ZXJvSmZnbkRuZ0VIMWZEQjU?oc=5",
-   "published": "2026-11-24T18:35:51+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Theoretical Physicists Derive Exact Fluctuation Response Relations for Two Stage Neural Populations",
-   "source": "Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlNXLVZOT1Rhb0FZdkk0b3BpTkE5MWFiWE8xX25hQzI5TTlYOFNrYkMzaXI0ajNKR3QyREstNi0yOXdVY0xScm9adG55cEtieVFvQ3Bla3BySzNlNnpyX1pYV2RiQjkySFNlb2JWQW5lLW5tcDZsVkxxUzJ2SlBNaExXQVVJbWkwTUxyNEo3OWZ3ZWYyb2RReTBPQ2hmR0xqS3BOdmJiWXk1UkV4U2Zxb1FFUzAySl9EV1ExSm1WRFFMUQ?oc=5",
-   "published": "2026-11-24T18:33:18+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Three days to go until Black Friday",
-   "source": "Space",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kbHhVQlNRSHVHSUlxT0ZXeDkwOE1oalRsMFExeWw5ekFiT2hMWjJ4MTVoc196ZVlEeHh3Y0dPMnd0Z29tWU1zbkNCZ3Vpei14YjNiMk5FY3dXLV9GZm5rYw?oc=5",
-   "published": "2026-11-24T18:32:45+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3dUNnBuS2JEQmNhdkJSQ0cyR3RGbjNtVFUtNzdmQWZTN3R2cVN6cWs5aWkxd0ZVcnBvaWVXdFRuU1NIOXFMUVNOMEwzaGJISVpBRW45eWYzNGphZ1k5bXVRWmJ3R0NtZHowMW9NYi13TUVNdjl0M0FEYkNyOWc5YkVBRTVlNWFFSldXU1cxYXR2MWR4cG9hN1Vxd0NFS3BvRTNfM3p4NGZwdw?oc=5",
-   "published": "2026-11-24T18:30:36+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Scientists discover possible traces of carbon from Earth's core — its source may be older than the planet itself",
-   "source": "NEWS.am TECH",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44N0lNbzlHaU9TMkRIOHNUb2dqc0x2VUhyTXFZOVIzMkd3V2VJUlh4ZkNvaWRfNFpuUHBaM21MM3E2Q1NHZmpJSw?oc=5",
-   "published": "2026-11-24T18:30:00+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Sweden’s Gripens Are Doing Big Things With A Tiny Footprint In Poland",
-   "source": "TWZ",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0RWbVY4cWdGOTN2TTRYX3YwNGFWVF84YkRGVVAtTU0zOGlpeDNPYXo0aV9xd2lVM2VKYWwtUXpmbElKUkRHVEptTWtYVlhpZFNET2c1NXg3MmtzbXV2Y01VRDJnc1c1RmVBdUxfR1VQQi1PemJGNHhhbVpDc0NhTmsyQ0FzdzZab21fZkNzQmY?oc=5",
-   "published": "2026-11-24T18:27:22+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Perseverance Rover Location Map",
-   "source": "NASA Science (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JeHgtakNVUG5IdUpFMUVjLU9PWExWV3ZHbngyQXlqa1FOWFlJNVlDTXkxdkw3Z3ZKTDR1NldPeGE1WkNUYkNNRDMxbVV3aHhvdFRQUXpJZm1xRHRBWC1hb1doQ0F1Yy1xdm1sT1phdFFIaHMwNTJFaw?oc=5",
-   "published": "2026-11-24T18:25:01+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "redakcja",
-   "title": "Two AI companies reveal ‘Earth-shattering’ solutions to major maths problem",
-   "source": "New Scientist",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlJ0MjU5LVVHYzd0Nnp4WnRHT2xPQTJWQ082Tzl3WHdjdzR0dHRueUJqcENiN05TWUxBX2J6Q3JyQXBvcG9fWndBRmN5ZnZGR0luMGY4YklNRUNaRXl1Ny05QTl0Q1R6d2gxWXNFQWVaSnhNOEQ1R2FPV2RJUWw0U1h4WlJEWlBYczAtRXMzemdPTHpGdWxIRlFJeFFQTnlsZC1VeEthZmM2RTU5VkNRLTBQdktMcVBXVlFZ?oc=5",
-   "published": "2026-11-24T18:24:50+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Despite 'glitch,' BepiColombo spacecraft reaches Mercury after 8 years, space agency says",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlljVllFbm9wMk9Gd2NBWkVoOGRUWWpzVTBtbmk0TGZDbktWQ19uUEZMVUtSN1k0NFE1YlpGWEV5eUZJVEdCZlktUzNsM2h0aW8zYzJvaXdJUXlqQ2daeWxMcm0xUzBIdENTNmxnNTllcjM0Z0M2M29IM1AxQUZzdUVUcHJGZw?oc=5",
-   "published": "2026-11-24T18:23:03+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "How brewers can protect beers from smoke-tainted hops",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVBNMnVXZzVSdWZTa0tPUEl0UlJfRFVZOUljMWRGY3Vvbi1Gb3JnMW5TZkw1VFIwbVZvSTlTeXZJU29rV1Y2MmlEUFdNd2lOV0JWLVoyLU5JRnFhbWt1QnlvT1EyWDBXaml3eDd6UXhFcXFOS0ptUkFHN2UzNjZJeFQ1b21SNmRMcThmVnZpeHJxcU43ZlhDVUtB?oc=5",
-   "published": "2026-11-24T18:18:37+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Ozempic-Like Drugs Have an Unexpected Effect on Sperm Quality, Scientists Discover",
-   "source": "ScienceAlert",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5",
-   "published": "2026-11-24T18:16:35+00:00",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "'Sputnik S' Vs. Starlink: What Happens When A Nuclear Weapon Explodes In Space?",
-   "source": "Radio Free Europe/Radio Liberty",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVE8xSjJlV0ZEd2ttTlF2SXE4aFNzbk1lZHc4YkNMVjlEeXVNQ1lmNWhNYnpidDJ6Vkw1elNnN2tuTnhCZ19sMVVNZEJkeHA0XzFLamRpMnNJcXdjeG5ySVRiX1ZDd0hCczFJRTRYYkY0R1BfQkhkdl90RHRMTWtLa2NBbUZlTjhMSjhpZWFyWEpPQ1BzNG94S3B4WG5qTi1obXdUWjNR0gGoAUFVX3lxTE1QaUlvc2liWjdCUWRpYWl3NXZRcGJBbU1VQVN5SE1XN2RWOF9CSWhjSFdudjJwejJ4WmVVV1FrcENHekliNDU3Q3U3Y0N4VFktY1pmbEdpcktNNjdNa1F3akdjdkE2b3Q2R3JNYVEtYTVST0tGa184ZzdBVThjMnQ0UTdxaWdJYjZqOWJnREhlTE1QYkNQQUdQdFJ2Vmstb2RVbnlwdmp0RQ?oc=5",
-   "published": "2026-11-24T18:11:14+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "budownictwo",
-   "kind": "rss:constr-dive",
-   "title": "Gilbane breaks ground on $74.5M Empire AI New York data center",
-   "source": "constr-dive",
-   "link": "https://www.constructiondive.com/news/gilbane-empire-ai-new-york-data-center/875651/",
-   "published": "2026-11-24T18:11:12+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:twz",
-   "title": "Turkish Kizilelma Fighter Drone Declared Operational",
-   "source": "twz",
-   "link": "https://www.twz.com/air/turkish-kizilelma-fighter-drone-declared-operational",
-   "published": "2026-11-24T18:10:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDU3T0dmTUp0Q3RBZFVEZGFIVzhpM1lLb1BISmlpN2R4OG00Z0c5dlhjMC1fc3F6VHRxZDFSaGdtbDNyT0hNTkIzZTB0Z0hfYXV2NkhhZFhXb2ZmQWFaWjhsTGY1ZGRwMmpKWHVFWUVpdEdYaWg0NnpxUDRUcXVkMFZ3WVhwc2VaNTFOMTNTRXlhQlp1bnZQUWxZTzBGc0RpdFdaQVUyVmtUWTJWdTB5YUlTVEpvcEpfSFFBTWZ4M3I?oc=5",
-   "published": "2026-11-24T18:03:58+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "Drone strikes target Iranian Kurdish groups in Erbil",
-   "source": "The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZi01aHV2Mkh6bGh0OU9xaDc5ZzVoclFDRkJ3SlRqcVBuMXZwak5TNXgyalltYTdTRUVoekVwbmV4Q1JOSDBNZl81OA?oc=5",
-   "published": "2026-11-24T18:03:42+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Automatic shoe washer takes just 90 minutes to clean your kicks",
-   "source": "New Atlas",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tSzZPb1hCSHo2MEdMbENMbkF4UWRXd1ZsMWw0SlJaTkFBbE5PR2pYREJyRFZJc184bktuZnhTXzN6bTlrbHpsM3NOSnNETXdvdENaX1c1dDZZQkNQTnkyeGp4dEpGV3dJTjNMTTVCd0FZMTJ5M0ZFd3N6Yw?oc=5",
-   "published": "2026-11-24T18:03:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Loom seamlessly combines weaving, knitting and braiding",
-   "source": "Tech Xplore",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jRmQ5SFJqb19IOTdRNnp1RkRvWnZEWXIyVlA5c2YwbE94X0xPMVFpb3RpZjRYMk5QbWs2b2pIZjFhNXVtVGtTMUZYazFIbjBqdmFBUTBzT1F6UzlydExaeVhqakt3eUpQeHVBc015TTNfYkg3TVM1dUdtWjRpZnc?oc=5",
-   "published": "2026-11-24T18:00:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:techxplore",
-   "title": "Space lasers are fast, but clouds still rule the forecast",
-   "source": "techxplore",
-   "link": "https://techxplore.com/news/2026-11-space-lasers-fast-clouds.html",
-   "published": "2026-11-24T18:00:07+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Birds respond more quickly to predators in habitats with greater species diversity",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYk1Ka2hVY2dyZDNaZXd3R21ZQ3Rja1FGaDJjdEZ2YllhVUYzS1pxWFAwb1dHNzY0UG5SVW9JWEYxWEhPa1RZZFB5ZUNiQXZrcVJtTmpBOWZ3Z1hRWmwtQVdHV0Z2RkJCR1FseTNiZ0E4UjlTb1d4SnJLWG1JcU9aTw?oc=5",
-   "published": "2026-11-24T18:00:05+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "redakcja",
-   "title": "New system enables highly sensitive detection of trace hydrogen",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WdHhTSVc0MEJtNmszdEFET3FrU2RBNXRHTGJmMVVkbTJSUXhhOXhPblFFWUdvNnVKX1NmOWhrTkdPOW9mVFFlM0VndmZZLURobFBrS1Zra09BVVFydEtLcWZhUnJkSWJfNGZpYmsxblotbnkxY1VN?oc=5",
-   "published": "2026-11-24T18:00:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "redakcja",
-   "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVG54VzFhV2RaSVZzb2RVRE5xTFlldmNybU14dmNvSnZVcGZwaWtBemhVUmN4Y1hmNlFBNlBUVkpsOV9pNWxyR3JTNWNSZVJPZGZ3WVY0RnlpbVhwUzhFRWZnTGdvZnQwUHFDaWVJQ3Y2cVliZ0JfNGQ1TFhNaVhVSkg5Zw?oc=5",
-   "published": "2026-11-24T17:58:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "New Scientist",
-   "source": "New Scientist",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iaWVGc3ZVQnhFZlFhTVAtbm5GS29McTFPaGhoMDdLQjdtcjRpSWlpazhTVXZ0NThWQU9rb1RaRll1SmNW?oc=5",
-   "published": "2026-11-24T17:56:32+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "To nie słowa piosenek nas wzruszają. Naukowcy odkryli, co naprawdę uruchamia wspomnienia w muzyce",
-   "source": "Serwis Zdrowie",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXpJQzFKb2dSdGthWUs1ekM4MmVLZVFQQ1prNks4a1Q1X1hCaXhHWmlyZ0NCVWQ1VloxdE5DajNtUDZLQ09jRnRTRnZXY0xpUjlheG5vbzN6aThQeVhBMUtEX1VLOWlMZ2gxYlRScjEtVWk3Znp5VGFZd2VHeGwwenFMZjlJdnAyWEZZMUN4ZS04UEloZ2lvWlF0NU1PRkNvTDVLa0RuRC00b3ZxaG1yVnNVX3dJclpXX3Z4RjRucw?oc=5",
-   "published": "2026-11-24T17:55:54+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Brighton Alt-Rockers Spooky Huge Round Up Breakthrough Year With New Single ‘Dead Or Alive’",
-   "source": "All Music Magazine UK",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObWRTODJ5YkZqX25Tekg5Mm9LWVFZd1NBa2Nlb0NRazE2eW1kTWRkRmVYYlhPaF9sLTNYcHQ4TXpKRDVWQjM1XzdZOHdaNDFPYmpId01uRWtIUWh6Y2k5VXF3T2lTOTZKcXNkXzE3Q1VzNXM5MFBoUTlYZUFqOEhrNndlZllJcXF5MDVROW1EQ3htSm1EMS1IaTRkQjI2TlBnUUZHRTlxTU9qWjF4SXYwUktUaWRCWV9wcnVUcDVFX29icjdsVzVmWg?oc=5",
-   "published": "2026-11-24T17:54:04+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Film: Ukraiński robot „Zmij” służący do rozminowywania został zmodernizowany i wprowadzony do produkcji",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFZYTTNCVlV0RlhBTDNBeldsT21PSnJ5WEZnaFpvaGJYOV94dmtsMHRqR294X2FtdEF3N0F3SlRLRmszVEstUXZBZlA5R1hWZ3lRdjFsOXJSbmdqbXhVZ0VxaXRJd042SnFwbk5vOFVjZWl5Si1Eb08zbFdYZkEwZWRqMTVXNVhrY0dfNWFBa25CYUY4Y3JlXzNWdUF5ckFlc0NFTXB1bllOTzJ1WkdTcUMwWWFvblU?oc=5",
-   "published": "2026-11-24T17:54:01+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "CoLab",
-   "source": "New Scientist",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9iRGloMkVVYjJSRVQ1UVVFaGRHLWl5T2Y4aTNtb3A5Q2JxcktTY0RXSUtDR0kxSnhiQjVfOG1YVXByVnFvVVE?oc=5",
-   "published": "2026-11-24T17:53:46+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "CoLab - New Scientist",
-   "source": "New Scientist",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa3hHQ01ac2NOS0FWNTVlTnRteW1XcjFRb1ZYQ0N0SUd6Q1NaWTdHTjI2UFJCWFhfVWpJQ0xkUGpwbGNiYktmRW1MSzJkYWdiWDRUUzRZSS1CNUxWRUJsdmNVS3VYRHNkRUZjSWs5NkFLOWV0UWhlT3p2Wl8xZmRnN1UycEFmaVdXZkgtUjQtZk93YW9TQjFjaDVTc3hnQjJpZ1VTbjNqVXRyUkN6OF8zZ0t1bHN5Mk1fUUl5bEpheER2NUxxR1RYY0RibW1mMy1kWXg3Z1lyeEEwck9ibGF1TU43Q1BqZGYtb2tpOFNrS3E1SnlQamRpU3d1M2ZSa3JHeGtYZFBNUDU3VUIwcF94RGo5SFA?oc=5",
-   "published": "2026-11-24T17:53:46+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Russian Cargo Mission Launches To Space Station",
-   "source": "Aviation Week",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmdqUm52MkxnWGY0RmhXNzUzODRxOEdzZU4yNU1kUEphbENWSUxld2pSZmhSTzFzaXVCd3dNbEZvOEdhRGR6Vm9aOGp3V3RKNndvWWkyRFBZdlAxUURzMUFJRmZXYUh1STJCQ0FxR3pFeV96RlFpN1RfNnBsa1JKQ1hPd0V6aldTdGlVUll2R2tVUnBRV1p0NUZ6QQ?oc=5",
-   "published": "2026-11-24T17:47:45+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "news",
-   "title": "Obesity: Lombardy’s breakthrough – free medication for the most vulnerable, “but now we need a national law”",
-   "source": "Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdW1POVlNQURoNVZONGFweWdZc2RxU2JGSlNVbGVNX1h6eUw2VEJfeldEcVpVRVJkSlRibHJiRTFCV0RHcXE2Y0dzcEc4RVJxVk5KalBqOTcxNmlZZXlBcHFYcXZEWnhHNjM4elNCaTFNSm9HWFN3aGpwZVRfSGYyUy1BNFQ1WnZleHRTSkd2cllWUF9hTkZieDZ6TWpwMGVBMHF4NzR0VGNGVm1GNDVCUDRNNFlpS3BYM0FiR0lTelQ2cF8tSkhuQWd0cXpSWUNPcFFMZ1hrRG5zVWtFZUdfdQ?oc=5",
-   "published": "2026-11-24T17:47:37+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "news",
-   "title": "Manchester United 19th, Supercomputer Predicts Relegation Risk",
-   "source": "조선일보",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0Q4ZzgtSXJFQzFSdmFBUHZaeVhrc1FoTExZVFJNcUR6UmhRQ1NCVWYwYzRYZjh5cUdESEhKRDM4UnhQVUl4Y25aeTdqWDEtaUxoUWxYbUFINVBRNS1nYjBxTnJtZnUzVHMwaTdRcEdCNGZySURvd1FxcHRUamtlbzRfdFRfZw?oc=5",
-   "published": "2026-11-24T17:46:01+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "A unified framework for carbon dioxide removal—with an ocean view",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mbjhqOFFObzk0SkI1VFZZVTdQc2l1Y0J3SHYwYVZ4anBrLVQ2Y1I5VWpwQ0JOT2E4Zk1wRlpXNmpMLTM0WjNEV3lvSlJMdmNPbWlNVkVVUWl2NTFNY0FUZlljV05Wc3E4NXJWZUJUZjhEYVVoWWFzOTBB?oc=5",
-   "published": "2026-11-24T17:40:10+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Getting blood out of bone",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-blood-bone.html",
-   "published": "2026-11-24T17:40:06+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:techxplore",
-   "title": "Excess renewable energy could power new industrial processes",
-   "source": "techxplore",
-   "link": "https://techxplore.com/news/2026-11-excess-renewable-energy-power-industrial.html",
-   "published": "2026-11-24T17:40:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "redakcja",
-   "title": "Tidal will ban fully AI-generated music on December 9",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXpucU9sTjVyYnEzUnJtYnZ1M1NUUUxLZFpCTWp4SktXdzJFMzJxNnk4ODdERXI0N200VGZFWDhqSU9PNmF1aGItSjVUd0ZhWkRBb0FIUlpDTGdDbExqWFpRbGtpTDZTaXlib0MzOUdKR1BDZlplYklJaDVvU2JGUkZpcTVqMTNxM2xTMTdIVlJLUzg?oc=5",
-   "published": "2026-11-24T17:34:34+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "ai-it",
-   "kind": "redakcja",
-   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXpucU9sTjVyYnEzUnJtYnZ1M1NUUUxLZFpCTWp4SktXdzJFMzJxNnk4ODdERXI0N200VGZFWDhqSU9PNmF1aGItSjVUd0ZhWkRBb0FIUlpDTGdDbExqWFpRbGtpTDZTaXlib0MzOUdKR1BDZlplYklJaDVvU2JGUkZpcTVqMTNxM2xTMTdIVlJLUzg?oc=5",
-   "published": "2026-11-24T17:34:34+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Lake Mead’s water level ended October at its lowest point since it was first filled in 1937",
-   "source": "Earth.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWwyWVZoVGY2MG1kWndvaHFkRWRDeUFYM2J4aVY2MUZweHFyZ1hldHRNSU8tS2RkMVRrTXoxLVFxc2pxeFUyV2VQVkI0bURtYVpCdWN4VmVFOUlrTVExUlUxb2s2V1k1aUcyX1NhXzBab0pGY29mbVEyUWdod3U1MUpVZ0FaRlFld3JnaUFyOE9DY09wR2lGdzRYdDAwM1ZWNGMw?oc=5",
-   "published": "2026-11-24T17:30:12+00:00",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
-   "published": "2026-11-24T17:30:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "rss:ie",
-   "title": "US-built world’s fastest six-legged soft robot hits 10.6 mph using compressed air",
-   "source": "ie",
-   "link": "https://interestingengineering.com/ai-robotics/us-electronics-soft-robot-compressed-air",
-   "published": "2026-11-24T17:26:14+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:breaking-def",
-   "title": "The Army has told us how it fights. We can’t do that in an analog tank.",
-   "source": "breaking-def",
-   "link": "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank/",
-   "published": "2026-11-24T17:23:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Simple 'grow-and-repel' rule explains how brain immune cells organize themselves to protect nervous tissue",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-simple-repel-brain-immune-cells.html",
-   "published": "2026-11-24T17:20:05+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "New research reveals a bias in employee reference checks",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-reveals-bias-employee.html",
-   "published": "2026-11-24T17:20:01+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "redakcja",
-   "title": "Two tech companies tried to reinvent the e-bike. Why DJI's Amflow soared while Rivian's ALSO floundered",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2phMjdGcGQ2Vjg4V1JELXpwUElyaTVwMkFKakdrZG9aaUpfWTgxT3dYQTNyODctSkhDdTIwOEZ0WkZTdU5pcmtQSzk4QnlNZkdYbHVGTFZJdy11YzRmX0I1S1g0X29NaXdITVhnM2E1ZUN0cUQ4enQ2UTF5LTdZdW5fZVpaOWlIUTVXbmdxQjFHN1ZIOWVFZ2VTT1RXUko4R3Y5QTlpUk9QUmxHUVBpTzRRVFRQRTlzc2VuOTFBYUpjYmJnRmNaaHhqMjE?oc=5",
-   "published": "2026-11-24T17:19:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "transport",
-   "kind": "redakcja",
-   "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXQ2eXFoR3Q0QjRDMWVJb0QxQjI3eHo1cGpHUlpBUS1Wa3JYcUw4NjR0VFlCeXlTbHRSeXI5TFh6RkpxZDRqZjdfTXNGMDIwbTFGSmJ6YXBRTHhsUGhlVV85anY5c0NlV2pTNThHRzZycGtubWJ6aUdCSGpIaThJcDUyWmlSM3VCdzgwMFpweEE?oc=5",
-   "published": "2026-11-24T17:16:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "As Ukraine sinks Russian ships, some NATO nations voice anxiety over war's spread to new regions",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdE9zdHFOVFhJVDRnREpDbTllbWRuNUtiM1pFNVZyLXVJeFY2eVhLMTdsV0xJUVlqcHQ2UlJEQnlSNjBUb1Y4cnlmaTVhWG81bjA5Yi1IblNQMUx4SzRFVHZuNGZoVVoxNEQ5WVF2Sm1CZFVrSGxkejFYamV0QVUtOUpCSFBOZFcwTmRSOVloX2JpNU5RdGVlN05jdw?oc=5",
-   "published": "2026-11-24T17:16:00+00:00",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:wnn",
-   "title": "Start-up milestones for Indian plants",
-   "source": "wnn",
-   "link": "https://www.world-nuclear-news.org/articles/start-up-milestones-for-indian-plants",
-   "published": "2026-11-24T17:10:59+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "rss:power-mag",
-   "title": "Landmark NRC Construction Permit Ushers in Next Phase for Dow’s Xe-100 HTGR Nuclear Project",
-   "source": "power-mag",
-   "link": "https://www.powermag.com/landmark-nrc-construction-permit-ushers-in-next-phase-for-dows-xe-100-htgr-nuclear-project/",
-   "published": "2026-11-24T17:06:43+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "energetyka",
-   "kind": "news",
-   "title": "A Look Inside the UK's First-Ever Geothermal Power Plant",
-   "source": "AZoCleantech",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fQTE3Rmw1bWwtUHA1X19nVExvdTF0VkQ0bVdFMElxNDBYWlc3U1ZQZHluVXRjVHBYMzg2QWg1RFZWTl9QY1VRcWR2dk5JekRpLVFZNDhUUVVvVE9SQ3FoUzk4X0trYVU?oc=5",
-   "published": "2026-11-24T17:05:37+00:00",
-   "seen": "2026-11-25T13:07:29.538657+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Four decades of citizen science reveal widespread declines in native plant distributions in Japan",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-decades-citizen-science-reveal-widespread.html",
-   "published": "2026-11-24T17:00:09+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Tiny tracker reveals the longest ever recorded hummingbird migration",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-tiny-tracker-reveals-longest-hummingbird.html",
-   "published": "2026-11-24T17:00:04+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "Purdue Unveils 224-Mile Autonomous Drone Corridor",
-   "source": "General Aviation News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEFiWjk5UVdrU3Z0M19FX0RUUW9DRmZaQmNudm84Y2MtVnZaTTZKcF9oaUsyS2xMVjZCWGJpaVFuTEpxZEpTVlA0OUI2U3FEckRjSF84U2Vfb3dRck15UzcwVXBDQWtEX3ZPTmNPUEY1d0VEZERhOGlRcUczaVFyVFlRRmRzOVRVdlFnZVA1RVJGTGpfbmxUbw?oc=5",
-   "published": "2026-11-24T17:00:00+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Dividends of China’s tech advance reach well beyond its territories",
-   "source": "chinadailyhk",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuNFB2SmdWc0t5VkUzRVcwam1OVUs0WXdwZC1ybGhzLXNWVTNvMWFiY0Fqb0ZFVXFHTTlrM0k2UzBMaDFla004SHozYUhjU3pqVVAwM092bmI?oc=5",
-   "published": "2026-11-24T16:58:40+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-   "source": "Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3hRZGQ1bkNFUDd4a0NBUk42RzlZWS1IQ2RjVS1DUVo0el9lV1BTSXNVeXhlVmdQN284QlNDbk94UGZMTHVXU3MtQ0Q5ZnZGSy16QWhjU3IwdTFQQzEtenpabFZ1WUZIa3p6S1lZOUV4b1BYOTdkdEFEM0JtR1kxb3ZqbFZzSV9Vb1R2WjR3dUhzamJaa1dpblRQcTFuX3VEaWdfaWFR?oc=5",
-   "published": "2026-11-24T16:58:20+00:00",
-   "tier": "T2",
-   "seen": "2026-11-25T02:34:27.125977+00:00"
-  },
-  {
-   "cat": "przemysl",
-   "kind": "rss:newatlas",
-   "title": "Robotic shoe cleaning system promises to spruce up your kicks anytime",
-   "source": "newatlas",
-   "link": "https://newatlas.com/consumer-tech/robotic-shoe-cleaning-brolan-clearx/",
-   "published": "2026-11-24T16:57:00+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "A historic space mission: China is to send a Pakistani astronaut into space",
-   "source": "UkrMedia News",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmZrdk9KR2l0M0hTdEY1T0stYnZhdzU5QjlVaHBlQjlfOF94Z1gtRS1KZEdIVFdLVC1hLVJwU3NQUS1GVndsd3EyRkFSVHBHVnI3N1gtS1dYTVBWQ0lUZzdfUlBjcU52bXE0T1cxQzQ5M2hUeXRnQ29kWlc4UGhuaUxtS3U1dw?oc=5",
-   "published": "2026-11-24T16:56:26+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Cieszyn: robot chirurgiczny za ponad 8 mln zł. Szpital zakończył inwestycje warte 77 mln zł",
-   "source": "Alert Medyczny",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnNwazNlcXJMNkFaSlR4a25FYmVPQThNSVMzMllXQV90WXpOMFRPbjRNcUFvWGlrSUVaVEhjNy1PbE1sY3FXS0FSVEZ5VUJ4SGttWDVOQ0s1ZXRHTnFQdVI5ZEQwNUFBOXRkbmswaUY3Z0dtSGd3TGI0Skd1YkpEN090VTdDOVk3LS1hNmE2SnpKQjFVZlJqY3M5ZGxwRzhyRDNZV1Q5NjNFSU1pWFlKNFBtTWZsdw?oc=5",
-   "published": "2026-11-24T16:55:00+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Western intelligence says Russia's nuclear anti-satellite weapon could be launch-ready by December",
-   "source": "Latin Times",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3ZMRFpldHZuYkE5Vl9zM21RVTRaZVA4X29BdGtJcHEyQ0JzaHhnWU9qeEVidm56NDV2dFBEM00tQU04T3h5bXpaNFNTVHRjbXhXM01iYU9pa3dIVnJqRmpReUpTQ0ZqNVdjTHBkNEY3UWIxZWFzdklGUUZNZE1WbkY3bWVXTDVBd0Z3?oc=5",
-   "published": "2026-11-24T16:52:17+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "rss:nasa",
-   "title": "Webb Reveals New Details in Supernova Remnant",
-   "source": "nasa",
-   "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-   "published": "2026-11-24T16:51:27+00:00",
-   "tier": "T1",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "rss:breaking-def",
-   "title": "Investment firm Cerberus to buy space business of US Airbus arm",
-   "source": "breaking-def",
-   "link": "https://breakingdefense.com/2026/11/investment-firm-cerberus-to-buy-space-business-of-us-airbus-arm/",
-   "published": "2026-11-24T16:49:45+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "*",
-   "kind": "pl",
-   "title": "Do uderzenia na Most Krymski Ukraina użyła alternatywy Starlinka. Nowa technologia komunikacji podniosła drony na wojnie na wyższy poziom",
-   "source": "Forsal.pl",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFBWTmlwX240Q1RaMTk2ancwMUM0NGdRczBfck50WEpOZHNtNWxDZkczVjAtMW1qNmVqeU9DVnVXdDh5Ukd6VHA0a1dBTFg1MGMyS3dtT2JnN3BtMVZIRW03Y1FRcnBIeXgxWlJObkViQ0VsdkR6YUZLLTMxNHdVOEpHcXVNMTF3eGxhdXJMcUE1RUVKR3pWVkQ0elhOTjhoTjYwUU0zdDZfZHpTWFJkWG5sZ3FBcXZKWnkwREFkQk5JWTVNMGZBUFNUNA?oc=5",
-   "published": "2026-11-24T16:47:41+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "British police to test drone detection system in London — The National",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEtIVXVoS0xFR0xlaF9kcHlxQldlYjRWbTJsa0N5X1Z4VUdIUTZSV1BTNEYtbG5RcjlnX29jX2xpemVOUTlGS19JQXZNZ1BIOFlkUzMycC03MWY4eVUwRkJOYkNjUGtqblBCSnhyc1ZNZU90SEFhVktYZ1NyQkFVQ3lLTTZPejEtREN5RjFXblcxakFpcUI2NlVNeGNOUENtTnlDVG1ISEp5TlhqU1ZKWmdR?oc=5",
-   "published": "2026-11-24T16:43:37+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "Kazakhtelecom and Amazon Leo plan to launch satellite internet in 2027",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUVIOVFoYV9MbGdLWDk1cDBpZ182Ni1pTHlmUEVrUm1yeC0yTzZlb1RqTVJVWk10S3h2eEVjQ2F3YXVITlJTVXkyN1FCNkl2czVGN29sWlVSelVPQW9VbHFlLXo3ellnYzdNTktjcjdmNEpZT1JsRjk0RVUyc0VETFliWUR1eHJNYm5pVi1UVEpsejVoZ01wQ0U1S1ppNzJSV1BHUXhiLS1Kekw2QkNQRWdxMA?oc=5",
-   "published": "2026-11-24T16:42:51+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "kosmos",
-   "kind": "news",
-   "title": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?",
-   "source": "Live Science",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb1VpZ01LeTZVT1dCcG4zVk9ZWVVFdExCcU8tNjVTVXMxRlBKRU11RWtfSnJLdzJLODNDaEJvLUZkR1UzMVhDSTlxck10M0k3dFJIVEptaVJ0cVpzTFZNc1g4cGd0NEh0RE1EbEducjVyeHl1dEJPcmxScXgtMXNQc3ZrWndsNy1ZeXQ2b3hZRk52czl1Z3NpYjh5VVVqQkdsUTdlLWo3aXBoSV8wQzJ3UGdYSTJaUkpFamZPbm1FV1RiekQxMnc3UXFZSW1jZHpJ?oc=5",
-   "published": "2026-11-24T16:41:44+00:00",
-   "seen": "2026-11-25T22:36:49.552804+00:00"
-  },
-  {
-   "cat": "militaria",
-   "kind": "news",
-   "title": "\"NATO countries have 17%, we set it at 25%\". Fedorov explains Ukrainian drone makers' success",
-   "source": "LIGA.net",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelkyZzZTOTNUUlJoN3h1bnhWY01vc0FJODJ3Q3ctcGU1Y2R2N2xQaHozay1NRTBhZVM2YUh3Vy1Cc05qQ2hXY0pBdWdGQjE5R29lZnRPbHFMWl9tTUhfYXp1SDRQZDJ5MGUydnUzQW5GcG5McmcwbEdpejk5SnVnMXFXSWtQcW5YRVBqazhSNHNJZ0s5V1Z1ZDRfcjNKMlZ6ekdueWR0ZGxmUV93M3BZLS00ZHNaVHFIZkh1UVlaTUw3WTDSAcgBQVVfeXFMTTd1MFlnS3l6cWZFRDA5RnV3aTR1TEJwdGFkZjc3anVJeTZDSlUwRHFDdzB3aU9NWlJmOEszcTFHN1loQnh6Ny1VZFpEbGcyWld5cHdTaEpBMTV3enhKQWcxakJEZS1jMXRHRkxXY00wTTRfMkx2em92NFMxVFN2elFrbFlmZk5QR3BDMll3Z196ZkJiSmJoRWhVUkdHTjJYdkpLYlp1TXRMWGxFSzJjNHd2OHRZb1VfS1hiQTBqaWNsN0J4RkFnU00?oc=5",
-   "published": "2026-11-24T16:40:50+00:00",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "rss:phys-org",
-   "title": "Ice near Antarctica's surface could unlock climate clues millions of years old",
-   "source": "phys-org",
-   "link": "https://phys.org/news/2026-11-ice-antarctica-surface-climate-clues.html",
-   "published": "2026-11-24T16:40:13+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Water signals could guide future efforts to image supermassive black hole shadows",
-   "source": "Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POWM2SEM3aHVnc0hUTzJmSDQ4VzVlOFNCMjljS0VBd056RDBLTXJPTVJWNnpHNkZsWG15Wmg5aG8wc0RuU3pBUkVZcXBTQjdxYVhmQUMydF9FSDdzMjQzZHFoVHo5RXl6bU1nbE5HUnJSWFZOUUJBbnlzUkMzLXc?oc=5",
-   "published": "2026-11-24T16:40:02+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
-  },
-  {
-   "cat": "nauka",
-   "kind": "redakcja",
-   "title": "Fred Lambert",
-   "source": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuZDFSdFkwQnktWExCZzJUMngyR2dOYy1HelZ5Ukh4eDF3RU5XcGVQQzlQQlNIMlI3WXEtVEZhdlMxYVZ1MmNIelNWeXpCa3RVWWlFbHZUZw?oc=5",
-   "published": "2026-11-24T16:37:25+00:00",
-   "tier": "T2",
-   "seen": "2026-11-24T17:53:53.321981+00:00"
   }
  ]
 }
